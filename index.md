@@ -14,6 +14,15 @@ This website doesn't look that good because I'm too lazy to make a better one.
 ## Other Experience
 2023- Khan Academy Moderator
 
+## Certificates
+Feburary 5, 2023 CodinGame C++ Certificate
+June 2, 2023 AI-900: Microsoft Azure AI Fundamentals
+June 27, 2023 Google Analytics for Beginner
+June 27, 2023 Google Analytics Individual Qualification
+July 22, 2023 HKIRC Cybersec Training Hub General Staff Training
+July 22, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Senior Management
+July 23, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Finance/Accounting
+
 ## Accomplishments
 2022/23 Hong Kong Olympiad in Informatics Junior Bronze
 2022 & 2023 HKSC 全港中學編程挑戰賽 Finalist2023 HKSC 全港中學編程挑戰賽 Bronze
@@ -48,6 +57,9 @@ IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5)
 - [Image Transformation Simulation for 6x6 screen] https://gist.github.com/codecademydev/c24aeb92c4947f9d2798868c9f051360
 - [Github Handler C++ Library] https://github.com/joshuaSYSS/GitHubHandler/tree/main
 - [Simple Instagram AR effects]
+
+## Reports
+- [Climate Change & Environment Related Stocks' Prices] https://docs.google.com/document/d/e/2PACX-1vQIebyjeus6KKoEWVTtI5rWKOq662k6YqNY1geSmN0wWkA5CL2rTRHHflVn4lk10TYLtK2ej81dYjbu/pub
 
 ## Affilated websites
 - https://github.com/joshuaSYSS
