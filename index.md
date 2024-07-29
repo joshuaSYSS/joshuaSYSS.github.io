@@ -1,3 +1,6 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="https://sandstormit.com/wp-content/uploads/2021/06/incognito-2231825_960_720-1.png">
+</head>
 Hi I am Joshua Choi Kui Wang.
 
 Welcome to my website!<br>
