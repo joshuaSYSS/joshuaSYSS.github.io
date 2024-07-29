@@ -1,18 +1,18 @@
 Hi I am Joshua Choi Kui Wang.
 
-Welcome to my website!
-I like programming, table tennis and badminton.
+Welcome to my website!<br>
+I like programming, table tennis and badminton.<br>
 This website doesn't look that good because I'm too lazy to make a better one.
 
 ## Education
-2018 - 2024 Sing Yin Secondary School
-2024- BSc Computer Science, City University University of Hong Kong
+- 2018 - 2024 Sing Yin Secondary School
+- 2024- BSc Computer Science, City University University of Hong Kong
 
 ## Work Experience
-2024 Summer Research Internship 2024 organised by the Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU
+- Summer Research Internship 2024 organised by the Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU
 
 ## Other Experience
-2023- Khan Academy Moderator
+- 2023- Khan Academy Moderator
 
 ## Certificates
 - Feburary 5, 2023 CodinGame C++ Certificate
@@ -74,5 +74,5 @@ Email me or use Google Chat
 - sy10236@syss.edu.hk
 - kuiwchoi2-c@my.cityu.edu.hk
 
-<br>
+<hr>
 Last Updated 29/7/2024
