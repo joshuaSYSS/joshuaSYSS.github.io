@@ -69,5 +69,10 @@ This website doesn't look that good because I'm too lazy to make a better one.
 - [CodeChef] https://www.codechef.com/users/axehunter
 - [BaekJoon] https://www.acmicpc.net/user/loonatheworld2016
 
+## Contact Me
+Email me or use Google Chat
+- sy10236@syss.edu.hk
+- kuiwchoi2-c@my.cityu.edu.hk
+
 <br>
 Last Updated 29/7/2024
