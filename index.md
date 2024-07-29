@@ -46,7 +46,7 @@ IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5)
 2024全港公開青少年乒乓球錦標賽 U19 Round 64
 屆臣氏集團 - 香港學生運動員奬
 
-## Projects
+## Programming Projects
 - [Integrated Science Club Website Group] https://is-club.netlify.app/
 - [To-Do List Website] memorizablelist.ok73.repl.co
 - [Wine Festival Schedule Website] https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611
