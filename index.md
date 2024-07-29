@@ -7,17 +7,17 @@ Welcome to my website!<br>
 I like programming, table tennis and badminton.<br>
 This website doesn't look that good because I'm too lazy to make a better one.
 
-## Education
+## Education 🏫
 - 2018 - 2024 Sing Yin Secondary School
 - 2024- BSc Computer Science, City University University of Hong Kong
 
-## Work Experience
+## Work Experience 📈
 - Summer Research Internship 2024 organised by the Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU
 
 ## Other Experience
 - 2023- Khan Academy Moderator
 
-## Certificates
+## Certificates 📄
 - Feburary 5, 2023 CodinGame C++ Certificate
 - June 2, 2023 AI-900: Microsoft Azure AI Fundamentals
 - June 27, 2023 Google Analytics for Beginner
@@ -26,16 +26,18 @@ This website doesn't look that good because I'm too lazy to make a better one.
 - July 22, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Senior Management
 - July 23, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Finance/Accounting
 
-## Accomplishments
+## Accomplishments 🏅
 - 2022/23 Hong Kong Olympiad in Informatics Junior Bronze
-- 2022 & 2023 HKSC 全港中學編程挑戰賽 Finalist2023 HKSC 全港中學編程挑戰賽 Bronze
+- 2022 HKSC 全港中學編程挑戰賽 Finalist
+- 2023 HKSC 全港中學編程挑戰賽 Bronze
 - 6th La Salle — Pui Ching Programming Challenge Competitor
 - 7th La Salle — Pui Ching Programming Challenge Merit Prize
 - 2022 & 2023 全港中學生軟件開發邀請賽 (SDIC)  Competitor
 - 2022 Hong Kong Olympiad in Informatics Team Formation Test Competitor
 
--「HKIRC 網絡安全青年計劃 2023 」— 網站安全挑戰賽 Competitor
--「科技創未來 – Tech For Future」創新訓練營及比賽2023 Competitor
+- 「HKIRC 網絡安全青年計劃 2023 」— 網站安全挑戰賽 Competitor
+- 「科技創未來 – Tech For Future」創新訓練營及比賽 2023 Competitor
+
 - 2024 ClimateScience Olympiad Semi-Finalist
 
 - IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5)
@@ -49,7 +51,7 @@ This website doesn't look that good because I'm too lazy to make a better one.
 - 2024全港公開青少年乒乓球錦標賽 U19 Round 64
 - 屆臣氏集團 - 香港學生運動員奬
 
-## Programming Projects
+## Programming Projects 🖥
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 - [To-Do List Website](memorizablelist.ok73.repl.co)
 - [Wine Festival Schedule Website](https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611)
@@ -61,10 +63,10 @@ This website doesn't look that good because I'm too lazy to make a better one.
 - [Github Handler C++ Library](https://github.com/joshuaSYSS/GitHubHandler/tree/main)
 - [Simple Instagram AR effects]
 
-## Reports
+## Reports 📰
 - [Climate Change & Environment Related Stocks' Prices](https://docs.google.com/document/d/e/2PACX-1vQIebyjeus6KKoEWVTtI5rWKOq662k6YqNY1geSmN0wWkA5CL2rTRHHflVn4lk10TYLtK2ej81dYjbu/pub)
 
-## Affilated websites
+## Affilated websites 🌐
 - https://github.com/joshuaSYSS
 - https://github.com/joshuaChoiXD
 - [CodeForces](https://codeforces.com/profile/joshuaChoi)
@@ -72,10 +74,10 @@ This website doesn't look that good because I'm too lazy to make a better one.
 - [CodeChef](https://www.codechef.com/users/axehunter)
 - [BaekJoon](https://www.acmicpc.net/user/loonatheworld2016)
 
-## Contact Me
+## Contact Me 📫
 Email me or use Google Chat
 - sy10236@syss.edu.hk
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 29/7/2024
+Last Updated 30/7/2024
