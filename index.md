@@ -47,27 +47,27 @@ This website doesn't look that good because I'm too lazy to make a better one.
 - 屆臣氏集團 - 香港學生運動員奬
 
 ## Programming Projects
-- [Integrated Science Club Website Group] https://is-club.netlify.app/
-- [To-Do List Website] memorizablelist.ok73.repl.co
-- [Wine Festival Schedule Website] https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611
-- [Typing Analysis] https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing
-- [EvolveDatabase C# Library (TBD)] https://github.com/joshuaChoiXD/EvolveDatabase/tree/main
-- [td-idf C++ Library] https://github.com/joshuaSYSS/tfidf
-- [Alpha Compositing] https://github.com/joshuaSYSS/Alpha-Compositing
-- [Image Transformation Simulation for 6x6 screen] https://gist.github.com/codecademydev/c24aeb92c4947f9d2798868c9f051360
-- [Github Handler C++ Library] https://github.com/joshuaSYSS/GitHubHandler/tree/main
+- [Integrated Science Club Website Group] (https://is-club.netlify.app/)
+- [To-Do List Website] (memorizablelist.ok73.repl.co)
+- [Wine Festival Schedule Website] (https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611)
+- [Typing Analysis] (https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
+- [EvolveDatabase C# Library (TBD)] (https://github.com/joshuaChoiXD/EvolveDatabase/tree/main)
+- [td-idf C++ Library] (https://github.com/joshuaSYSS/tfidf)
+- [Alpha Compositing] (https://github.com/joshuaSYSS/Alpha-Compositing)
+- [Image Transformation Simulation for 6x6 screen] (https://gist.github.com/codecademydev/c24aeb92c4947f9d2798868c9f051360)
+- [Github Handler C++ Library] (https://github.com/joshuaSYSS/GitHubHandler/tree/main)
 - [Simple Instagram AR effects]
 
 ## Reports
-- [Climate Change & Environment Related Stocks' Prices] https://docs.google.com/document/d/e/2PACX-1vQIebyjeus6KKoEWVTtI5rWKOq662k6YqNY1geSmN0wWkA5CL2rTRHHflVn4lk10TYLtK2ej81dYjbu/pub
+- [Climate Change & Environment Related Stocks' Prices] (https://docs.google.com/document/d/e/2PACX-1vQIebyjeus6KKoEWVTtI5rWKOq662k6YqNY1geSmN0wWkA5CL2rTRHHflVn4lk10TYLtK2ej81dYjbu/pub)
 
 ## Affilated websites
 - https://github.com/joshuaSYSS
 - https://github.com/joshuaChoiXD
-- [CodeForces] https://codeforces.com/profile/joshuaChoi
-- [AtCoder] https://atcoder.jp/users/joshuaChoi
-- [CodeChef] https://www.codechef.com/users/axehunter
-- [BaekJoon] https://www.acmicpc.net/user/loonatheworld2016
+- [CodeForces] (https://codeforces.com/profile/joshuaChoi)
+- [AtCoder] (https://atcoder.jp/users/joshuaChoi)
+- [CodeChef] (https://www.codechef.com/users/axehunter)
+- [BaekJoon] (https://www.acmicpc.net/user/loonatheworld2016)
 
 ## Contact Me
 Email me or use Google Chat
