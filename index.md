@@ -61,14 +61,14 @@ This website doesn't look that good because I'm too lazy to make a better one.
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 - [Image Transformation Simulation for 6x6 screen](https://gist.github.com/codecademydev/c24aeb92c4947f9d2798868c9f051360)
 - [Github Handler C++ Library](https://github.com/joshuaSYSS/GitHubHandler/tree/main)
-- [Simple Instagram AR effects]
+- Simple Instagram AR effects
 
 ## Reports 📰
 - [Climate Change & Environment Related Stocks' Prices](https://docs.google.com/document/d/e/2PACX-1vQIebyjeus6KKoEWVTtI5rWKOq662k6YqNY1geSmN0wWkA5CL2rTRHHflVn4lk10TYLtK2ej81dYjbu/pub)
 
 ## Affilated websites 🌐
-- https://github.com/joshuaSYSS
-- https://github.com/joshuaChoiXD
+- [https://github.com/joshuaSYSS](https://github.com/joshuaSYSS)
+- [https://github.com/joshuaChoiXD](https://github.com/joshuaChoiXD)
 - [CodeForces](https://codeforces.com/profile/joshuaChoi)
 - [AtCoder](https://atcoder.jp/users/joshuaChoi)
 - [CodeChef](https://www.codechef.com/users/axehunter)
@@ -76,8 +76,8 @@ This website doesn't look that good because I'm too lazy to make a better one.
 
 ## Contact Me 📫
 Email me or use Google Chat
-- sy10236@syss.edu.hk
-- kuiwchoi2-c@my.cityu.edu.hk
+- <a href=mailto:"sy10236@syss.edu.hk">sy10236@syss.edu.hk</a>
+- <a href=mailto:"kuiwchoi2-c@my.cityu.edu.hk">kuiwchoi2-c@my.cityu.edu.hk</a>
 
 <hr>
 Last Updated 30/7/2024
