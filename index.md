@@ -76,8 +76,8 @@ This website doesn't look that good because I'm too lazy to make a better one.
 
 ## Contact Me 📫
 Email me or use Google Chat
-- <a href=mailto:"sy10236@syss.edu.hk">sy10236@syss.edu.hk</a>
-- <a href=mailto:"kuiwchoi2-c@my.cityu.edu.hk">kuiwchoi2-c@my.cityu.edu.hk</a>
+- sy10236@syss.edu.hk
+- kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
 Last Updated 30/7/2024
