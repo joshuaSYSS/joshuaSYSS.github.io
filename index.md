@@ -63,6 +63,9 @@ This website doesn't look that good because I'm too lazy to make a better one.
 - [Github Handler C++ Library](https://github.com/joshuaSYSS/GitHubHandler/tree/main)
 - Simple Instagram AR effects
 
+## Unpublished Papers 📕
+- [Proposal of a typing game](https://drive.google.com/file/d/1MLEPK0MOi32IGfM43FAsqUbAgeNFC9To/view?usp=drivesdk)
+
 ## Reports 📰
 - [Climate Change & Environment Related Stocks' Prices](https://docs.google.com/document/d/e/2PACX-1vQIebyjeus6KKoEWVTtI5rWKOq662k6YqNY1geSmN0wWkA5CL2rTRHHflVn4lk10TYLtK2ej81dYjbu/pub)
 
