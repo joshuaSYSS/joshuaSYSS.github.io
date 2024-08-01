@@ -65,6 +65,7 @@ This website doesn't look that good because I'm too lazy to make a better one.
 
 ## Unpublished Papers 📕
 - [Proposal of a typing game](https://drive.google.com/file/d/1MLEPK0MOi32IGfM43FAsqUbAgeNFC9To/view?usp=drivesdk)
+- [Part-of-Speech Keyword Extraction Model for prompt engineering](https://docs.google.com/document/d/e/2PACX-1vT-27zwboWWtkA83QwtnK8MbjA3E7i2O73_faD9FyLAG31fsJk_D7B_Ifi1JWpUYBlU9M3V9xi2Lf3h/pub)
 
 ## Reports 📰
 - [Climate Change & Environment Related Stocks' Prices](https://docs.google.com/document/d/e/2PACX-1vQIebyjeus6KKoEWVTtI5rWKOq662k6YqNY1geSmN0wWkA5CL2rTRHHflVn4lk10TYLtK2ej81dYjbu/pub)
