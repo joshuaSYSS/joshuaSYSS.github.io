@@ -33,8 +33,7 @@ This website doesn't look that good because I'm too lazy to make a better one.
 - 6th La Salle — Pui Ching Programming Challenge Competitor
 - 7th La Salle — Pui Ching Programming Challenge Merit Prize
 - 2022 & 2023 全港中學生軟件開發邀請賽 (SDIC)  Competitor
-- 2022 Hong Kong Olympiad in Informatics Team Formation Test Competitor
-
+- 2022 Hong Kong Olympiad in Informatics Team Formation Test Competitor  
 - 「HKIRC 網絡安全青年計劃 2023 」— 網站安全挑戰賽 Competitor
 - 「科技創未來 – Tech For Future」創新訓練營及比賽 2023 Competitor
 
