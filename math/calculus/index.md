@@ -3,7 +3,7 @@ Calculus is concerned with two basic operations, differentiation and integration
 This introductory calculus course covers differentiation and integration of functions of one variable, with applications.\
 Materials References:\
 [Khan Academy]([https://www.khanacademy.org/math/precalculus](https://www.khanacademy.org/math/ap-calculus-bc))\
-[MIT OCW](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)\
+[MIT OCW](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
 
 ## Prerequisites
 - Basic Algebra Skills
