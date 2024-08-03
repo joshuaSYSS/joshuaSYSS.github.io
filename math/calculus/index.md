@@ -2,7 +2,7 @@
 Calculus is concerned with two basic operations, differentiation and integration, and is a tool used by engineers to determine such quantities as rates of change and areas [1](https://www.sciencedirect.com/topics/mathematics/calculus).\
 This introductory calculus course covers differentiation and integration of functions of one variable, with applications.\
 Materials References:\
-[Khan Academy]([https://www.khanacademy.org/math/precalculus](https://www.khanacademy.org/math/ap-calculus-bc))\
+[Khan Academy](https://www.khanacademy.org/math/ap-calculus-bc)\
 [MIT OCW](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
 
 ## Prerequisites
