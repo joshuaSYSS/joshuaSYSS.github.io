@@ -23,7 +23,7 @@ Hi I am Joshua Choi Kui Wang.
 - July 23, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Finance/Accounting
 
 ## Accomplishments 🏅
-#### Programming and technology related
+### Programming and technology related
 - 2022/23 Hong Kong Olympiad in Informatics Junior Bronze
 - 2022 HKSC 全港中學編程挑戰賽 Finalist
 - 2023 HKSC 全港中學編程挑戰賽 Bronze
@@ -33,36 +33,38 @@ Hi I am Joshua Choi Kui Wang.
 - 2022 Hong Kong Olympiad in Informatics Team Formation Test Competitor  
 - 「HKIRC 網絡安全青年計劃 2023 」— 網站安全挑戰賽 Competitor
 - 「科技創未來 – Tech For Future」創新訓練營及比賽 2023 Competitor
-#### Academic
+### Academic
 - IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5)
 - 2023 - 2024 Sing Yin Secondary School First in Mathematics (Extended Part - Module 1) 
 - 2023 青苗學界進步生
-#### Sports
+### Sports
 - 2022, 2023, 2024 Inter-School Table Tennis Competition 中學校際乒乓球比賽 (2023 & 2024 Kowloon Division Three Champion, 2022 Final Event Cancelled)
 - 2023 Age Group Table Tennis Competition 分齡乒乓球比賽 (Competitor)
 - 2023 All Hong Kong Schools Jing Ying Table Tennis Tournament 全港學界精英乒乓球比賽 (Competitor)
 - 2023 國慶摘星盃 (Bronze)
 - 2024全港公開青少年乒乓球錦標賽 U19 Round 64
 - 屆臣氏集團 - 香港學生運動員奬
-#### Misc.
+### Misc.
 - 2024 ClimateScience Olympiad Semi-Finalist
 
 ## Programming Projects 🖥
-#### Websites
+### Websites
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 - [To-Do List Website](memorizablelist.ok73.repl.co)
 - [Wine Festival Schedule Website](https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611)
-#### Applications
+### Chrome Extension
+- [Simple Timer Extension](https://github.com/joshuaSYSS/simpletimerextension)
+### Applications
 - [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
-#### Library
+### Library
 - [EvolveDatabase C# Library (TBD)](https://github.com/joshuaChoiXD/EvolveDatabase/tree/main)
 - [td-idf C++ Library](https://github.com/joshuaSYSS/tfidf)
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 - [Image Transformation Simulation for 6x6 screen](https://gist.github.com/codecademydev/c24aeb92c4947f9d2798868c9f051360)
 - [Github Handler C++ Library](https://github.com/joshuaSYSS/GitHubHandler/tree/main)
-#### Augmented Reality
+### Augmented Reality
 - Simple Instagram AR effects
-#### Games
+### Games
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (Ludum Dare 52 Submission)
 - [One Life](https://revolution-game.itch.io/one-life) (Winner of Untitled Game Jam #72)
 - [while (true)](https://no1gameexpert.itch.io/while-true) (2nd Place in Untitled Game Jam #73)
