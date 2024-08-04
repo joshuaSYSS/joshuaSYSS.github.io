@@ -44,7 +44,7 @@ Hi I am Joshua Choi Kui Wang.
 - 2023 國慶摘星盃 (Bronze)
 - 2024全港公開青少年乒乓球錦標賽 U19 Round 64
 - 屆臣氏集團 - 香港學生運動員奬
-#### Misc
+#### Misc.
 - 2024 ClimateScience Olympiad Semi-Finalist
 
 ## Programming Projects 🖥
