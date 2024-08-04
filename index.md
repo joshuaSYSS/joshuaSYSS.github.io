@@ -3,10 +3,6 @@
 </head>
 Hi I am Joshua Choi Kui Wang.
 
-Welcome to my website!<br>
-I like programming, table tennis and badminton.<br>
-This website doesn't look that good because I'm too lazy to make a better one.
-
 ## Education 🏫
 - 2018 - 2024 Sing Yin Secondary School
 - 2024- BSc Computer Science, City University University of Hong Kong
@@ -92,4 +88,4 @@ Email me or use Google Chat
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 3/8/2024
+Last Updated 4/8/2024
