@@ -68,6 +68,8 @@ Hi I am Joshua Choi Kui Wang.
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (Ludum Dare 52 Submission)
 - [One Life](https://revolution-game.itch.io/one-life) (Winner of Untitled Game Jam #72)
 - [while (true)](https://no1gameexpert.itch.io/while-true) (2nd Place in Untitled Game Jam #73)
+### Google App Script
+- [Gmail Handler](https://github.com/joshuaSYSS/appScriptGmailHandler)
 
 ## Unpublished Papers 📕
 - [Proposal of a typing game](https://drive.google.com/file/d/1MLEPK0MOi32IGfM43FAsqUbAgeNFC9To/view?usp=drivesdk)
