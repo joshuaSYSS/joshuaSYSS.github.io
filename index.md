@@ -50,8 +50,11 @@ Hi I am Joshua Choi Kui Wang.
 ## Programming Projects 🖥
 ### Websites
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
+  > A responsive website about Integrated Science Club in my school
 - [To-Do List Website](memorizablelist.ok73.repl.co)
+  > An interactive to-do list website that allows user to handle events effectively
 - [Wine Festival Schedule Website](https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611)
+  > A simple but clear website about a Wine Festival Schedule
 ### Chrome Extension
 - [Simple Timer Extension](https://github.com/joshuaSYSS/simpletimerextension)
 ### Applications
