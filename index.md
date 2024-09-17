@@ -57,8 +57,10 @@ Hi I am Joshua Choi Kui Wang.
   > A simple but clear website about a Wine Festival Schedule
 ### Chrome Extension
 - [Simple Timer Extension](https://github.com/joshuaSYSS/simpletimerextension)
+  > A simple timer chrome extension
 ### Applications
 - [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
+  > Application to test typing speed
 ### Library
 - [EvolveDatabase C# Library (TBD)](https://github.com/joshuaChoiXD/EvolveDatabase/tree/main)
 - [td-idf C++ Library](https://github.com/joshuaSYSS/tfidf)
