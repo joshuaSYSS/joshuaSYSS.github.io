@@ -92,9 +92,9 @@ Hi I am Joshua Choi Kui Wang.
 - [BaekJoon](https://www.acmicpc.net/user/loonatheworld2016)
 
 ## Contact Me 📫
-Email me or use Google Chat
+Email me
 - sy10236@syss.edu.hk
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 26/8/2024
+Last Updated 17/9/2024
