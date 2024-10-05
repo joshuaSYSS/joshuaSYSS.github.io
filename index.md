@@ -48,33 +48,54 @@ Hi I am Joshua Choi Kui Wang.
 - 2024 ClimateScience Olympiad Semi-Finalist
 
 ## Programming Projects 🖥
-### Websites
+### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
   > A responsive website about Integrated Science Club in my school
+  > Used HTML, CSS and JavaScript
 - [To-Do List Website](memorizablelist.ok73.repl.co)
   > An interactive to-do list website that allows user to handle events effectively
+  > Used HTML, CSS and JavaScript
 - [Wine Festival Schedule Website](https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611)
   > A simple but clear website about a Wine Festival Schedule
+  > Used HTML and CSS
 ### Chrome Extension
 - [Simple Timer Extension](https://github.com/joshuaSYSS/simpletimerextension)
   > A simple timer chrome extension
+  > Used HTML and JavaScript
 ### Applications
 - [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
   > Application to test typing speed
+  > Used Unity and C#
 ### Library
 - [EvolveDatabase C# Library (TBD)](https://github.com/joshuaChoiXD/EvolveDatabase/tree/main)
-- [td-idf C++ Library](https://github.com/joshuaSYSS/tfidf)
+  > An easy-to-use database library that let users to create their own database system easily
+  > Used C#
+- [tf-idf C++ Library](https://github.com/joshuaSYSS/tfidf)
+  > A library to help users to integrate Term Frequency-Inverse Document Frequency into their own projects
+  > Used C++
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
+  > Alpha Compositing is a way to combine two images using a control image.
+  > Used Python
 - [Image Transformation Simulation for 6x6 screen](https://gist.github.com/codecademydev/c24aeb92c4947f9d2798868c9f051360)
-- [Github Handler C++ Library](https://github.com/joshuaSYSS/GitHubHandler/tree/main)
+  > A simple application that displays image transformation techniques in a 6x6 screen
+  > Used Python
+- [GitHub Handler C++ Library](https://github.com/joshuaSYSS/GitHubHandler/tree/main)
+  > A simple library that assists users to upload their projects onto their GitHub.
+  > Used C++
 ### Augmented Reality
-- Simple Instagram AR effects
+- Instagram AR effects
+  > By using MetaSpark, multiple Instagram AR effects were created.
 ### Games
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (Ludum Dare 52 Submission)
+  > Used Unity and C#
 - [One Life](https://revolution-game.itch.io/one-life) (Winner of Untitled Game Jam #72)
+  > Used Unity and C#
 - [while (true)](https://no1gameexpert.itch.io/while-true) (2nd Place in Untitled Game Jam #73)
+  > Used Unity and C#
 ### Google App Script
 - [Gmail Handler](https://github.com/joshuaSYSS/appScriptGmailHandler)
+  > A simple Gmail Handler that can be integrated into Gmail
+  > Used JavaScript
 
 ## Unpublished Papers 📕
 - [Proposal of a typing game](https://drive.google.com/file/d/1MLEPK0MOi32IGfM43FAsqUbAgeNFC9To/view?usp=drivesdk)
@@ -97,4 +118,4 @@ Email me
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 17/9/2024
+Last Updated 5/10/2024
