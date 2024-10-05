@@ -33,10 +33,12 @@ Hi I am Joshua Choi Kui Wang.
 - 2022 Hong Kong Olympiad in Informatics Team Formation Test Competitor  
 - 「HKIRC 網絡安全青年計劃 2023 」— 網站安全挑戰賽 Competitor
 - 「科技創未來 – Tech For Future」創新訓練營及比賽 2023 Competitor
+
 ### Academic
 - IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5)
 - 2023 - 2024 Sing Yin Secondary School First in Mathematics (Extended Part - Module 1) 
 - 2023 青苗學界進步生
+
 ### Sports
 - 2022, 2023, 2024 Inter-School Table Tennis Competition 中學校際乒乓球比賽 (2023 & 2024 Kowloon Division Three Champion, 2022 Final Event Cancelled)
 - 2023 Age Group Table Tennis Competition 分齡乒乓球比賽 (Competitor)
@@ -44,6 +46,7 @@ Hi I am Joshua Choi Kui Wang.
 - 2023 國慶摘星盃 (Bronze)
 - 2024全港公開青少年乒乓球錦標賽 U19 Round 64
 - 屆臣氏集團 - 香港學生運動員奬
+
 ### Misc.
 - 2024 ClimateScience Olympiad Semi-Finalist
 
@@ -58,14 +61,17 @@ Hi I am Joshua Choi Kui Wang.
 - [Wine Festival Schedule Website](https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611)
   > A simple but clear website about a Wine Festival Schedule
   > Used HTML and CSS
+
 ### Chrome Extension
 - [Simple Timer Extension](https://github.com/joshuaSYSS/simpletimerextension)
   > A simple timer chrome extension
   > Used HTML and JavaScript
+
 ### Applications
 - [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
   > Application to test typing speed
   > Used Unity and C#
+
 ### Library
 - [EvolveDatabase C# Library (TBD)](https://github.com/joshuaChoiXD/EvolveDatabase/tree/main)
   > An easy-to-use database library that let users to create their own database system easily
@@ -82,9 +88,11 @@ Hi I am Joshua Choi Kui Wang.
 - [GitHub Handler C++ Library](https://github.com/joshuaSYSS/GitHubHandler/tree/main)
   > A simple library that assists users to upload their projects onto their GitHub.
   > Used C++
+
 ### Augmented Reality
 - Instagram AR effects
   > By using MetaSpark, multiple Instagram AR effects were created.
+
 ### Games
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (Ludum Dare 52 Submission)
   > Used Unity and C#
@@ -92,6 +100,7 @@ Hi I am Joshua Choi Kui Wang.
   > Used Unity and C#
 - [while (true)](https://no1gameexpert.itch.io/while-true) (2nd Place in Untitled Game Jam #73)
   > Used Unity and C#
+
 ### Google App Script
 - [Gmail Handler](https://github.com/joshuaSYSS/appScriptGmailHandler)
   > A simple Gmail Handler that can be integrated into Gmail
