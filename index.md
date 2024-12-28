@@ -24,6 +24,8 @@ Hi I am Joshua Choi Kui Wang.
 
 ## Accomplishments 🏅
 ### Programming and technology related
+- 2024 49th ICPC Kunming Regional Contest Bronze
+- 2024 49th ICPC Hong Kong Regional Contest Bronze
 - 2022/23 Hong Kong Olympiad in Informatics Junior Bronze
 - 2022 HKSC 全港中學編程挑戰賽 Finalist
 - 2023 HKSC 全港中學編程挑戰賽 Bronze
@@ -127,4 +129,4 @@ Email me
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 5/10/2024
+Last Updated 28/12/2024
