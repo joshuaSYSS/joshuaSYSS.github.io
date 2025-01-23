@@ -37,7 +37,7 @@ Hi I am Joshua Choi Kui Wang.
 - 「科技創未來 – Tech For Future」創新訓練營及比賽 2023 Competitor
 
 ### Academic
-- IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5)
+- IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5) (Took the test in 2024)
 - 2023 - 2024 Sing Yin Secondary School First in Mathematics (Extended Part - Module 1) 
 - 2023 青苗學界進步生
 
@@ -102,18 +102,13 @@ Hi I am Joshua Choi Kui Wang.
   > Used Unity and C#
 - [while (true)](https://no1gameexpert.itch.io/while-true) (2nd Place in Untitled Game Jam #73)
   > Used Unity and C#
+- [Typing game](https://drive.google.com/file/d/1MLEPK0MOi32IGfM43FAsqUbAgeNFC9To/view?usp=drivesdk)
+  > Conducted researches, and other procedures for a industry standard flow when creating a game.
 
 ### Google App Script
 - [Gmail Handler](https://github.com/joshuaSYSS/appScriptGmailHandler)
   > A simple Gmail Handler that can be integrated into Gmail
   > Used JavaScript
-
-## Unpublished Papers 📕
-- [Proposal of a typing game](https://drive.google.com/file/d/1MLEPK0MOi32IGfM43FAsqUbAgeNFC9To/view?usp=drivesdk)
-- [Part-of-Speech Keyword Extraction Model for prompt engineering](https://docs.google.com/document/d/e/2PACX-1vT-27zwboWWtkA83QwtnK8MbjA3E7i2O73_faD9FyLAG31fsJk_D7B_Ifi1JWpUYBlU9M3V9xi2Lf3h/pub)
-
-## Reports 📰
-- [Climate Change & Environment Related Stocks' Prices](https://docs.google.com/document/d/e/2PACX-1vQIebyjeus6KKoEWVTtI5rWKOq662k6YqNY1geSmN0wWkA5CL2rTRHHflVn4lk10TYLtK2ej81dYjbu/pub)
 
 ## Affilated websites 🌐
 - [https://github.com/joshuaSYSS](https://github.com/joshuaSYSS)
@@ -129,4 +124,4 @@ Email me
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 28/12/2024
+Last Updated 23/01/2025
