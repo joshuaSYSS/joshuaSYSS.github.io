@@ -63,6 +63,9 @@ Hi I am Joshua Choi Kui Wang.
 - [Wine Festival Schedule Website](https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611)
   > A simple but clear website about a Wine Festival Schedule
   > Used HTML and CSS
+- [MergeIt](https://poe.com/MergeIt)
+  > Introducing MergeIt, the ultimate tool for combining images and PDFs into a single, seamless PDF document. With an intuitive interface, users can effortlessly upload multiple images and existing PDFs, rearrange them as needed, and merge them into one file. Perfect for creating portfolios, reports, or presentations, MergeIt ensures high-quality output and easy sharing. Streamline your document management and enhance your productivity with MergeIt today!
+  > Created using poe.com App-Creator
 
 ### Chrome Extension
 - [Simple Timer Extension](https://github.com/joshuaSYSS/simpletimerextension)
@@ -124,4 +127,4 @@ Email me
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 23/01/2025
+Last Updated 09/03/2025
