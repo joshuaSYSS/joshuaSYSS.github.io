@@ -63,9 +63,6 @@ Hi I am Joshua Choi Kui Wang.
 - [Wine Festival Schedule Website](https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611)
   > A simple but clear website about a Wine Festival Schedule
   > Used HTML and CSS
-- [MergeIt](https://poe.com/MergeIt)
-  > Introducing MergeIt, the ultimate tool for combining images and PDFs into a single, seamless PDF document. With an intuitive interface, users can effortlessly upload multiple images and existing PDFs, rearrange them as needed, and merge them into one file. Perfect for creating portfolios, reports, or presentations, MergeIt ensures high-quality output and easy sharing. Streamline your document management and enhance your productivity with MergeIt today!
-  > Created using poe.com App-Creator
 
 ### Chrome Extension
 - [Simple Timer Extension](https://github.com/joshuaSYSS/simpletimerextension)
@@ -112,14 +109,15 @@ Hi I am Joshua Choi Kui Wang.
 - [Gmail Handler](https://github.com/joshuaSYSS/appScriptGmailHandler)
   > A simple Gmail Handler that can be integrated into Gmail
   > Used JavaScript
+  
+### AI Creation-Assisted Apps
+- [MergeIt](https://poe.com/MergeIt)
+  > Introducing MergeIt, the ultimate tool for combining images and PDFs into a single, seamless PDF document. With an intuitive interface, users can effortlessly upload multiple images and existing PDFs, rearrange them as needed, and merge them into one file. Perfect for creating portfolios, reports, or presentations, MergeIt ensures high-quality output and easy sharing. Streamline your document management and enhance your productivity with MergeIt today!
+  > Created using poe.com App-Creator
 
 ## Affilated websites 🌐
 - [https://github.com/joshuaSYSS](https://github.com/joshuaSYSS)
 - [https://github.com/joshuaChoiXD](https://github.com/joshuaChoiXD)
-- [CodeForces](https://codeforces.com/profile/joshuaChoi)
-- [AtCoder](https://atcoder.jp/users/joshuaChoi)
-- [CodeChef](https://www.codechef.com/users/axehunter)
-- [BaekJoon](https://www.acmicpc.net/user/loonatheworld2016)
 
 ## Contact Me 📫
 Email me
@@ -127,4 +125,4 @@ Email me
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 09/03/2025
+Last Updated 10/03/2025
