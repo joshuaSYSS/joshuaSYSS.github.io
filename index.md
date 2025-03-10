@@ -120,6 +120,10 @@ Hi I am Joshua Choi Kui Wang.
   > Introducing MergeIt, the ultimate tool for combining images and PDFs into a single, seamless PDF document. With an intuitive interface, users can effortlessly upload multiple images and existing PDFs, rearrange them as needed, and merge them into one file. Perfect for creating portfolios, reports, or presentations, MergeIt ensures high-quality output and easy sharing.
   
   > Created using poe.com App-Creator
+- [CodeElevate](https://poe.com/CodeElevate)
+  > CodeElevate is an innovative application that leverages AI to help users debug and enhance their code effortlessly. With intelligent suggestions and real-time error detection, CodeElevate empowers developers to elevate their programming skills, streamline their workflow, and produce cleaner, more efficient code. Whether you're a beginner or a seasoned pro, CodeElevate transforms coding challenges into opportunities for growth
+
+  > Created using poe.com App-Creator
 
 ## Affilated websites 🌐
 - [https://github.com/joshuaSYSS](https://github.com/joshuaSYSS)
