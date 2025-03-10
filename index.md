@@ -26,9 +26,9 @@ Hi I am Joshua Choi Kui Wang.
 ### Programming and Technology Related
 - 49th ICPC Kunming Regional Contest Bronze
 - 49th ICPC Hong Kong Regional Contest Bronze
-- 2022/23 Hong Kong Olympiad in Informatics Junior Bronze
 - 2023 HKSC 全港中學編程挑戰賽 Bronze
 - 7th La Salle — Pui Ching Programming Challenge Merit Prize
+- 2022/23 Hong Kong Olympiad in Informatics Junior Bronze
 - 2022 Hong Kong Olympiad in Informatics Team Formation Test Competitor
 
 ### Academic
@@ -37,7 +37,7 @@ Hi I am Joshua Choi Kui Wang.
 - 2023 青苗學界進步生
 
 ### Sports
-- 2022, 2023, 2024 Inter-School Table Tennis Competition 中學校際乒乓球比賽 (2023 & 2024 Kowloon Division Three Champion, 2022 Final Event Cancelled)
+- 2023, 2024 Inter-School Table Tennis Competition 中學校際乒乓球比賽 Kowloon Division Three Champion
 - 2023 國慶摘星盃 Bronze
 - 2023 All Hong Kong Schools Jing Ying Table Tennis Tournament 全港學界精英乒乓球比賽 Competitor
 - 2024 全港公開青少年乒乓球錦標賽 U19 Round 64
