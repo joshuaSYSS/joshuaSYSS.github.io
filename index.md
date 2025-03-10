@@ -5,7 +5,7 @@ Hi I am Joshua Choi Kui Wang.
 
 ## Education 🏫
 - 2018 - 2024 Sing Yin Secondary School
-- 2024- BSc Computer Science, City University of Hong Kong
+- Current - BSc Computer Science, City University of Hong Kong
 
 ## Work Experience 📈
 - Summer Research Internship 2024 organised by the Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU
