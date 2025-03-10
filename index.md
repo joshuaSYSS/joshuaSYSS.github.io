@@ -23,7 +23,7 @@ Hi I am Joshua Choi Kui Wang.
 - July 23, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Finance/Accounting
 
 ## Accomplishments 🏅
-### Programming and technology related
+### Programming and Technology Related
 - 49th ICPC Kunming Regional Contest Bronze
 - 49th ICPC Hong Kong Regional Contest Bronze
 - 2022/23 Hong Kong Olympiad in Informatics Junior Bronze
@@ -38,10 +38,9 @@ Hi I am Joshua Choi Kui Wang.
 
 ### Sports
 - 2022, 2023, 2024 Inter-School Table Tennis Competition 中學校際乒乓球比賽 (2023 & 2024 Kowloon Division Three Champion, 2022 Final Event Cancelled)
-- 2023 Age Group Table Tennis Competition 分齡乒乓球比賽 (Competitor)
-- 2023 All Hong Kong Schools Jing Ying Table Tennis Tournament 全港學界精英乒乓球比賽 (Competitor)
-- 2023 國慶摘星盃 (Bronze)
-- 2024全港公開青少年乒乓球錦標賽 U19 Round 64
+- 2023 國慶摘星盃 Bronze
+- 2023 All Hong Kong Schools Jing Ying Table Tennis Tournament 全港學界精英乒乓球比賽 Competitor
+- 2024 全港公開青少年乒乓球錦標賽 U19 Round 64
 - 屆臣氏集團 - 香港學生運動員奬
 
 ### Misc.
@@ -56,7 +55,7 @@ Hi I am Joshua Choi Kui Wang.
   > An interactive to-do list website that allows user to handle events effectively
   > Used HTML, CSS and JavaScript
 - [Wine Festival Schedule Website](https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611)
-  > A simple but clear website about a Wine Festival Schedule
+  > A simple and clear website about the details of a Wine Festival
   > Used HTML and CSS
 
 ### Chrome Extension
@@ -70,9 +69,6 @@ Hi I am Joshua Choi Kui Wang.
   > Used Unity and C#
 
 ### Library
-- [EvolveDatabase C# Library (TBD)](https://github.com/joshuaChoiXD/EvolveDatabase/tree/main)
-  > An easy-to-use database library that let users to create their own database system easily
-  > Used C#
 - [tf-idf C++ Library](https://github.com/joshuaSYSS/tfidf)
   > A library to help users to integrate Term Frequency-Inverse Document Frequency into their own projects
   > Used C++
@@ -85,6 +81,9 @@ Hi I am Joshua Choi Kui Wang.
 - [GitHub Handler C++ Library](https://github.com/joshuaSYSS/GitHubHandler/tree/main)
   > A simple library that assists users to upload their projects onto their GitHub.
   > Used C++
+- [EvolveDatabase C# Library (TBD)](https://github.com/joshuaChoiXD/EvolveDatabase/tree/main)
+  > An easy-to-use database library that let users to create their own database system easily
+  > Used C#
 
 ### Augmented Reality
 - Instagram AR effects
