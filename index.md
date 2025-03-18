@@ -124,6 +124,8 @@ Hi I am Joshua Choi Kui Wang.
   > CodeElevate is an innovative application that leverages AI to help users debug and enhance their code effortlessly. With intelligent suggestions and real-time error detection, CodeElevate empowers developers to elevate their programming skills, streamline their workflow, and produce cleaner, more efficient code. Whether you're a beginner or a seasoned pro, CodeElevate transforms coding challenges into opportunities for growth
 
   > Created using poe.com App-Creator
+- [Task Master](https://poe.com/The_Task_Master_ToDo)
+  > Task Master is a user-friendly to-do list application designed to help you organize your tasks efficiently. With its intuitive interface, you can easily add, prioritize, and track your tasks. Stay focused and boost your productivity with customizable reminders, categories, and progress tracking. Whether for work or personal projects, Task Master ensures you never miss a deadline again. Simplify your life and master your tasks today!
 
 ## Affilated websites 🌐
 - [https://github.com/joshuaSYSS](https://github.com/joshuaSYSS)
@@ -135,4 +137,4 @@ Email me
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 10/03/2025
+Last Updated 18/03/2025
