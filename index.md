@@ -40,7 +40,7 @@ Hi I am Joshua Choi Kui Wang.
 - 2023, 2024 Inter-School Table Tennis Competition 中學校際乒乓球比賽 Kowloon Division Three Champion
 - 2023 國慶摘星盃 Bronze
 - 2023 All Hong Kong Schools Jing Ying Table Tennis Tournament 全港學界精英乒乓球比賽 Competitor
-- 2024 全港公開青少年乒乓球錦標賽 U19 Round 64
+- 2024 全港公開青少年乒乓球錦標賽 U19 Round of 64
 - 屆臣氏集團 - 香港學生運動員奬
 
 ### Misc.
