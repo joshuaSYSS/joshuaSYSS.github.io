@@ -5,22 +5,7 @@ Hi I am Joshua Choi Kui Wang.
 
 ## Education 🏫
 - 2018 - 2024 Sing Yin Secondary School
-- Current - BSc Computer Science, City University of Hong Kong
-
-## Work Experience 📈
-- Summer Research Internship 2024 organised by the Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU
-
-## Other Experience
-- 2023- Khan Academy Moderator
-
-## Certificates 📄
-- Feburary 5, 2023 CodinGame C++ Certificate
-- June 2, 2023 AI-900: Microsoft Azure AI Fundamentals
-- June 27, 2023 Google Analytics for Beginner
-- June 27, 2023 Google Analytics Individual Qualification
-- July 22, 2023 HKIRC Cybersec Training Hub General Staff Training
-- July 22, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Senior Management
-- July 23, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Finance/Accounting
+- 2024 - Current BSc Computer Science, City University of Hong Kong
 
 ## Accomplishments 🏅
 ### Programming and Technology Related
@@ -45,6 +30,21 @@ Hi I am Joshua Choi Kui Wang.
 
 ### Misc.
 - 2024 ClimateScience Olympiad Semi-Finalist
+
+## Work Experience 📈
+- Summer Research Internship 2024 organised by the Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU
+
+## Other Experience
+- 2023 - Current Khan Academy Moderator
+
+## Certificates 📄
+- Feburary 5, 2023 CodinGame C++ Certificate
+- June 2, 2023 AI-900: Microsoft Azure AI Fundamentals
+- June 27, 2023 Google Analytics for Beginner
+- June 27, 2023 Google Analytics Individual Qualification
+- July 22, 2023 HKIRC Cybersec Training Hub General Staff Training
+- July 22, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Senior Management
+- July 23, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Finance/Accounting
 
 ## Programming Projects 🖥
 ### Web Development
