@@ -115,12 +115,8 @@ Hi I am Joshua Choi Kui Wang.
 ### AI Creation-Assisted Apps
 - [MergeIt](https://poe.com/MergeIt)
   > Introducing MergeIt, the ultimate tool for combining images and PDFs into a single, seamless PDF document. With an intuitive interface, users can effortlessly upload multiple images and existing PDFs, rearrange them as needed, and merge them into one file. Perfect for creating portfolios, reports, or presentations, MergeIt ensures high-quality output and easy sharing.
-  
-  > Created using poe.com App-Creator
 - [CodeElevate](https://poe.com/CodeElevate)
-  > CodeElevate is an innovative application that leverages AI to help users debug and enhance their code effortlessly. With intelligent suggestions and real-time error detection, CodeElevate empowers developers to elevate their programming skills, streamline their workflow, and produce cleaner, more efficient code. Whether you're a beginner or a seasoned pro, CodeElevate transforms coding challenges into opportunities for growth
-
-  > Created using poe.com App-Creator
+  > CodeElevate is an innovative application that leverages AI to help users debug and enhance their code effortlessly. With intelligent suggestions and real-time error detection, CodeElevate empowers developers to elevate their programming skills, streamline their workflow, and produce cleaner, more efficient code. Whether you're a beginner or a seasoned pro, CodeElevate transforms coding challenges into opportunities for growth.
 - [Task Master](https://poe.com/The_Task_Master_ToDo)
   > Task Master is a user-friendly to-do list application designed to help you organize your tasks efficiently. With its intuitive interface, you can easily add, prioritize, and track your tasks. Stay focused and boost your productivity with customizable reminders, categories, and progress tracking. Whether for work or personal projects, Task Master ensures you never miss a deadline again. Simplify your life and master your tasks today!
 
