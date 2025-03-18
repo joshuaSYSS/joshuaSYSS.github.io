@@ -49,20 +49,6 @@ Hi I am Joshua Choi Kui Wang.
   > A responsive website about Integrated Science Club in my school
   
   > Used HTML, CSS and JavaScript
-- [To-Do List Website](memorizablelist.ok73.repl.co)
-  > An interactive to-do list website that allows user to handle events effectively
-  
-  > Used HTML, CSS and JavaScript
-- [Wine Festival Schedule Website](https://gist.github.com/joshuaSYSS/267e6e9246099c593dc3fe4357fcc611)
-  > A simple and clear website about the details of a Wine Festival
-  
-  > Used HTML and CSS
-
-### Chrome Extension
-- [Simple Timer Extension](https://github.com/joshuaSYSS/simpletimerextension)
-  > A simple timer chrome extension
-
-  > Used HTML and JavaScript
 
 ### Applications
 - [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
@@ -79,18 +65,6 @@ Hi I am Joshua Choi Kui Wang.
   > Alpha Compositing is a way to combine two images using a control image.
   
   > Used Python
-- [Image Transformation Simulation for 6x6 screen](https://gist.github.com/codecademydev/c24aeb92c4947f9d2798868c9f051360)
-  > A simple application that displays image transformation techniques in a 6x6 screen
-  
-  > Used Python
-- [GitHub Handler C++ Library](https://github.com/joshuaSYSS/GitHubHandler/tree/main)
-  > A simple library that assists users to upload their projects onto their GitHub.
-  
-  > Used C++
-- [EvolveDatabase C# Library (TBD)](https://github.com/joshuaChoiXD/EvolveDatabase/tree/main)
-  > An easy-to-use database library that let users to create their own database system easily
-  
-  > Used C#
 
 ### Augmented Reality
 - Instagram AR effects
@@ -103,8 +77,6 @@ Hi I am Joshua Choi Kui Wang.
   > Used Unity and C#
 - [while (true)](https://no1gameexpert.itch.io/while-true) (2nd Place in Untitled Game Jam #73)
   > Used Unity and C#
-- [Typing game](https://drive.google.com/file/d/1MLEPK0MOi32IGfM43FAsqUbAgeNFC9To/view?usp=drivesdk)
-  > Conducted researches, and other procedures for a industry standard flow when creating a game.
 
 ### Google App Script
 - [Gmail Handler](https://github.com/joshuaSYSS/appScriptGmailHandler)
