@@ -11,10 +11,10 @@ Hi I am Joshua Choi Kui Wang.
 ### Programming and Technology Related
 - 49th ICPC Kunming Regional Contest Bronze
 - 49th ICPC Hong Kong Regional Contest Bronze
-- 2023 HKSC 全港中學編程挑戰賽 Bronze
-- 7th La Salle — Pui Ching Programming Challenge Merit Prize
 - 2022/23 Hong Kong Olympiad in Informatics Junior Bronze
 - 2022/23 Hong Kong Olympiad in Informatics Team Formation Test Competitor
+- 2023 HKSC 全港中學編程挑戰賽 Bronze
+- 7th La Salle — Pui Ching Programming Challenge Merit Prize
 
 ### Academic
 - IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5) (Took the test in 2024)
