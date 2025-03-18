@@ -14,7 +14,7 @@ Hi I am Joshua Choi Kui Wang.
 - 2023 HKSC 全港中學編程挑戰賽 Bronze
 - 7th La Salle — Pui Ching Programming Challenge Merit Prize
 - 2022/23 Hong Kong Olympiad in Informatics Junior Bronze
-- 2022 Hong Kong Olympiad in Informatics Team Formation Test Competitor
+- 2022/23 Hong Kong Olympiad in Informatics Team Formation Test Competitor
 
 ### Academic
 - IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5) (Took the test in 2024)
@@ -38,13 +38,10 @@ Hi I am Joshua Choi Kui Wang.
 - 2023 - Current Khan Academy Moderator
 
 ## Certificates 📄
-- Feburary 5, 2023 CodinGame C++ Certificate
-- June 2, 2023 AI-900: Microsoft Azure AI Fundamentals
-- June 27, 2023 Google Analytics for Beginner
-- June 27, 2023 Google Analytics Individual Qualification
-- July 22, 2023 HKIRC Cybersec Training Hub General Staff Training
-- July 22, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Senior Management
-- July 23, 2023 HKIRC Cybersec Training Hub Job Position Staff Training - Finance/Accounting
+- AI-900: Microsoft Azure AI Fundamentals (2023)
+- HKIRC Cybersec Training Hub General Staff Training (2023)
+- HKIRC Cybersec Training Hub Job Position Staff Training - Senior Management (2023)
+- HKIRC Cybersec Training Hub Job Position Staff Training - Finance/Accounting (2023)
 
 ## Programming Projects 🖥
 ### Web Development
