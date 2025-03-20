@@ -1,7 +1,7 @@
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="https://sandstormit.com/wp-content/uploads/2021/06/incognito-2231825_960_720-1.png">
 </head>
-Hi I am Joshua Choi Kui Wang 蔡居宏.
+Hi I am Joshua Choi Kui Wang 蔡居宏.<br>I live in Hong Kong currently.<br>I like to code.
 
 ## Education 🏫
 - 2018 - 2024 Sing Yin Secondary School
