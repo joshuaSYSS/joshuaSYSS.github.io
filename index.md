@@ -9,11 +9,11 @@ Hi I am Joshua Choi Kui Wang.
 
 ## Accomplishments 🏅
 ### Programming and Technology Related
-- 49th ICPC Kunming Regional Contest Bronze
-- 49th ICPC Hong Kong Regional Contest Bronze
-- 2022/23 Hong Kong Olympiad in Informatics Junior Bronze
+- 49th ICPC Kunming Regional Contest Bronze Medal
+- 49th ICPC Hong Kong Regional Contest Bronze Medal
+- 2022/23 Hong Kong Olympiad in Informatics Junior Bronze Medal
 - 2022/23 Hong Kong Olympiad in Informatics Team Formation Test Competitor
-- 2023 HKSC 全港中學編程挑戰賽 Bronze
+- 2023 HKSC 全港中學編程挑戰賽 Bronze Medal
 - 7th La Salle — Pui Ching Programming Challenge Merit Prize
 
 ### Academic
