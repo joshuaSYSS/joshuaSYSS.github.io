@@ -38,6 +38,7 @@ Hi I am Joshua Choi Kui Wang.
 - 2023 - Current Khan Academy Moderator
 
 ## Certificates 📄
+- CodeChef C++ Online Test and Quiz 100% (2025)
 - AI-900: Microsoft Azure AI Fundamentals (2023)
 - HKIRC Cybersec Training Hub General Staff Training (2023)
 - HKIRC Cybersec Training Hub Job Position Staff Training - Senior Management (2023)
@@ -102,4 +103,4 @@ Email me
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 18/03/2025
+Last Updated 20/03/2025
