@@ -45,6 +45,14 @@ Hi I am Joshua Choi Kui Wang 蔡居宏.<br>I live in Hong Kong currently.<br>I l
 - HKIRC Cybersec Training Hub Job Position Staff Training - Finance/Accounting (2023)
 
 ## Programming Projects 🖥
+### Games
+- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (Ludum Dare 52 Submission)
+  > Used Unity and C#
+- [One Life](https://revolution-game.itch.io/one-life) (Winner of Untitled Game Jam #72)
+  > Used Unity and C#
+- [while (true)](https://no1gameexpert.itch.io/while-true) (2nd Place in Untitled Game Jam #73)
+  > Used Unity and C#
+
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
   > A responsive website about Integrated Science Club in my school
@@ -70,14 +78,6 @@ Hi I am Joshua Choi Kui Wang 蔡居宏.<br>I live in Hong Kong currently.<br>I l
 ### Augmented Reality
 - Instagram AR effects
   > By using MetaSpark, multiple Instagram AR effects were created.
-
-### Games
-- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (Ludum Dare 52 Submission)
-  > Used Unity and C#
-- [One Life](https://revolution-game.itch.io/one-life) (Winner of Untitled Game Jam #72)
-  > Used Unity and C#
-- [while (true)](https://no1gameexpert.itch.io/while-true) (2nd Place in Untitled Game Jam #73)
-  > Used Unity and C#
 
 ### Google App Script
 - [Gmail Handler](https://github.com/joshuaSYSS/appScriptGmailHandler)
