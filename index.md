@@ -32,12 +32,17 @@ My favorite plant is binary tree.<br>
 
 ### Misc.
 - ClimateScience Olympiad Semi-Finalist (2024)
+  > ClimateScience Olympiad is a competition about climate change that is joined by about 100,000 students in 190 countries.
+  > Only the Top 3000 scorers from Quarter-Final advances to Semi-Final.
 
 ## Work Experience 📈
-- Summer Research Internship 2024 organised by the Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU
+- Summer Research Internship organised by the Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (2024)
+  > The Summer Research Internship provides opportunities for secondary school students to undertake engineering-related research attachments for approximately one month at CityU during the summer 2024. Students will be actively engaged in CityU laboratories under the supervision of CityU PhD students and a faculty member as an advisor. 
 
 ## Other Experience
 - Khan Academy Moderator (2023 - Present)
+  > Khan Academy is one of the most well-known online learning resources, and has 120 million yearly learners.
+  > Being a moderator in Khan Academy requires interviewing and demonstrating the capability to handle any type of situations.
 
 ## Certificates 📄
 - CodeChef C++ Online Test and Quiz 100% (2025)
