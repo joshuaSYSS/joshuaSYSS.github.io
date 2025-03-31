@@ -1,5 +1,6 @@
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="https://sandstormit.com/wp-content/uploads/2021/06/incognito-2231825_960_720-1.png">
+  <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
 Hi I am Joshua Choi Kui Wang 蔡居宏.<br><br>
 I am a freshman studying Computer Science in City University of Hong Kong.<br><br>
