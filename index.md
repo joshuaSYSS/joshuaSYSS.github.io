@@ -4,10 +4,13 @@
 </head>
 Hi I am Joshua Choi Kui Wang 蔡居宏.<br><br>
 I am a freshman studying Computer Science in City University of Hong Kong.<br><br>
-My favorite plant is binary tree.<br>
 
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
+  > Dean's List
+  
+  > Grade: 3.79
+
 - Sing Yin Secondary School (2018 - 2024)
 
 ## Accomplishments 🏅
@@ -38,7 +41,8 @@ My favorite plant is binary tree.<br>
 
 ## Work Experience 📈
 - Summer Research Internship organised by the Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (2024)
-  > The Summer Research Internship provides opportunities for secondary school students to undertake engineering-related research attachments for approximately one month at CityU during the summer 2024. Students will be actively engaged in CityU laboratories under the supervision of CityU PhD students and a faculty member as an advisor. 
+  > The Summer Research Internship provides opportunities for secondary school students to undertake engineering-related research attachments for approximately one month at CityU during the summer 2024.
+  > Students will be actively engaged in CityU laboratories under the supervision of CityU PhD students and a faculty member as an advisor. 
 
 ## Other Experience
 - Khan Academy Moderator (2023 - Present)
@@ -123,4 +127,4 @@ Email me
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 25/03/2025
+Last Updated 01/06/2025
