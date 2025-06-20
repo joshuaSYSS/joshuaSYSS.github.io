@@ -3,7 +3,7 @@
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
 Hi I am Joshua Choi Kui Wang 蔡居宏.<br><br>
-I am a freshman studying Computer Science in City University of Hong Kong.<br><br>
+I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br><br>
 
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
@@ -12,37 +12,31 @@ I am a freshman studying Computer Science in City University of Hong Kong.<br><b
   > Grade: 3.79
 
 - Sing Yin Secondary School (2018 - 2024)
+  > First in Mathematics Extended Part - Module 1 (2023 - 2024)
 
 ## Accomplishments 🏅
 ### Programming and Technology Related
-- 49th ICPC Kunming Regional Contest Bronze Medal (2024)
-- 49th ICPC Hong Kong Regional Contest Bronze Medal (2024)
-- Hong Kong Olympiad in Informatics Junior Bronze Medal (2022/23)
-- HKSC 全港中學編程挑戰賽 Bronze Medal (2023)
-- 7th La Salle — Pui Ching Programming Challenge Merit Prize (2023)
-- Hong Kong Olympiad in Informatics Team Formation Test Competitor (2022/23)
+- 49th ICPC Kunming Regional Contest - Bronze Medal (2024)
+- 49th ICPC Hong Kong Regional Contest - Bronze Medal (2024)
+- Hong Kong Olympiad in Informatics Junior - Bronze Medal (2022/23)
+- Hong Kong Secondary School Coding Challenge - Bronze Medal (2023)
+- 7th La Salle — Pui Ching Programming Challenge - Merit Prize (2023)
 
 ### Academic
-- IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5) (Took the test in 2024)
-- Sing Yin Secondary School First in Mathematics Extended Part - Module 1 (2023 - 2024)
-- 青苗學界進步生 (2023)
+- IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5) (Dec 2024)
+- Youth Arch Student Improvement Award (2023)
 
 ### Sports
-- Inter-School Table Tennis Competition 中學校際乒乓球比賽 Kowloon Division Three Champion (2023 & 2024)
+- Inter-School Table Tennis Competition 中學校際乒乓球比賽 Kowloon Division Three Champion (2023)
+- Inter-School Table Tennis Competition 中學校際乒乓球比賽 Kowloon Division Three Champion (2024)
 - 國慶摘星盃 Bronze Medal (2023)
-- All Hong Kong Schools Jing Ying Table Tennis Tournament 全港學界精英乒乓球比賽 Competitor (2023)
-- 全港公開青少年乒乓球錦標賽 U19 Round of 64 (2024)
-- 屆臣氏集團 - 香港學生運動員奬
-
-### Misc.
-- ClimateScience Olympiad Semi-Finalist (2024)
-  > ClimateScience Olympiad is a competition about climate change that is joined by about 100,000 students in 190 countries.
-  > Only the Top 3000 scorers from Quarter-Final advances to Semi-Final.
+- AS Watson Group Hong Kong Student Sports Awards
 
 ## Work Experience 📈
-- Summer Research Internship organised by the Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (2024)
+- Research Assistance | School of Law, CityU (June 2025 - Present)
+- Summer Research Internship | Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
   > The Summer Research Internship provides opportunities for secondary school students to undertake engineering-related research attachments for approximately one month at CityU during the summer 2024.
-  > Students will be actively engaged in CityU laboratories under the supervision of CityU PhD students and a faculty member as an advisor. 
+  > Students will be actively engaged in CityU laboratories under the supervision of CityU PhD students and a faculty member as an advisor.
 
 ## Other Experience
 - Khan Academy Moderator (2023 - Present)
@@ -50,11 +44,7 @@ I am a freshman studying Computer Science in City University of Hong Kong.<br><b
   > Being a moderator in Khan Academy requires interviewing and demonstrating the capability to handle any type of situations.
 
 ## Certificates 📄
-- CodeChef C++ Online Test and Quiz 100% (2025)
 - AI-900: Microsoft Azure AI Fundamentals (2023)
-- HKIRC Cybersec Training Hub General Staff Training (2023)
-- HKIRC Cybersec Training Hub Job Position Staff Training - Senior Management (2023)
-- HKIRC Cybersec Training Hub Job Position Staff Training - Finance/Accounting (2023)
 
 ## Programming Projects 🖥
 ### Games
@@ -65,11 +55,11 @@ I am a freshman studying Computer Science in City University of Hong Kong.<br><b
   
   > Developed the game using Unity game engine.
 - [One Life](https://revolution-game.itch.io/one-life)
-  > This game is a Untitled Game Jam #72 winner.
+  > This game is the Untitled Game Jam #72 winner.
   
   > Developed the game using Unity game engine.
 - [while (true)](https://no1gameexpert.itch.io/while-true)
-  > This game is a Untitled Game Jam #73 runner-up.
+  > This game is the Untitled Game Jam #73 runner-up.
   
   > Developed the game using Unity game engine.
 
@@ -99,32 +89,19 @@ I am a freshman studying Computer Science in City University of Hong Kong.<br><b
   > Alpha Compositing is a way to combine two images using a control image.
   
   > Used Python
-
-### Augmented Reality
-- Instagram AR effects
-  > By using MetaSpark, multiple Instagram AR effects were created.
-
-### Google App Script
-- [Gmail Handler](https://github.com/joshuaSYSS/appScriptGmailHandler)
-  > A simple Gmail Handler that can be integrated into Gmail
-  
-  > Used JavaScript
   
 ### AI Creation-Assisted Apps
 - [MergeIt](https://poe.com/MergeIt)
   > Introducing MergeIt, the ultimate tool for combining images and PDFs into a single, seamless PDF document. With an intuitive interface, users can effortlessly upload multiple images and existing PDFs, rearrange them as needed, and merge them into one file. Perfect for creating portfolios, reports, or presentations, MergeIt ensures high-quality output and easy sharing.
 - [CodeElevate](https://poe.com/CodeElevate)
   > CodeElevate is an innovative application that leverages AI to help users debug and enhance their code effortlessly. With intelligent suggestions and real-time error detection, CodeElevate empowers developers to elevate their programming skills, streamline their workflow, and produce cleaner, more efficient code. Whether you're a beginner or a seasoned pro, CodeElevate transforms coding challenges into opportunities for growth.
-- [Task Master](https://poe.com/The_Task_Master_ToDo)
-  > Task Master is a user-friendly to-do list application designed to help you organize your tasks efficiently. With its intuitive interface, you can easily add, prioritize, and track your tasks. Stay focused and boost your productivity with customizable reminders, categories, and progress tracking. Whether for work or personal projects, Task Master ensures you never miss a deadline again. Simplify your life and master your tasks today!
 
 ## Affilated websites 🌐
 - [https://github.com/joshuaSYSS](https://github.com/joshuaSYSS)
-- [https://github.com/joshuaChoiXD](https://github.com/joshuaChoiXD)
 
 ## Contact Me 📫
 Email me
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 01/06/2025
+Last Updated 20/06/2025
