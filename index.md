@@ -33,7 +33,7 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
 - AS Watson Group Hong Kong Student Sports Awards
 
 ## Work Experience 📈
-- Research Assistance | School of Law, CityU (June 2025 - Present)
+- Research Assistant | School of Law, CityU (June 2025 - Present)
 - Summer Research Internship | Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
   > The Summer Research Internship provides opportunities for secondary school students to undertake engineering-related research attachments for approximately one month at CityU during the summer 2024.
   > Students will be actively engaged in CityU laboratories under the supervision of CityU PhD students and a faculty member as an advisor.
