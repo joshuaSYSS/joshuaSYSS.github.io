@@ -63,7 +63,8 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
   > CodeElevate is an innovative application that leverages AI to help users debug and enhance their code effortlessly. With intelligent suggestions and real-time error detection, CodeElevate empowers developers to elevate their programming skills, streamline their workflow, and produce cleaner, more efficient code. Whether you're a beginner or a seasoned pro, CodeElevate transforms coding challenges into opportunities for growth.
 
 ## Affilated websites 🌐
-- [https://github.com/joshuaSYSS](https://github.com/joshuaSYSS)
+- [Github](https://github.com/joshuaSYSS)
+- [Linkedin](https://www.linkedin.com/in/choikuiwang)
 
 ## Contact Me 📫
 Email me
