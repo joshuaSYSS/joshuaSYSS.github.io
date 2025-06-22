@@ -5,6 +5,13 @@
 Hi I am Joshua Choi Kui Wang 蔡居宏.<br><br>
 I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br><br>
 
+## Skills 🛠️
+- C++
+- Python
+- C#
+- HTML / CSS + JavaScript
+- Unity Game Engine Development
+
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
   > Dean's List (2024 - 2025)
