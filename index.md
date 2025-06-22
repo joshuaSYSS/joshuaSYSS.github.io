@@ -36,11 +36,6 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
 - Research Assistant | School of Law, CityU (June 2025 - Present)
 - Summer Research Internship | Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
 
-## Other Experience
-- Khan Academy Moderator (2023 - Present)
-  > Khan Academy is one of the most well-known online learning resources, and has 120 million yearly learners.
-  > Being a moderator in Khan Academy requires interviewing and demonstrating the capability to handle any type of situations.
-
 ## Certificates 📄
 - AI-900: Microsoft Azure AI Fundamentals (2023)
 
