@@ -38,11 +38,12 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
 - AS Watson Group Hong Kong Student Sports Awards
 
 ## Work Experience 📈
-- Research Assistant | School of Law, CityU (June 2025 - Present)
-- Summer Research Internship | Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
+- Research Assistant by School of Law, CityU (June 2025 - Present)
+- Summer Research Internship by Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
 
 ## Certificates 📄
-- AI-900: Microsoft Azure AI Fundamentals (2023)
+- AI-900: Microsoft Azure AI Fundamentals by Microsoft (2023)
+- Foundations of Security by Google (2025)
 
 ## Programming Projects 🖥
 ### Games
