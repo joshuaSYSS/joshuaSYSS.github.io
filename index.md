@@ -12,7 +12,7 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
   > Grade: 3.79
 
 - Sing Yin Secondary School (2018 - 2024)
-  > First in Mathematics Extended Part - Module 1 (2023 - 2024)
+  > 1st in Mathematics (Extended Part - Module 1) (2023 - 2024)
 
 ## Accomplishments 🏅
 ### Programming and Technology Related
