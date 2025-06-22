@@ -64,11 +64,11 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
 
 ## Affilated websites 🌐
 - [Github](https://github.com/joshuaSYSS)
-- [Linkedin](https://www.linkedin.com/in/choikuiwang)
+- [LinkedIn](https://www.linkedin.com/in/choikuiwang)
 
 ## Contact Me 📫
 Email me
 - kuiwchoi2-c@my.cityu.edu.hk
 
 <hr>
-Last Updated 20/06/2025
+Last Updated 22/06/2025
