@@ -7,9 +7,7 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
 
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
-  > Dean's List
-  
-  > Grade: 3.79
+  > Dean's List (2024 - 2025)
 
 - Sing Yin Secondary School (2018 - 2024)
   > 1st in Mathematics (Extended Part - Module 1) (2023 - 2024)
