@@ -52,7 +52,7 @@ I am currently studying Computer Science in City University of Hong Kong (Cohort
 ### Applications
 - [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
 
-### Library
+### Open-Source Library
 - [tf-idf C++ Library](https://github.com/joshuaSYSS/tfidf)
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
   
