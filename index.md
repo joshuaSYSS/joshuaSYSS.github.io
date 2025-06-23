@@ -37,7 +37,7 @@ I am currently studying Computer Science in City University of Hong Kong (Cohort
 - AI-900: Microsoft Azure AI Fundamentals by Microsoft (2023)
 - Foundations of Cybersecurity by Google (2025)
 
-## Programming Projects 🖥
+## Projects 🖥
 ### Games
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest)
   > This game is a Ludum Dare 52 game jam submission, where participants have to create a game within 72 hours.
