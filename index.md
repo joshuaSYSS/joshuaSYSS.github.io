@@ -65,5 +65,4 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
 - [LinkedIn](https://www.linkedin.com/in/choikuiwang)
 
 ## Contact Me 📫
-Email me
 - [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
