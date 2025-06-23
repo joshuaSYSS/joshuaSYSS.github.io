@@ -7,7 +7,7 @@ I am currently studying Computer Science in City University of Hong Kong (Cohort
 
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
-  > Dean's List (2024 - 2025)
+  > Dean's List (3.7+ GPA) - One Semester
 
 - Sing Yin Secondary School (2018 - 2024)
   > 1st in Mathematics (Extended Part - Module 1) (2023 - 2024)
@@ -29,7 +29,7 @@ I am currently studying Computer Science in City University of Hong Kong (Cohort
 - 國慶摘星盃 Bronze Medal (2023)
 - AS Watson Group Hong Kong Student Sports Awards
 
-## Work Experience 📈
+## Experience 📈
 - Research Assistant by School of Law, CityU (June 2025 - Present)
 - Summer Research Internship by Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
 
