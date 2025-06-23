@@ -3,7 +3,7 @@
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
 Hi I am Joshua Choi Kui Wang 蔡居宏.<br><br>
-I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br><br>
+I am currently studying Computer Science in City University of Hong Kong (Cohort 2024).<br><br>
 
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
