@@ -39,7 +39,7 @@ I am currently studying Computer Science in City University of Hong Kong (Cohort
 
 ## Projects 🖥
 ### Games
-- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest)
+- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (Collaborated with another student from Sing Yin Secondary School)
   > This game is a Ludum Dare 52 game jam submission, where participants have to create a game within 72 hours.
 - [One Life](https://revolution-game.itch.io/one-life)
   > This game is the Untitled Game Jam #72 winner.
