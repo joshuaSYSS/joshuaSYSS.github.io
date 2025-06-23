@@ -35,7 +35,7 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
 
 ## Certificates 📄
 - AI-900: Microsoft Azure AI Fundamentals by Microsoft (2023)
-- Foundations of Security by Google (2025)
+- Foundations of Cybersecurity by Google (2025)
 
 ## Programming Projects 🖥
 ### Games
