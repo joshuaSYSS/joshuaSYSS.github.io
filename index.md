@@ -45,15 +45,15 @@ I am currently studying Computer Science in City University of Hong Kong (Cohort
   > This game is the Untitled Game Jam #72 winner.
 - [while (true)](https://no1gameexpert.itch.io/while-true)
   > This game is the Untitled Game Jam #73 runner-up.
+- [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
 
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 
-### Applications
-- [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
-
-### Open-Source Library
+### Natural Language Processing
 - [tf-idf C++ Library](https://github.com/joshuaSYSS/tfidf)
+
+### Computer Graphics
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
   
 ### AI Creation-Assisted Apps
