@@ -5,13 +5,6 @@
 Hi I am Joshua Choi Kui Wang 蔡居宏.<br><br>
 I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br><br>
 
-## Skills 🛠️
-- C++
-- Python
-- C#
-- HTML / CSS + JavaScript
-- Unity Game Engine Development
-
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
   > Dean's List (2024 - 2025)
@@ -28,7 +21,6 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
 - 7th La Salle — Pui Ching Programming Challenge - Merit Prize (2023)
 
 ### Academic
-- IELTS 7.5 (Listening 9, Reading 7.5, Writing 6.5, Speaking 6.5) (Dec 2024)
 - Youth Arch Student Improvement Award (2023)
 
 ### Sports
@@ -66,9 +58,7 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
   
 ### AI Creation-Assisted Apps
 - [MergeIt](https://poe.com/MergeIt)
-  > Introducing MergeIt, the ultimate tool for combining images and PDFs into a single, seamless PDF document. With an intuitive interface, users can effortlessly upload multiple images and existing PDFs, rearrange them as needed, and merge them into one file. Perfect for creating portfolios, reports, or presentations, MergeIt ensures high-quality output and easy sharing.
 - [CodeElevate](https://poe.com/CodeElevate)
-  > CodeElevate is an innovative application that leverages AI to help users debug and enhance their code effortlessly. With intelligent suggestions and real-time error detection, CodeElevate empowers developers to elevate their programming skills, streamline their workflow, and produce cleaner, more efficient code. Whether you're a beginner or a seasoned pro, CodeElevate transforms coding challenges into opportunities for growth.
 
 ## Affilated websites 🌐
 - [Github](https://github.com/joshuaSYSS)
@@ -76,7 +66,4 @@ I am studying Computer Science in City University of Hong Kong (Cohort 2024).<br
 
 ## Contact Me 📫
 Email me
-- kuiwchoi2-c@my.cityu.edu.hk
-
-<hr>
-Last Updated 22/06/2025
+- [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
