@@ -69,3 +69,4 @@ I am currently studying Computer Science in City University of Hong Kong.<br><br
 
 ## Contact Me 📫
 - [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
+- [joshuachoikuiwang@gmail.com](mailto:joshuachoikuiwang@gmail.com)
