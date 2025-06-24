@@ -39,7 +39,6 @@ I am currently studying Computer Science in City University of Hong Kong.<br><br
 
 ## Projects 🖥
 ### Algorithms
-- [Approximating the Number of Connected Components on an Undirected Graph in Subquadratic Time](https://github.com/joshuaSYSS/ApproxCC)
 - [Approximating the Number of Connected Components on an Undirected Transistive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
 
 ### Computer Graphics
