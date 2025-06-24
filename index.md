@@ -38,6 +38,13 @@ I am currently studying Computer Science in City University of Hong Kong.<br><br
 - Foundations of Cybersecurity, Google (2025)
 
 ## Projects 🖥
+### Algorithms
+- [Approximating the Number of Connected Components on an Undirected Graph in Subquadratic Time](https://github.com/joshuaSYSS/ApproxCC)
+- [Approximating the Number of Connected Components on an Undirected Transistive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
+
+### Computer Graphics
+- [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
+
 ### Games
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (Collaborated with Sammy Tam from Sing Yin Secondary School)
   > This game is a Ludum Dare 52 game jam submission, where participants have to create a game within 72 hours.
@@ -47,19 +54,12 @@ I am currently studying Computer Science in City University of Hong Kong.<br><br
   > This game is the Untitled Game Jam #73 runner-up.
 - [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
 
-### Web Development
-- [Integrated Science Club Website Group](https://is-club.netlify.app/)
-
 ### Natural Language Processing
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
 
-### Computer Graphics
-- [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
+### Web Development
+- [Integrated Science Club Website Group](https://is-club.netlify.app/)
 
-### Algorithms
-- [Approximating the Number of Connected Components on an Undirected Graph in Subquadratic Time](https://github.com/joshuaSYSS/ApproxCC)
-- [Approximating the Number of Connected Components on an Undirected Transistive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
-  
 ### AI Creation-Assisted Apps
 - [MergeIt](https://poe.com/MergeIt)
 - [CodeElevate](https://poe.com/CodeElevate)
