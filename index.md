@@ -44,7 +44,7 @@ I am currently studying Computer Science in CityUHK.<br><br>
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 
 ### Games
-- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, Sing Yin Secondary School)
+- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Tam S.M., Sing Yin Secondary School)
   > This game is a Ludum Dare 52 game jam submission, where participants have to create a game within 72 hours.
 - [One Life](https://revolution-game.itch.io/one-life)
   > This game is the Untitled Game Jam #72 winner.
