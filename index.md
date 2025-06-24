@@ -51,7 +51,7 @@ I am currently studying Computer Science in City University of Hong Kong (Cohort
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 
 ### Natural Language Processing
-- [tf-idf C++ Library](https://github.com/joshuaSYSS/tfidf)
+- [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
 
 ### Computer Graphics
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
