@@ -3,7 +3,7 @@
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
 Hi I am Joshua Choi Kui Wang 蔡居宏.<br><br>
-I am currently studying Computer Science in City University of Hong Kong (Cohort 2024).<br><br>
+I am currently studying Computer Science in City University of Hong Kong.<br><br>
 
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
@@ -30,12 +30,12 @@ I am currently studying Computer Science in City University of Hong Kong (Cohort
 - AS Watson Group Hong Kong Student Sports Awards
 
 ## Experience 📈
-- Research Assistant by School of Law, CityU (June 2025 - Present)
-- Summer Research Internship by Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
+- Research Assistant, School of Law, CityU (June 2025 - Present)
+- Summer Research Internship, Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
 
 ## Certificates 📄
-- AI-900: Microsoft Azure AI Fundamentals by Microsoft (2023)
-- Foundations of Cybersecurity by Google (2025)
+- AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
+- Foundations of Cybersecurity, Google (2025)
 
 ## Projects 🖥
 ### Games
