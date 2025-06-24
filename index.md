@@ -7,21 +7,20 @@ I am currently studying Computer Science in City University of Hong Kong.<br><br
 
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
-  > Dean's List (3.7+ GPA) - One Semester
-
 - Sing Yin Secondary School (2018 - 2024)
-  > 1st in Mathematics (Extended Part - Module 1) (2023 - 2024)
 
 ## Accomplishments 🏅
+### Academic
+- Dean's List (3.7+ GPA) - One Semester, CityU
+- 1st in Mathematics (Extended Part - Module 1), Sing Yin Secondary School (2023 - 2024)
+- Youth Arch Student Improvement Award (2023)
+
 ### Programming and Technology Related
 - 49th ICPC Kunming Regional Contest - Bronze Medal (2024)
 - 49th ICPC Hong Kong Regional Contest - Bronze Medal (2024)
 - Hong Kong Olympiad in Informatics Junior - Bronze Medal (2022/23)
 - Hong Kong Secondary School Coding Challenge - Bronze Medal (2023)
 - 7th La Salle — Pui Ching Programming Challenge - Merit Prize (2023)
-
-### Academic
-- Youth Arch Student Improvement Award (2023)
 
 ### Sports
 - Inter-School Table Tennis Competition 中學校際乒乓球比賽 Kowloon Division Three Champion (2023)
