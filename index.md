@@ -57,7 +57,7 @@ I am currently studying Computer Science in City University of Hong Kong (Cohort
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 
 ### Mathematics Programming Projects
-- [Approximating the number of Connected Components](https://github.com/joshuaSYSS/ApproxCC)
+- [Approximating the Number of Connected Components in an Undirected Graph](https://github.com/joshuaSYSS/ApproxCC)
   
 ### AI Creation-Assisted Apps
 - [MergeIt](https://poe.com/MergeIt)
