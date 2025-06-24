@@ -57,7 +57,7 @@ I am currently studying Computer Science in City University of Hong Kong (Cohort
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 
 ### Algorithms
-- [Approximating the Number of Connected Components in an Undirected Graph in Subquadratic Time](https://github.com/joshuaSYSS/ApproxCC)
+- [Approximating the Number of Connected Components on an Undirected Graph in Subquadratic Time](https://github.com/joshuaSYSS/ApproxCC)
 - [Approximating the Number of Connected Components on an Undirected Transistive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
   
 ### AI Creation-Assisted Apps
