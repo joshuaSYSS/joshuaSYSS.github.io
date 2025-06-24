@@ -23,9 +23,9 @@ I am currently studying Computer Science in CityUHK.<br><br>
 - 7th La Salle — Pui Ching Programming Challenge - Merit Prize (2023)
 
 ### Sports
-- Inter-School Table Tennis Competition 中學校際乒乓球比賽 Kowloon Division Three Champion (2023)
-- Inter-School Table Tennis Competition 中學校際乒乓球比賽 Kowloon Division Three Champion (2024)
-- 國慶摘星盃 Bronze Medal (2023)
+- Inter-School Table Tennis Competition 2022 - 2023 Kowloon Division Three - Champion
+- Inter-School Table Tennis Competition 2023 - 2024 Kowloon Division Three - Champion
+- 國慶摘星盃 - Bronze Medal (2023)
 - AS Watson Group Hong Kong Student Sports Awards
 
 ## Experience 📈
