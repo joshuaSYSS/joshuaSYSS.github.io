@@ -30,7 +30,7 @@ I am currently studying Computer Science in City University of Hong Kong.<br><br
 - AS Watson Group Hong Kong Student Sports Awards
 
 ## Experience 📈
-- Research Assistant, School of Law, CityU (June 2025 - Present)
+- Research Assistant, School of Law, CityU (June, 2025 - Present)
 - Summer Research Internship, Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
 
 ## Certificates 📄
