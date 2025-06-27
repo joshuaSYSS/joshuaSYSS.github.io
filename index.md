@@ -45,7 +45,7 @@ I am currently studying Computer Science in CityUHK.<br><br>
 ### Artificial Intelligence
 #### Natural Language Processing
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
-<!--Include computer vision, and game AI-->
+<!--Include computer vision, game AI, and ML-->
 
 ### Computer Graphics
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
