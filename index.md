@@ -42,8 +42,17 @@ I am currently studying Computer Science in CityUHK.<br><br>
 ### Algorithms
 - [Approximating the Number of Connected Components on an Undirected Transistive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
 
+### Artificial Intelligence
+#### Natural Language Processing
+- [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
+<!--Include computer vision, and game AI-->
+
 ### Computer Graphics
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
+
+<!--Cryptography-->
+
+<!--Data Structures-->
 
 ### Games
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, Sing Yin Secondary School)
@@ -54,8 +63,7 @@ I am currently studying Computer Science in CityUHK.<br><br>
   > This game is the Untitled Game Jam #73 runner-up.
 - [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
 
-### Natural Language Processing
-- [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
+<!--Programming Languages and Compiler-->
 
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
