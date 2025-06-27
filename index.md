@@ -68,6 +68,8 @@ I am currently studying Computer Science in CityUHK.<br><br>
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 
+<!--Open Sourced Projects-->
+
 ### AI Creation-Assisted Apps
 - [MergeIt](https://poe.com/MergeIt)
 - [CodeElevate](https://poe.com/CodeElevate)
