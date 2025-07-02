@@ -19,7 +19,7 @@ I am currently studying Computer Science in CityUHK.<br><br>
 ### Programming and Technology Related
 - 49th ICPC Kunming Regional Contest - Bronze Medal (2024)
 - 49th ICPC Hong Kong Regional Contest - Bronze Medal (2024)
-- Hong Kong Olympiad in Informatics 2022/23 Junior - Bronze Medal
+- Hong Kong Olympiad in Informatics Junior - Bronze Medal (2023)
 - Hong Kong Secondary School Coding Challenge - Bronze Medal (2023)
 - 7th La Salle — Pui Ching Programming Challenge - Merit Prize (2023)
 
