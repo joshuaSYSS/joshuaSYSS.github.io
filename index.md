@@ -33,10 +33,11 @@ I am currently studying Computer Science in CityUHK.<br><br>
 - Summer Research Internship, Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
 
 ## Certificates 📄
-- AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 - Foundations of Cybersecurity, Google (2025)
 - Connect and Protect: Networks and Network Security, Google (2025)
 - Tools of the Trade: Linux and SQL, Google (2025)
+- AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
+- Cybersec Training Hub: IT Training, HKirc (2023)
 
 ## Projects 🖥
 ### Algorithms
