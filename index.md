@@ -7,6 +7,7 @@ I am currently studying Computer Science in CityUHK.<br><br>
 
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
+  > Golden Key Club Member
 - Sing Yin Secondary School (2018 - 2024)
 
 ## Accomplishments 🏅
