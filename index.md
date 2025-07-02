@@ -37,7 +37,7 @@ I am currently studying Computer Science in CityUHK.<br><br>
 - Connect and Protect: Networks and Network Security, Google (2025)
 - Tools of the Trade: Linux and SQL, Google (2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
-- Cybersec Training Hub: IT Training, HKirc (2023)
+- Cybersec Training Hub: IT Training, Hong Kong Internet Registration Corporation (2023)
 
 ## Projects 🖥
 ### Algorithms
