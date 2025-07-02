@@ -35,8 +35,8 @@ I am currently studying Computer Science in CityUHK.<br><br>
 ## Certificates 📄
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 - Foundations of Cybersecurity, Google (2025)
-- Play It Safe: Manage Security Risks, Google (2025)
 - Connect and Protect: Networks and Network Security, Google (2025)
+- Tools of the Trade: Linux and SQL, Google (2025)
 
 ## Projects 🖥
 ### Algorithms
