@@ -83,7 +83,6 @@ I am currently studying Computer Science in CityUHK.<br><br>
 - [Github](https://github.com/joshuaSYSS)
 - [LinkedIn](https://www.linkedin.com/in/choikuiwang)
 - [Twitter](https://twitter.com/6d07698448)
-- [Alison](https://alison.com/profile/49854950)
 
 ## Contact Me 📫
 - [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
