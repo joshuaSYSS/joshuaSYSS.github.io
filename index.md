@@ -29,6 +29,9 @@ I am currently studying Computer Science in CityUHK.<br><br>
 - 國慶摘星盃 - Bronze Medal (2023)
 - AS Watson Group Hong Kong Student Sports Awards
 
+### Scholarships
+- HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship (TDS) (2025)
+
 ## Experience 📈
 - Research Assistant, School of Law, CityU (June, 2025 - Present)
 - Summer Research Internship, Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
