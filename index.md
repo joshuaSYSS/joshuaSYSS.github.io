@@ -10,6 +10,10 @@ I am currently studying Computer Science in CityUHK.<br><br>
   > Golden Key Club Member
 - Sing Yin Secondary School (2018 - 2024)
 
+## Experience 📈
+- Research Assistant, School of Law, CityU (June, 2025 - Present)
+- Summer Research Internship, Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
+
 ## Accomplishments 🏅
 ### Academic
 - Dean's List (3.7+ GPA) - One Semester, CityU
@@ -31,10 +35,6 @@ I am currently studying Computer Science in CityUHK.<br><br>
 
 ### Scholarships
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship (TDS) (2025)
-
-## Experience 📈
-- Research Assistant, School of Law, CityU (June, 2025 - Present)
-- Summer Research Internship, Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
 
 ## Certificates 📄
 - Foundations of Cybersecurity, Google (2025)
