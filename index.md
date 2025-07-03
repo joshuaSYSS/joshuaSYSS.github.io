@@ -75,7 +75,7 @@ I am currently studying Computer Science in CityUHK.<br><br>
 
 <!--Open Sourced Projects-->
 
-### AI Creation-Assisted Apps
+### AI-Assisted Applications
 - [MergeIt](https://poe.com/MergeIt)
 - [CodeElevate](https://poe.com/CodeElevate)
 
