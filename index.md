@@ -59,7 +59,7 @@ I am currently studying Computer Science in CityUHK.<br><br>
 
 <!--Data Structures-->
 
-### Games Development
+### Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, Sing Yin Secondary School)
   > This game is a Ludum Dare 52 game jam submission, where participants have to create a game within 72 hours.
 - [One Life](https://revolution-game.itch.io/one-life)
