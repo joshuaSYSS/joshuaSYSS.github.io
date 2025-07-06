@@ -70,7 +70,7 @@ I am currently studying Computer Science at CityUHK.<br><br>
 - [while (true)](https://no1gameexpert.itch.io/while-true)
   > This game is the Untitled Game Jam #73 runner-up.
 
-<!--### Open Sourced Projects-->
+<!--### Open-Sourced Projects-->
 
 <!--### Programming Languages and Compiler-->
 
