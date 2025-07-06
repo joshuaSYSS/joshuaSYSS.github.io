@@ -3,7 +3,7 @@
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
 Hi I am Joshua Choi Kui Wang 蔡居宏.<br><br>
-I am currently studying Computer Science in CityUHK.<br><br>
+I am currently studying Computer Science at CityUHK.<br><br>
 
 ## Education 🏫
 - BSc Computer Science, City University of Hong Kong (2024 - Present)
@@ -35,15 +35,13 @@ I am currently studying Computer Science in CityUHK.<br><br>
 - 國慶摘星盃 - Bronze Medal (2023)
 - AS Watson Group Hong Kong Student Sports Awards
 
-### Scholarships
+## Scholarships
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship (TDS) (2025)
 
 ## Certificates 📄
 - Foundations of Cybersecurity, Google (2025)
-- Connect and Protect: Networks and Network Security, Google (2025)
-- Tools of the Trade: Linux and SQL, Google (2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
-- Cybersec Training Hub: IT Training, Hong Kong Internet Registration Corporation (2023)
+- CyberSec Training Hub: IT Training, Hong Kong Internet Registration Corporation (2023)
 
 ## Projects 🖥
 ### Algorithms
