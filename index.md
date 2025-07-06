@@ -89,7 +89,7 @@ I am currently studying Computer Science at CityUHK.<br><br>
   >
   > You can now streamline your development process without any hassle.
 
-## Affilated websites 🌐
+## Affilated Websites 🌐
 - [Github](https://github.com/joshuaSYSS)
 - [LinkedIn](https://www.linkedin.com/in/choikuiwang)
 - [Twitter](https://twitter.com/6d07698448)
