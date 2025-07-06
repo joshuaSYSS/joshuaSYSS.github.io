@@ -66,7 +66,6 @@ I am currently studying Computer Science at CityUHK.<br><br>
   > This game is the Untitled Game Jam #72 winner.
 - [while (true)](https://no1gameexpert.itch.io/while-true)
   > This game is the Untitled Game Jam #73 runner-up.
-- [Typing Analysis](https://drive.google.com/file/d/14uewku59n2wDwYXnCJXVe0CYTEyVpZwT/view?usp=sharing)
 
 <!--Programming Languages and Compiler-->
 
