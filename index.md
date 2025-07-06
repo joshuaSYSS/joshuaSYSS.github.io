@@ -6,11 +6,11 @@ Hi I am Joshua Choi Kui Wang 蔡居宏.<br><br>
 I am currently studying Computer Science at CityUHK.<br><br>
 
 ## Education 🏫
-- BSc Computer Science, City University of Hong Kong (2024 - Present)
+- BSc Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/) (2024 - Present)
   > Golden Key Club Member (2025 - Present)
 
   > Competitive Programming School Team (2024 - Present)
-- Sing Yin Secondary School (2018 - 2024)
+- [Sing Yin Secondary School](https://www.singyin.edu.hk/en/) (2018 - 2024)
 
 ## Experience 📈
 - Research Assistant, School of Law, CityU (June, 2025 - Present)
