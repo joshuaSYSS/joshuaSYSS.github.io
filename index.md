@@ -44,20 +44,23 @@ I am currently studying Computer Science at CityUHK.<br><br>
 - CyberSec Training Hub: IT Training, Hong Kong Internet Registration Corporation (2023)
 
 ## Projects 🖥
-### Algorithms
+### Algorithms and Data Structures
 - [Approximating the Number of Connected Components on an Undirected Transistive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
 
 ### Artificial Intelligence
+<!--#### AI Game Programming-->
+
+<!--#### Computer Vision-->
+
+<!--#### Data Analysis using Machine Learning-->
+
 #### Natural Language Processing
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
-<!--Include computer vision, game AI, and ML-->
 
 ### Computer Graphics
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 
-<!--Cryptography-->
-
-<!--Data Structures-->
+<!--### Cryptography-->
 
 ### Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, Sing Yin Secondary School)
@@ -67,12 +70,12 @@ I am currently studying Computer Science at CityUHK.<br><br>
 - [while (true)](https://no1gameexpert.itch.io/while-true)
   > This game is the Untitled Game Jam #73 runner-up.
 
-<!--Programming Languages and Compiler-->
+<!--### Open Sourced Projects-->
+
+<!--### Programming Languages and Compiler-->
 
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
-
-<!--Open Sourced Projects-->
 
 ### AI-Assisted Applications
 - [MergeIt](https://poe.com/MergeIt)
@@ -93,4 +96,3 @@ I am currently studying Computer Science at CityUHK.<br><br>
 
 ## Contact Me 📫
 - [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
-- [joshuachoikuiwang@gmail.com](mailto:joshuachoikuiwang@gmail.com)
