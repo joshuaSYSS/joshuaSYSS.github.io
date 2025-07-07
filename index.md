@@ -79,15 +79,9 @@ I am currently studying Computer Science at CityUHK.<br><br>
 
 ### AI-Assisted Applications
 - [MergeIt](https://poe.com/MergeIt)
-  > Used Poe.com App Creator
-  >
-  > An application that merges PDF files together.
+  > Merging PDF files together.
 - [CodeElevate](https://poe.com/CodeElevate)
-  > Used Poe.com App Creator
-  >
-  > An application that analyzes your code using state-of-the-art AI technology, by providing debugging and feedback features.
-  >
-  > You can now streamline your development process without any hassle.
+  > Analyzes your code using state-of-the-art AI technology, by providing debugging and feedback features.
 
 ## Affilated Websites 🌐
 - [Github](https://github.com/joshuaSYSS)
