@@ -39,8 +39,7 @@ I am currently studying Computer Science at CityUHK.<br><br>
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship (TDS) (2025)
 
 ## Certificates 📄
-- Foundations of Cybersecurity, Google (2025)
-- Automate Cybersecurity Tasks with Python, Google (2025) (Perfect Score 100% Achieved)
+- Google Cybersecurity Professional Certificate, Google (2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 - CyberSec Training Hub: IT Training, Hong Kong Internet Registration Corporation (2023)
 
