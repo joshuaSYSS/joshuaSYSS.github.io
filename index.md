@@ -46,7 +46,7 @@ I am currently studying Computer Science at CityUHK.<br><br>
 
 ## Projects 🖥
 ### Algorithms and Data Structures
-- [Approximating the Number of Connected Components on an Undirected Transistive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
+- [Approximating the Number of Connected Components on an Undirected Transitive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
 
 ### Artificial Intelligence
 <!--#### AI Game Programming-->
