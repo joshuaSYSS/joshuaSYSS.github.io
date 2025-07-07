@@ -40,6 +40,7 @@ I am currently studying Computer Science at CityUHK.<br><br>
 
 ## Certificates 📄
 - Foundations of Cybersecurity, Google (2025)
+- Automate Cybersecurity Tasks with Python, Google (Perfect Score 100% Achieved) (2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 - CyberSec Training Hub: IT Training, Hong Kong Internet Registration Corporation (2023)
 
