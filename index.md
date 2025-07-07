@@ -37,6 +37,7 @@ I am currently studying Computer Science at CityUHK.<br><br>
 
 ## Scholarships
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship (TDS) (2025)
+  > In the area "Innovation, science and technology", around 300 students per year in Hong Kong are given this scholarship.
 
 ## Certificates 📄
 - Google Cybersecurity Professional Certificate, Google (2025)
