@@ -2,8 +2,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="https://sandstormit.com/wp-content/uploads/2021/06/incognito-2231825_960_720-1.png">
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
-Hi I am Joshua Choi Kui Wang 蔡居宏.<br><br>
-I am currently studying Computer Science at CityUHK.<br><br>
+Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong Kong studying Computer Science.<br><br>
 
 ## Education 🏫
 - BSc Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/) (2024 - Present)
@@ -48,8 +47,13 @@ I am currently studying Computer Science at CityUHK.<br><br>
 ### Algorithms and Data Structures
 - [Approximating the Number of Connected Components on an Undirected Transitive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
 
+### Application
+- [MergeIt](https://poe.com/MergeIt)
+
 ### Artificial Intelligence
 <!--#### AI Game Programming-->
+#### AI Application
+- [CodeElevate](https://poe.com/CodeElevate)
 
 <!--#### Computer Vision-->
 
@@ -81,16 +85,9 @@ I am currently studying Computer Science at CityUHK.<br><br>
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 
-### AI-Assisted Applications
-- [MergeIt](https://poe.com/MergeIt)
-  > Merging PDF files together.
-- [CodeElevate](https://poe.com/CodeElevate)
-  > Analyzes your code using state-of-the-art AI technology, by providing debugging and feedback features.
-
 ## Affilated Websites 🌐
 - [Github](https://github.com/joshuaSYSS)
 - [LinkedIn](https://www.linkedin.com/in/choikuiwang)
-- [Twitter](https://twitter.com/6d07698448)
 
 ## Contact Me 📫
 - [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
