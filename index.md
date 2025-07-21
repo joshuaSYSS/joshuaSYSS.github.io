@@ -40,6 +40,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ## Certificates 📄
 - Google Cybersecurity Professional Certificate, Google (2025)
+- Foundations: Data, Data, Everywhere, Google (2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 - CyberSec Training Hub: IT Training, Hong Kong Internet Registration Corporation (2023)
 
