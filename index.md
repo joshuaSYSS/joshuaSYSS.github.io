@@ -36,7 +36,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ## Scholarships
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship (TDS) (2025)
-  > In the area "Innovation, science and technology", around 300 students per year in Hong Kong are given this scholarship.
+  > In the area "Innovation, science and technology", around 300 Hong Kong students per year are given this scholarship.
 
 ## Certificates 📄
 - Google Cybersecurity Professional Certificate, Google (2025)
