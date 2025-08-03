@@ -50,9 +50,6 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 ### Algorithms and Data Structures
 - [Approximating the Number of Connected Components on an Undirected Transitive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
 
-### Application
-- [MergeIt](https://poe.com/MergeIt)
-
 ### Artificial Intelligence
 <!--#### AI Game Programming-->
 #### AI Application
@@ -84,6 +81,11 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 <!--### Open-Sourced Projects-->
 
 <!--### Programming Languages and Compiler-->
+
+### Software Development
+- [MergeIt](https://poe.com/MergeIt)
+- Pricing Club Simulation
+  > Developed during my Research Assistant post in the School of Law, CityU period.
 
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
