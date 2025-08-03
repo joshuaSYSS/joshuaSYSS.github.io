@@ -10,7 +10,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
   >
   > Competitive Programming School Team Member (2024 - Present)
   >
-  > Nominated as PALSI Leader (MA1200 / MA1201) by the Department of Mathematics (2025)
+  > Nominated as PALSI Leader (MA1200 / MA1201) by the Department of Mathematics (2025 Semester A)
 - [Sing Yin Secondary School](https://www.singyin.edu.hk/en/) (2018 - 2024)
 
 ## Experience 📈
