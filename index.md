@@ -9,6 +9,8 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
   > Golden Key Club Member (2025 - Present)
   >
   > Competitive Programming School Team Member (2024 - Present)
+  >
+  > Nominated as PALSI Leader (MA1200 / MA1201) by the Department of Mathematics (2025)
 - [Sing Yin Secondary School](https://www.singyin.edu.hk/en/) (2018 - 2024)
 
 ## Experience 📈
@@ -40,7 +42,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ## Certificates 📄
 - Google Cybersecurity Professional Certificate, Google (2025)
-- Foundations: Data, Data, Everywhere, Google (2025)
+- Google Data Analytics Profession Certificate, Google (2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 - CyberSec Training Hub: IT Training, Hong Kong Internet Registration Corporation (2023)
 
