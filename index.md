@@ -41,7 +41,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ## Certificates 📄
 - Google Cybersecurity Professional Certificate, Google (July 2025)
-- Google Data Analytics Profession Certificate, Google (Aug 2025)
+- Google Data Analytics Professional Certificate, Google (Aug 2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 
 ## Projects 🖥
