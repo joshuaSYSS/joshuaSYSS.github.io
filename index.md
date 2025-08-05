@@ -24,17 +24,13 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 - Youth Arch Student Improvement Award (2023)
 
 ### Programming and Technology Related
-- 49th ICPC Kunming Regional Contest - Bronze Medal (2024)
-- 49th ICPC Hong Kong Regional Contest - Bronze Medal (2024)
+- 49th ICPC Asia Kunming Regional Contest - Bronze Medal (2024)
+- 49th ICPC Asia Hong Kong Regional Contest - Bronze Medal (2024)
 - Hong Kong Olympiad in Informatics Junior - Bronze Medal (2023)
-- Hong Kong Secondary School Coding Challenge - Bronze Medal (2023)
-- 7th La Salle — Pui Ching Programming Challenge - Merit Prize (2023)
 
 ### Sports
 - Inter-School Table Tennis Competition 2022 - 2023 Kowloon Division Three - Champion
 - Inter-School Table Tennis Competition 2023 - 2024 Kowloon Division Three - Champion
-- 國慶摘星盃 - Bronze Medal (2023)
-- AS Watson Group Hong Kong Student Sports Awards
 
 ## Scholarships
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship (TDS) (2025)
@@ -44,7 +40,6 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 - Google Cybersecurity Professional Certificate, Google (2025)
 - Google Data Analytics Profession Certificate, Google (2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
-- CyberSec Training Hub: IT Training, Hong Kong Internet Registration Corporation (2023)
 
 ## Projects 🖥
 ### Algorithms and Data Structures
