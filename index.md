@@ -6,11 +6,9 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ## Education 🏫
 - BSc Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/) (2024 - Present)
-  > Golden Key Club Member (2025 - Present)
-  >
-  > Competitive Programming School Team Member (2024 - Present)
-  >
-  > Nominated as PALSI Leader (MA1200) by the Department of Mathematics (2025 / 2026 Semester A)
+  * Golden Key Club Member (2025 - Present)
+  * Competitive Programming School Team Member (2024 - Present)
+  * Nominated as PALSI Leader (MA1200) by the Department of Mathematics (2025 / 2026 Semester A)
 - [Sing Yin Secondary School](https://www.singyin.edu.hk/en/) (2018 - 2024)
 
 ## Experience 📈
@@ -34,7 +32,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ## Scholarships
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship (TDS) (2025)
-  > In the area "Innovation, science and technology", around 300 Hong Kong students per year are given this scholarship.
+  * In the area "Innovation, science and technology", around 300 Hong Kong students per year are given this scholarship.
 
 ## Certificates 📄
 - Google Cybersecurity Professional Certificate, Google (2025)
@@ -64,11 +62,11 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ### Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, Sing Yin Secondary School)
-  > This game is a Ludum Dare 52 game jam submission, where participants have to create a game within 72 hours.
+  * This game is a Ludum Dare 52 game jam submission, where participants have to create a game within 72 hours.
 - [One Life](https://revolution-game.itch.io/one-life)
-  > This game is the Untitled Game Jam #72 winner.
+  * This game is the Untitled Game Jam #72 winner.
 - [while (true)](https://no1gameexpert.itch.io/while-true)
-  > This game is the Untitled Game Jam #73 runner-up.
+  * This game is the Untitled Game Jam #73 runner-up.
 
 ### Networking
 - [Queqiao C# Matchmaking Library](https://github.com/joshuaSYSS/Queqiao-Library)
@@ -80,7 +78,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 ### Software Development
 - [MergeIt](https://poe.com/MergeIt)
 - Pricing Club Simulation
-  > Developed during my Research Assistant post in the School of Law, CityU period.
+  * Developed during my Research Assistant post in the School of Law, CityU period.
 
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
