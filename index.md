@@ -36,8 +36,8 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 - Hong Kong Olympiad in Informatics Junior - Bronze Medal (Nov 2023)
 
 ### Sports
-- Inter-School Table Tennis Competition 2022 - 2023 Kowloon Division Three - Champion
-- Inter-School Table Tennis Competition 2023 - 2024 Kowloon Division Three - Champion
+- Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion (2022 - 2023)
+- Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion (2023 - 2024)
 
 ## Certificates 📄
 - Google Cybersecurity Professional Certificate, Google (July 2025)
