@@ -4,39 +4,40 @@
 </head>
 Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong Kong studying Computer Science.<br><br>
 
+## Affilated Websites 🌐
+- [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
+- [LinkedIn.com/in/choikuiwang](https://www.linkedin.com/in/choikuiwang)
+
+## Contact Me 📫
+- [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
+
 ## Education 🏫
-- BSc Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/) (2024 - Present)
-  * Golden Key Club Member (2025 - Present)
-  * Competitive Programming School Team Member (2024 - Present)
+- BSc Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/) (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
+  * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (2025)
+  * Dean's List (3.7+ GPA) One Semester
+  * Competitive Programming School Team Member (Sep 2024 - Present)
   * Nominated as PALSI Leader (MA1200) by the Department of Mathematics (2025 / 2026 Semester A)
-- [Sing Yin Secondary School](https://www.singyin.edu.hk/en/) (2018 - 2024)
+
+- [Sing Yin Secondary School](https://www.singyin.edu.hk/en/) (Sep 2018 - May 2024)
+  * 1st in Mathematics (Extended Part - Module 1), Sing Yin Secondary School (2023 - 2024 School Year)
+  * Youth Arch Student Improvement Award (May 2023)
 
 ## Experience 📈
-- Research Assistant, School of Law, CityU (June, 2025 - Present)
-- Summer Research Internship, Bright Future Engineering Talent Hub (the Hub), College of Engineering, CityU (March - July, 2024)
+- Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
 
 ## Accomplishments 🏅
-### Academic
-- Dean's List (3.7+ GPA) - One Semester, CityU
-- 1st in Mathematics (Extended Part - Module 1), Sing Yin Secondary School (2023 - 2024)
-- Youth Arch Student Improvement Award (2023)
-
 ### Programming and Technology Related
-- 49th ICPC Asia Kunming Regional Contest - Bronze Medal (2024)
-- 49th ICPC Asia Hong Kong Regional Contest - Bronze Medal (2024)
-- Hong Kong Olympiad in Informatics Junior - Bronze Medal (2023)
+- 49th ICPC Asia Kunming Regional Contest - Bronze Medal (Dec 2024)
+- 49th ICPC Asia Hong Kong Regional Contest - Bronze Medal (Dec 2024)
+- Hong Kong Olympiad in Informatics Junior - Bronze Medal (Nov 2023)
 
 ### Sports
 - Inter-School Table Tennis Competition 2022 - 2023 Kowloon Division Three - Champion
 - Inter-School Table Tennis Competition 2023 - 2024 Kowloon Division Three - Champion
 
-## Scholarships
-- HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship (TDS) (2025)
-  * In the area "Innovation, science and technology", around 300 Hong Kong students per year are given this scholarship.
-
 ## Certificates 📄
-- Google Cybersecurity Professional Certificate, Google (2025)
-- Google Data Analytics Profession Certificate, Google (2025)
+- Google Cybersecurity Professional Certificate, Google (July 2025)
+- Google Data Analytics Profession Certificate, Google (Aug 2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 
 ## Projects 🖥
@@ -45,8 +46,6 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ### Artificial Intelligence
 <!--#### AI Game Programming-->
-#### AI Application
-- [CodeElevate](https://poe.com/CodeElevate)
 
 <!--#### Computer Vision-->
 
@@ -76,16 +75,13 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 <!--### Programming Languages and Compiler-->
 
 ### Software Development
-- [MergeIt](https://poe.com/MergeIt)
 - Pricing Club Simulation
   * Developed during my Research Assistant post in the School of Law, CityU period.
 
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 
-## Affilated Websites 🌐
-- [Github](https://github.com/joshuaSYSS)
-- [LinkedIn](https://www.linkedin.com/in/choikuiwang)
-
-## Contact Me 📫
-- [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
+## Languages
+- Cantonese (Native Speaker)
+- English (IELTS 7.5 Dec 2023)
+- Mandarin
