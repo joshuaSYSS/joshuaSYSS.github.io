@@ -16,7 +16,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
   * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (July 2025)
   * Dean's List (2024 - 2025 Semester B)
   * Competitive Programming School Team Member (Sep 2024 - Present)
-  * Nominated as PALSI Leader (MA1200) by the Department of Mathematics (2025 - 2026 Semester A)
+  * Nominated as PALSI Leader (Course MA1200 Calculus and Basic Linear Algebra I) by the Department of Mathematics (2025 - 2026 Semester A)
 
 - [Sing Yin Secondary School](https://www.singyin.edu.hk/en/) (Sep 2018 - May 2024)
   * 1st in Mathematics (Extended Part - Module 1), Sing Yin Secondary School (2023 - 2024 Second Semester)
@@ -31,13 +31,13 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ## Accomplishments 🏅
 ### Programming and Technology Related
-- 49th ICPC Asia Kunming Regional Contest - Bronze Medal (Dec 2024)
-- 49th ICPC Asia Hong Kong Regional Contest - Bronze Medal (Dec 2024)
+- The 49th International Collegiate Programming Asian Regional Contest (Kunming) - Bronze Medal (Dec 2024)
+- The 49th International Collegiate Programming Asian Regional Contest (Hong Kong)  - Bronze Medal (Dec 2024)
 - Hong Kong Olympiad in Informatics Junior - Bronze Medal (Nov 2023)
 
 ### Sports
-- Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion (2022 - 2023)
 - Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion (2023 - 2024)
+- Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion (2022 - 2023)
 
 ## Certificates 📄
 - Google Cybersecurity Professional Certificate, Google (July 2025)
