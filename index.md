@@ -24,6 +24,10 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ## Experience 📈
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
+  * Designed and developed an interactive game simulating collusive pricing behavior to support economic research and teaching
+  * Built the application using C# in both Windows Forms and Console environments for flexible deployment and testing
+  * Implemented TCP/IP networking framework to enable multi-user gameplay and simulate real-time market interactions
+  * Collaborated with academic staff to align game mechanics with theoretical models and research objectives
 
 ## Accomplishments 🏅
 ### Programming and Technology Related
