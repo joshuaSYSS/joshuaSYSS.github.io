@@ -13,13 +13,13 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ## Education 🏫
 - BSc Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/) (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
-  * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (2025)
-  * Dean's List (3.7+ GPA) One Semester
+  * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (July 2025)
+  * Dean's List (2024 - 2025 Semester B)
   * Competitive Programming School Team Member (Sep 2024 - Present)
-  * Nominated as PALSI Leader (MA1200) by the Department of Mathematics (2025 / 2026 Semester A)
+  * Nominated as PALSI Leader (MA1200) by the Department of Mathematics (2025 - 2026 Semester A)
 
 - [Sing Yin Secondary School](https://www.singyin.edu.hk/en/) (Sep 2018 - May 2024)
-  * 1st in Mathematics (Extended Part - Module 1), Sing Yin Secondary School (2023 - 2024 School Year)
+  * 1st in Mathematics (Extended Part - Module 1), Sing Yin Secondary School (2023 - 2024 Second Semester)
   * Youth Arch Student Improvement Award (May 2023)
 
 ## Experience 📈
