@@ -80,7 +80,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ### Software Development
 - Pricing Club Simulation
-  * Developed during my Research Assistant post in the School of Law, CityU period.
+  * Designed and developed during my tenure as a Research Assistant to support academic exploration of collusive pricing in economics
 
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
