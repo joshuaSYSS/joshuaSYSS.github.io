@@ -50,17 +50,11 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 ### Artificial Intelligence
 <!--#### AI Game Programming-->
 
-<!--#### Computer Vision-->
-
-<!--#### Data Analysis using Machine Learning-->
-
 #### Natural Language Processing
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
 
 ### Computer Graphics
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
-
-<!--### Cryptography-->
 
 ### Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, Sing Yin Secondary School)
