@@ -13,7 +13,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ## Education 🏫
 - BSc Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/) (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
-  * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (July 2025)
+  * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (Jul 2025)
   * Dean's List (2024 - 2025 Semester B)
   * Competitive Programming School Team Member (Sep 2024 - Present)
   * Nominated as PALSI Leader (Course MA1200 Calculus and Basic Linear Algebra I) by the Department of Mathematics (2025 - 2026 Semester A)
@@ -39,8 +39,8 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 - Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion (2022 - 2023)
 
 ## Certificates 📄
-- Google Cybersecurity Professional Certificate, Google (July 2025)
 - Google Data Analytics Professional Certificate, Google (Aug 2025)
+- Google Cybersecurity Professional Certificate, Google (Jul 2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 
 ## Projects 🖥
@@ -79,7 +79,7 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 
 ### Software Development
 - Pricing Club Simulation
-  * Designed and developed during my tenure as a Research Assistant to support academic exploration of collusive pricing in economics
+  * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in economics
 
 ### Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
