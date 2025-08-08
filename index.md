@@ -36,7 +36,9 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 - [Approximating the Number of Connected Components on an Undirected Transitive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
 
 ## Artificial Intelligence
-<!--#### AI Game Programming-->
+<!--### AI Game Programming-->
+
+<!--### Computer Vision-->
 
 ### Natural Language Processing
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
