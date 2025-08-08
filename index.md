@@ -61,8 +61,6 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
   * This game is a Ludum Dare 52 game jam submission, where participants have to create a game within 72 hours.
 - [One Life](https://revolution-game.itch.io/one-life)
   * This game is the Untitled Game Jam #72 winner.
-- [while (true)](https://no1gameexpert.itch.io/while-true)
-  * This game is the Untitled Game Jam #73 runner-up.
 
 ### Networking
 - [Queqiao C# Matchmaking Library](https://github.com/joshuaSYSS/Queqiao-Library)
