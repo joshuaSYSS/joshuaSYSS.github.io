@@ -50,9 +50,6 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 - [One Life](https://revolution-game.itch.io/one-life)
   * This game is the Untitled Game Jam #72 winner.
 
-## Networking
-- [Queqiao C# Matchmaking Library](https://github.com/joshuaSYSS/Queqiao-Library)
-
 <!--### Open-Sourced Projects-->
 
 <!--### Programming Languages and Compiler-->
