@@ -68,12 +68,12 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 - Google Cybersecurity Professional Certificate, Google (Jul 2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 
-# Languages
+# Languages 🗣️
 - Cantonese (Native Speaker)
 - English (IELTS 7.5 Dec 2023)
 - Mandarin
 
-# Affilated Websites 🌐
+# Affiliated Websites 🌐
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
 - [LinkedIn.com/in/choikuiwang](https://www.linkedin.com/in/choikuiwang)
 
