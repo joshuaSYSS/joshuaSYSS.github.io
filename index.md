@@ -9,6 +9,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong
   * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (Jul 2025)
   * Dean's List (2024 - 2025 Semester B)
   * Competitive Programming School Team Member (Sep 2024 - Present)
+  * Golden Key Club Member (Jun 2025 - Present)
   * Nominated as PALSI Leader (Course MA1200 Calculus and Basic Linear Algebra I) by the Department of Mathematics (2025 - 2026 Semester A)
 
 - Sing Yin Secondary School (Sep 2018 - May 2024)
