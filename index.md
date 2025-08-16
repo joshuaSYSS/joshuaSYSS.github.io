@@ -2,7 +2,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="https://sandstormit.com/wp-content/uploads/2021/06/incognito-2231825_960_720-1.png">
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
-Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong Kong studying Computer Science.<br><br>
+Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong Kong studying Computer Science.<br><br>
 
 # Education 🏫
 - BSc Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/) (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
@@ -14,6 +14,8 @@ Hi I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong 
 - [Sing Yin Secondary School](https://www.singyin.edu.hk/en/) (Sep 2018 - May 2024)
   * 1st in Mathematics (Extended Part - Module 1), Sing Yin Secondary School (2023 - 2024 Second Semester)
   * Youth Arch Student Improvement Award (May 2023)
+  * Competitive Programming School Team Member (Sep 2021 - May 2024)
+  * Table Tennis School Team Member (Sep 2019 - May 2024)
 
 # Experience 📈
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
