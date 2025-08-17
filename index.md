@@ -62,7 +62,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 
 ## Software Development
 - Pricing Club Simulation
-  * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in economics
+  * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in law
 
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
