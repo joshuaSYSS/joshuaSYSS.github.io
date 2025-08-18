@@ -8,7 +8,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 # Education 🏫
 - BSc Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
   * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (Jul 2025)
-  * Dean's List (2024 - 2025 Semester B)
+  * Dean's List × 2 (2024 - 2025 Semester A, Semester B)
   * Competitive Programming School Team Member (Sep 2024 - Present)
   * Golden Key Club Member (Jun 2025 - Present)
   * Nominated as PALSI Leader (Course MA1200 Calculus and Basic Linear Algebra I) by the Department of Mathematics (2025 - 2026 Semester A)
