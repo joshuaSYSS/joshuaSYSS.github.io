@@ -45,7 +45,10 @@ Feel free to contact me for collaboration on creating programming projects, part
 ## Artificial Intelligence
 <!--### AI Game Programming-->
 
-<!--### Computer Vision-->
+### Computer Vision
+- Haar Feature-Based Cascade Classifier
+  * Developed during the competition for the Underwater Robotics Team Selection Test
+  * Achieved around 50% accuracy on test data
 
 ### Natural Language Processing
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
