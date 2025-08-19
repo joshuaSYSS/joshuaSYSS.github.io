@@ -6,7 +6,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong
 Feel free to contact me for collaboration on creating programming projects, participating in hackathons, or forming a team in competitive programming.<br><br>
 
 # Education 🏫
-- BSc Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
+- B.Sc. Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
   * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (Jul 2025)
   * Dean's List × 2 (2024 - 2025 Semester A, Semester B)
   * Competitive Programming School Team Member (Sep 2024 - Present)
