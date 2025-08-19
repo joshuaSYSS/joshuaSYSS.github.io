@@ -62,9 +62,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 - [One Life](https://revolution-game.itch.io/one-life)
   * This game is the Untitled Game Jam #72 winner.
 - [while (true)](https://no1gameexpert.itch.io/while-true)
-  * This game is the Untitled Game Jam #73 runner-up.
-
-<!--### Open-Sourced Projects-->
+  * This game is the Untitled Game Jam #73 runner-up
 
 <!--### Programming Languages and Compiler-->
 
