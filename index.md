@@ -24,6 +24,9 @@ Feel free to contact me for collaboration on creating programming projects, part
   * Designed and developed an interactive game simulating collusive pricing behavior with 5 different scenarios to support teaching
   * Implemented TCP/IP networking framework to enable multi-user gameplay
   * Reviewed data collection workflow with academic staff, developed and designed automation features to boost efficiency by 10%
+- Summer Researcher, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
+  * Learnt and researched about state-of-the-art image and video generation models
+  * Had hands-on experience with Lora and Stable Diffusion
 
 # Accomplishments 🏅
 ## Programming and Technology Related
