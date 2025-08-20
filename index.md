@@ -7,17 +7,17 @@ Feel free to contact me for collaboration on creating programming projects, part
 
 # Education 🏫
 - B.Sc. Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
-  * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (Jul 2025)
-  * Dean's List × 2 (2024 - 2025 Semester A, Semester B)
-  * Competitive Programming School Team Member (Sep 2024 - Present)
-  * Golden Key Club Member (Jun 2025 - Present)
-  * Nominated as PALSI Leader (Course MA1200 Calculus and Basic Linear Algebra I) by the Department of Mathematics (2025 - 2026 Semester A)
+  * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
+  * Dean's List × 2
+  * Competitive Programming School Team Member
+  * Golden Key Club Member
+  * Nominated as PALSI Leader (Course MA1200 Calculus and Basic Linear Algebra I) by the Department of Mathematics
 
 - Sing Yin Secondary School (Sep 2018 - May 2024)
-  * 1st in Mathematics (Extended Part - Module 1), Sing Yin Secondary School (2023 - 2024 Second Semester)
-  * Youth Arch Student Improvement Award (May 2023)
-  * Competitive Programming School Team Member (Sep 2021 - May 2024)
-  * Table Tennis School Team Member (Sep 2019 - May 2024)
+  * 1st in Mathematics (Extended Part - Module 1) (2023 - 2024 Second Semester)
+  * Youth Arch Student Improvement Award
+  * Competitive Programming School Team Member
+  * Table Tennis School Team Member
 
 # Experience 📈
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
@@ -30,13 +30,13 @@ Feel free to contact me for collaboration on creating programming projects, part
 
 # Accomplishments 🏅
 ## Programming and Technology Related
-- The 49th International Collegiate Programming Asian Regional Contest (Kunming) - Bronze Medal (Dec 2024)
-- The 49th International Collegiate Programming Asian Regional Contest (Hong Kong)  - Bronze Medal (Dec 2024)
-- Hong Kong Olympiad in Informatics Junior - Bronze Medal (Nov 2022)
+- The 49th International Collegiate Programming Asian Regional Contest (Kunming) - Bronze Medal
+- The 49th International Collegiate Programming Asian Regional Contest (Hong Kong)  - Bronze Medal
+- 2022/23 Hong Kong Olympiad in Informatics Junior - Bronze Medal
 
 ## Sports
-- Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion (2023 - 2024)
-- Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion (2022 - 2023)
+- 2023 / 24 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
+- 2022 / 23 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
 
 # Projects 🖥
 ## Algorithms and Data Structures
