@@ -28,7 +28,7 @@ Feel free to contact me for collaboration on creating programming projects, part
   * Reviewed data collection workflow with academic staff, developed and designed automation features to boost efficiency by 10%
 - Summer Researcher, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Learnt and researched about state-of-the-art image and video generation models
-  * Had hands-on experience with Lora and Stable Diffusion
+  * Had hands-on experience with LoRA and Stable Diffusion
 
 # Accomplishments 🏅
 ## Programming and Technology Related
