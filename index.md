@@ -32,7 +32,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 ## Programming and Technology Related
 - The 49th International Collegiate Programming Asian Regional Contest (Kunming) - Bronze Medal (Dec 2024)
 - The 49th International Collegiate Programming Asian Regional Contest (Hong Kong)  - Bronze Medal (Dec 2024)
-- Hong Kong Olympiad in Informatics Junior - Bronze Medal (Nov 2023)
+- Hong Kong Olympiad in Informatics Junior - Bronze Medal (Nov 2022)
 
 ## Sports
 - Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion (2023 - 2024)
