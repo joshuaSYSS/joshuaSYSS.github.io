@@ -20,6 +20,8 @@ Feel free to contact me for collaboration on creating programming projects, part
   * Table Tennis School Team Member
 
 # Experience 📈
+- Research Assistant, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
+  * Currently researching Temporal Fair Division with Scheduling under the supervision of Prof. Minming Li
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
   * Designed and developed an interactive game simulating collusive pricing behavior with 5 different scenarios to support teaching
   * Implemented TCP/IP networking framework to enable multi-user gameplay
