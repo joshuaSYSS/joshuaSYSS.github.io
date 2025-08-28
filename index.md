@@ -81,6 +81,9 @@ Feel free to contact me for collaboration on creating programming projects, part
 - .NET Fundamentals, GreatLearning (Jul 2023)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
 
+# Bootcamps 🏕️
+- Ada Build Winter 2023, Ada Developers Academy (Aug 2025)
+
 # Languages 🗣️
 - Cantonese (Native Speaker)
 - English (IELTS 7.5 Dec 2023)
