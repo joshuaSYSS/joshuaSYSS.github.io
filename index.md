@@ -5,7 +5,7 @@
 Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergrad at City University of Hong Kong studying Computer Science.<br>
 Feel free to contact me for collaboration on creating programming projects, participating in hackathons, or forming a team in competitive programming.<br><br>
 
-# Education 🏫
+# EDUCATION 🏫
 - B.Sc. Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
   * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
   * Dean's List × 2
@@ -19,7 +19,7 @@ Feel free to contact me for collaboration on creating programming projects, part
   * Competitive Programming School Team Member
   * Table Tennis School Team Member
 
-# Experience 📈
+# WORK & RELEVANT EXPERIENCE 📈
 - Research Assistant, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Currently researching Temporal Fair Division with Scheduling under the supervision of Prof. Minming Li
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
@@ -30,7 +30,7 @@ Feel free to contact me for collaboration on creating programming projects, part
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
 
-# Accomplishments 🏅
+# ACHIEVEMENTS 🏅
 ## Programming and Technology Related
 - The 49th International Collegiate Programming Asian Regional Contest (Kunming) - Bronze Medal
 - The 49th International Collegiate Programming Asian Regional Contest (Hong Kong)  - Bronze Medal
@@ -40,7 +40,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 - 2023 / 24 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
 - 2022 / 23 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
 
-# Projects 🖥
+# PROJECTS 🖥
 ## Algorithms and Data Structures
 - [Approximating the Number of Connected Components on an Undirected Transitive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
 
@@ -75,7 +75,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 
-# Certificates 📄
+# CERTIFICATES 📄
 - Google Data Analytics Professional Certificate, Google (Aug 2025)
 - Google Cybersecurity Professional Certificate, Google (Jul 2025)
 - .NET Fundamentals, GreatLearning (Jul 2023)
@@ -83,14 +83,14 @@ Feel free to contact me for collaboration on creating programming projects, part
 
 <!--# Bootcamps 🏕️-->
 
-# Languages 🗣️
+# LANGUAGES 🗣️
 - Cantonese (Native Speaker)
 - English (IELTS 7.5 Dec 2023)
 - Mandarin
 
-# Affiliated Websites 🌐
+# AFFILIATED WEBSITES 🌐
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
 - [LinkedIn.com/in/choikuiwang](https://www.linkedin.com/in/choikuiwang)
 
-# Contact Me 📫
+# CONTACT ME! 📫
 - [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
