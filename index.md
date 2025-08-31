@@ -75,13 +75,14 @@ Feel free to contact me for collaboration on creating programming projects, part
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 - [Bit By Bit](https://bitbybit-programming.netlify.app/)
-  * Bit By Bit is an educational website that teaches not only programming, but the application of programming in the field of mathematics
+  * Bit By Bit is an educational website that teaches not only programming, but also the application of programming in the field of mathematics
 
 # CERTIFICATES 📄
 - Google Data Analytics Professional Certificate, Google (Aug 2025)
 - Google Cybersecurity Professional Certificate, Google (Jul 2025)
 - .NET Fundamentals, GreatLearning (Jul 2023)
-- AI-900: Microsoft Azure AI Fundamentals, Microsoft (2023)
+- Apply Natural Language Processing with Python Skill Path, Codecademy (Oct 2023)
+- AI-900: Microsoft Azure AI Fundamentals, Microsoft (Jun 2023)
 
 <!--# Bootcamps 🏕️-->
 
