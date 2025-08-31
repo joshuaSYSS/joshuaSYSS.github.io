@@ -75,6 +75,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 - [Bit By Bit](https://bitbybit-programming.netlify.app/)
+  * Bit By Bit is an educational website that teaches not only programming, but the application of programming in the field of mathematics
 
 # CERTIFICATES 📄
 - Google Data Analytics Professional Certificate, Google (Aug 2025)
