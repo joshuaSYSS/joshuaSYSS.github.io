@@ -74,6 +74,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
+- [Bit By Bit](https://bitbybit-programming.netlify.app/)
 
 # CERTIFICATES 📄
 - Google Data Analytics Professional Certificate, Google (Aug 2025)
