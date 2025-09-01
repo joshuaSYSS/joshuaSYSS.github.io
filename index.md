@@ -55,9 +55,11 @@ Feel free to contact me for collaboration on creating programming projects, part
 
 ### Natural Language Processing
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
+  * A C++ library tool that calculates the tf-idf value between documents
 
 ## Computer Graphics
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
+  * A tool that performs alpha compositing between two images
 
 ## Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, Sing Yin Secondary School)
@@ -74,9 +76,10 @@ Feel free to contact me for collaboration on creating programming projects, part
   * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in law
 
 ## Web Development
-- [Integrated Science Club Website Group](https://is-club.netlify.app/)
 - [Bit By Bit](https://bitbybit-programming.netlify.app/)
   * Bit By Bit is an educational website that teaches not only programming, but also the application of programming in the field of mathematics
+- [Integrated Science Club Website Group](https://is-club.netlify.app/)
+  * Multiple websites created for the Integrated Science Club in Sing Yin Secondary School
 
 # CERTIFICATES 📄
 - C++ Programming Professional Certificate by OpenEDG C++ Institute, LinkedIn Learning (Sep 2025)
