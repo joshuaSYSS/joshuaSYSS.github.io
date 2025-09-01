@@ -85,8 +85,8 @@ Feel free to contact me for collaboration on creating programming projects, part
 - C++ Programming Professional Certificate by OpenEDG C++ Institute, LinkedIn Learning (Sep 2025)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 - Google Cybersecurity Professional Certificate, Coursera (Jul 2025)
-- .NET Fundamentals, GreatLearning (Jul 2023)
 - Apply Natural Language Processing with Python Skill Path, Codecademy (Oct 2023)
+- .NET Fundamentals, GreatLearning (Jul 2023)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (Jun 2023)
 
 <!--# Bootcamps 🏕️-->
