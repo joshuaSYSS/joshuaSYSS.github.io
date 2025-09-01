@@ -11,7 +11,7 @@ Feel free to contact me for collaboration on creating programming projects, part
   * Dean's List × 2
   * CityUHK Tiger Programme Member (Top 10% of each College/School)
   * Competitive Programming School Team Member
-  * Golden Key Club Member
+  * Golden Key Club Member (Club for Scholarship Recipients)
   * PALSI Leader (Course MA1200 Calculus and Basic Linear Algebra I)
 
 - Sing Yin Secondary School (Sep 2018 - May 2024)
