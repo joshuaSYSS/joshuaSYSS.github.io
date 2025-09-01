@@ -78,7 +78,7 @@ Feel free to contact me for collaboration on creating programming projects, part
   * Bit By Bit is an educational website that teaches not only programming, but also the application of programming in the field of mathematics
 
 # CERTIFICATES 📄
-- C++ Programming Professional Certificate by OpenEDG C++ Institute, Linkedin Learning (Sep 2025)
+- C++ Programming Professional Certificate by OpenEDG C++ Institute, LinkedIn Learning (Sep 2025)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 - Google Cybersecurity Professional Certificate, Coursera (Jul 2025)
 - .NET Fundamentals, GreatLearning (Jul 2023)
