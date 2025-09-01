@@ -78,8 +78,8 @@ Feel free to contact me for collaboration on creating programming projects, part
   * Bit By Bit is an educational website that teaches not only programming, but also the application of programming in the field of mathematics
 
 # CERTIFICATES 📄
-- Google Data Analytics Professional Certificate, Google (Aug 2025)
-- Google Cybersecurity Professional Certificate, Google (Jul 2025)
+- Google Data Analytics Professional Certificate, Coursera (Aug 2025)
+- Google Cybersecurity Professional Certificate, Coursera (Jul 2025)
 - .NET Fundamentals, GreatLearning (Jul 2023)
 - Apply Natural Language Processing with Python Skill Path, Codecademy (Oct 2023)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (Jun 2023)
