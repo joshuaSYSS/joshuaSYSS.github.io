@@ -12,7 +12,7 @@ Feel free to contact me for collaboration on creating programming projects, part
   * CityUHK Tiger Programme Member (Top 10% of each College/School)
   * Competitive Programming School Team Member
   * Golden Key Club Member
-  * Nominated as PALSI Leader (Course MA1200 Calculus and Basic Linear Algebra I) by the Department of Mathematics
+  * PALSI Leader (Course MA1200 Calculus and Basic Linear Algebra I)
 
 - Sing Yin Secondary School (Sep 2018 - May 2024)
   * 1st in Mathematics (Extended Part - Module 1) (2023 - 2024 Second Semester)
