@@ -57,10 +57,6 @@ Feel free to contact me for collaboration on creating programming projects, part
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
   * A C++ library tool that calculates the tf-idf value between documents
 
-## Computer Graphics
-- [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
-  * A tool that performs alpha compositing between two images
-
 ## Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, Sing Yin Secondary School)
   * This game is a Ludum Dare 52 game jam submission, where participants have to create a game within 72 hours.
@@ -72,6 +68,8 @@ Feel free to contact me for collaboration on creating programming projects, part
 <!--### Programming Languages and Compiler-->
 
 ## Software Development
+- [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
+  * A tool that performs alpha compositing between two images
 - Pricing Club Simulation
   * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in law
 
