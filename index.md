@@ -9,7 +9,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 - B.Sc. Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
   * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
   * Dean's List × 2
-  * CityUHK Tiger Programme Member (Top 10% of each College/School)
+  * CityUHK Tiger Programme Member (Top 10% of the College of Computing)
   * Competitive Programming School Team Member
   * Golden Key Club Member (Club for Scholarship Recipients)
   * PALSI Leader (Course MA1200 Calculus and Basic Linear Algebra I)
