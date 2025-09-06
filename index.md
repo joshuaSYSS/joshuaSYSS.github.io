@@ -22,20 +22,22 @@ Feel free to contact me for collaboration on creating programming projects, part
 
 # WORK & RELEVANT EXPERIENCE 📈
 - Research Assistant, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
-  * Currently researching Temporal Fair Division with Scheduling under the supervision of Prof. Minming Li
+  * Supervised by Prof. Minming LI
+  * Currently researching Temporal Fair Division with Scheduling under the supervision of Prof. Minming LI
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
+  * Supervised by Prof. LAI Sin Chit
   * Designed and developed an interactive game simulating collusive pricing behavior with 5 different scenarios to support teaching
   * Implemented TCP/IP networking framework to enable multi-user gameplay
   * Reviewed data collection workflow with academic staff, developed and designed automation features to boost efficiency by 10%
 - Summer Researcher, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
-  * Produced a 30-second entirely AI generated video
+  * Produced a 30-second, entirely AI-generated video
 
 # ACHIEVEMENTS 🏅
 ## Programming and Technology Related
 - The 49th International Collegiate Programming Asian Regional Contest (Kunming) - Bronze Medal
-- The 49th International Collegiate Programming Asian Regional Contest (Hong Kong)  - Bronze Medal
+- The 49th International Collegiate Programming Asian Regional Contest (Hong Kong) - Bronze Medal
 - 2022/23 Hong Kong Olympiad in Informatics Junior - Bronze Medal
 
 ## Sports
