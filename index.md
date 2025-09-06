@@ -77,7 +77,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * A tool that performs alpha compositing between two images
 - Pricing Club Simulation
   * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in law
-- [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap)
+- [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [CHENG Po Hei](https://github.com/iceheart-ac), CityUHK)
   * A Windows application that provides dish information, mainly Cantonese cuisine.
   * Applied a hybrid approach for similarity, using weighted Jaccard similarity and embedding-based similarity
   * Used Python Sentence Transformers, which includes Tensorflow and Keras
