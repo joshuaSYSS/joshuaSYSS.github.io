@@ -63,7 +63,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * A C++ library tool that calculates the tf-idf value between documents
 
 ## Game Development
-- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, Sing Yin Secondary School)
+- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, SYSS)
   * This game is a Ludum Dare 52 game jam submission
 - [One Life](https://revolution-game.itch.io/one-life)
   * This game is the Untitled Game Jam #72 winner
@@ -78,15 +78,15 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 - Pricing Club Simulation
   * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in law
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [CHENG Po Hei](https://github.com/iceheart-ac), CityUHK)
-  * A Windows application that provides dish information, mainly Cantonese cuisine.
+  * A Windows application that provides dish information, mainly Cantonese cuisine
   * Applied a hybrid approach for similarity, using weighted Jaccard similarity and embedding-based similarity
   * Used Python Sentence Transformers, which includes Tensorflow and Keras
 
 ## Web Development
-- [Bit By Bit](https://bitbybit-programming.netlify.app/)
-  * Bit By Bit is an educational website that teaches not only programming, but also the application of programming in the field of mathematics
+- [Bit by Bit](https://bitbybit-programming.netlify.app/)
+  * Bit by Bit is an educational website that teaches not only programming, but also the application of programming in the field of mathematics
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
-  * Multiple websites created for the Integrated Science Club in Sing Yin Secondary School
+  * Multiple websites created for the Integrated Science Club in SYSS
 
 # CERTIFICATES 📄
 - C++ Programming Professional Certificate by OpenEDG C++ Institute, LinkedIn Learning (Sep 2025)
@@ -106,7 +106,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 # TEACHINGS 📎
 - Programming & Mathematics, OpenLearn Create (Sep 2025)
 - PALSI Leader, CityUHK (Semester A, 2025/26)
-  * Performed exceptionally in the course MA1200 Calculus and Basic Linear Algebra I, and is invited by the Department of Mathematics
+  * Performed exceptionally in the course MA1200 Calculus and Basic Linear Algebra I, and was invited by the Department of Mathematics
 
 # AFFILIATED WEBSITES 🌐
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
