@@ -38,7 +38,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 ## Programming and Technology Related
 - The 49th International Collegiate Programming Asian Regional Contest (Kunming) - Bronze Medal
 - The 49th International Collegiate Programming Asian Regional Contest (Hong Kong) - Bronze Medal
-- Hong Kong Secondary School Coding Challenge - Bronze Medal
+- Hong Kong Secondary School Coding Challenge 2023 - Bronze Medal
 - 7th La Salle — Pui Ching Programming Challenge - Merit Prize
 - 2022/23 Hong Kong Olympiad in Informatics Junior - Bronze Medal
 
