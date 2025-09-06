@@ -113,3 +113,4 @@ Feel free to contact me for collaboration on creating programming projects, part
 
 # CONTACT ME! 📫
 - [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
+- [joshuachoikuiwang@gmail.com](mailto:joshuachoikuiwang@gmail.com)
