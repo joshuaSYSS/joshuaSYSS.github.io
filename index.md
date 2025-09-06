@@ -65,9 +65,9 @@ Feel free to contact me for collaboration on creating programming projects, part
 
 ## Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, Sing Yin Secondary School)
-  * This game is a Ludum Dare 52 game jam submission, where participants have to create a game within 72 hours.
+  * This game is a Ludum Dare 52 game jam submission
 - [One Life](https://revolution-game.itch.io/one-life)
-  * This game is the Untitled Game Jam #72 winner.
+  * This game is the Untitled Game Jam #72 winner
 - [while (true)](https://no1gameexpert.itch.io/while-true)
   * This game is the Untitled Game Jam #73 runner-up
 
