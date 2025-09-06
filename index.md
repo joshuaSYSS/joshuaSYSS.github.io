@@ -44,7 +44,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 
 ## Sports
 - 2023 / 24 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
-- 國慶摘星盃 2023 - Bronze Medal
+- 「國慶摘星盃」– 觀塘區中學校際乒乓球邀請賽 - Third Place
 - 2022 / 23 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
 
 # PROJECTS 🖥
