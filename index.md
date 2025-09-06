@@ -12,7 +12,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * CityUHK Tiger Programme Member (Top 10% of the College of Computing)
   * Competitive Programming School Team Member
   * Golden Key Club Member (Club for Scholarship Recipients)
-  * PALSI Leader (Performed exceptionally in the course MA1200 Calculus and Basic Linear Algebra I, and is invited by the Department of Mathematics)
 
 - Sing Yin Secondary School (Sep 2018 - May 2024)
   * 1st in Mathematics (Extended Part - Module 1) (2023 - 2024 Second Semester)
@@ -79,7 +78,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 - Pricing Club Simulation
   * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in law
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap)
-  * A Windows application that provides information about dishes, mainly about Cantonese cuisine.
+  * A Windows application that provides dish information, mainly Cantonese cuisine.
   * Applied a hybrid approach for similarity, using weighted Jaccard similarity and embedding-based similarity
   * Used Python Sentence Transformers, which includes Tensorflow and Keras
 
@@ -106,6 +105,8 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 
 # TEACHINGS 📎
 - Programming & Mathematics, OpenLearn Create (Sep 2025)
+- PALSI Leader, CityUHK (Semester A, 2025/26)
+  * Performed exceptionally in the course MA1200 Calculus and Basic Linear Algebra I, and is invited by the Department of Mathematics
 
 # AFFILIATED WEBSITES 🌐
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
@@ -113,4 +114,4 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 
 # CONTACT ME! 📫
 - [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
-- [joshuachoikuiwang@gmail.com](mailto:joshuachoikuiwang@gmail.com)
+- [joshuachoikuiwaby@gmail.com](mailto:joshuachoikuiwang@gmail.com)
