@@ -30,6 +30,7 @@ Feel free to contact me for collaboration on creating programming projects, part
 - Summer Researcher, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
+  * Produced a 30-second entirely AI generated video
 
 # ACHIEVEMENTS 🏅
 ## Programming and Technology Related
