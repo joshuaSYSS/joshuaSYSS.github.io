@@ -73,6 +73,10 @@ Feel free to contact me for collaboration on creating programming projects, part
   * A tool that performs alpha compositing between two images
 - Pricing Club Simulation
   * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in law
+- [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap)
+  * A Windows application that provides information about dishes, mainly about Cantonese cuisine.
+  * Applied a hybrid approach for similarity, using weighted Jaccard similarity and embedding-based similarity
+  * Used Python Sentence Transformers, which includes Tensorflow and Keras
 
 ## Web Development
 - [Bit By Bit](https://bitbybit-programming.netlify.app/)
@@ -94,6 +98,9 @@ Feel free to contact me for collaboration on creating programming projects, part
 - Cantonese (Native Speaker)
 - English (IELTS 7.5 Dec 2023)
 - Mandarin
+
+# TEACHINGS 📎
+- Programming & Mathematics, OpenLearn Create (Sep 2025)
 
 # AFFILIATED WEBSITES 🌐
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
