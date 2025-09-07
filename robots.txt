@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://joshuasyss.github.io/sitemap.xml
