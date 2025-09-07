@@ -1,5 +1,4 @@
 <head>
-  <link rel="shortcut icon" type="image/x-icon" href="https://sandstormit.com/wp-content/uploads/2021/06/incognito-2231825_960_720-1.png">
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
 <img src="image.jpg">
