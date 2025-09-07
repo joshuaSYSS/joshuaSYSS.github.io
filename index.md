@@ -53,7 +53,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 <!--### AI Game Programming-->
 
 ### Computer Vision
-- Haar Feature-Based Cascade Classifier
+- Underwater Haar Feature-Based Cascade Classifier
   * Developed during the competition for the Underwater Robotics Team Selection Test
   * Achieved around 50% accuracy on test data
 
