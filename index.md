@@ -105,7 +105,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 # TEACHINGS 📎
 - Programming & Mathematics, OpenLearn Create (Sep 2025)
 - PALSI Leader, CityUHK (Semester A, 2025/26)
-  * Performed exceptionally in the course MA1200 Calculus and Basic Linear Algebra I, and was invited by the Department of Mathematics
+  * Performed exceptionally in the course MA1200 Calculus and Basic Linear Algebra I, and was nominated by the Department of Mathematics
 
 # AFFILIATED WEBSITES 🌐
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
