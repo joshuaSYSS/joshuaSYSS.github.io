@@ -97,13 +97,8 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 
 <!--# Bootcamps 🏕️-->
 
-# LANGUAGES 🗣️
-- Cantonese (Native Speaker)
-- English (IELTS 7.5 Dec 2023)
-- Mandarin
-
 # TEACHINGS 📎
-- Programming & Mathematics, OpenLearn Create (Sep 2025)
+- [Programming & Mathematics](https://www.open.edu/openlearncreate/course/view.php?id=16462), OpenLearn Create (Sep 2025)
 - PALSI Leader, CityUHK (Semester A, 2025/26)
   * Performed exceptionally in the course MA1200 Calculus and Basic Linear Algebra I, and was nominated by the Department of Mathematics
 
