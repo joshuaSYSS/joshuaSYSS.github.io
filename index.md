@@ -19,7 +19,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * Table Tennis School Team Member
 
 # WORK & RELEVANT EXPERIENCE 📈
-- Research Assistant, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
+- Undergraduate Research Assistant, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by Prof. Minming LI
   * Currently researching Temporal Fair Division with Scheduling under the supervision of Prof. Minming LI
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
