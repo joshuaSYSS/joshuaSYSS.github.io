@@ -9,10 +9,9 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
   * Dean's List × 2
   * CityUHK Tiger Programme Member (Top 10% of the College of Computing)
-  * PALSI Leader (MA1200)
+  * PALSI Leader (MA1200, Semester A 2025/26)
   * Competitive Programming School Team Member
   * Golden Key Club Member (Club for Scholarship Recipients)
-
 
 - Sing Yin Secondary School (Sep 2018 - May 2024)
   * 1st in Mathematics (Extended Part - Module 1) (2023 - 2024 Second Semester)
