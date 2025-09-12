@@ -9,8 +9,10 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
   * Dean's List × 2
   * CityUHK Tiger Programme Member (Top 10% of the College of Computing)
+  * PALSI Leader (MA1200)
   * Competitive Programming School Team Member
   * Golden Key Club Member (Club for Scholarship Recipients)
+
 
 - Sing Yin Secondary School (Sep 2018 - May 2024)
   * 1st in Mathematics (Extended Part - Module 1) (2023 - 2024 Second Semester)
@@ -82,6 +84,9 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * Bit by Bit is an educational website that teaches not only programming, but also the application of programming in the field of mathematics
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
   * Multiple websites created for the Integrated Science Club in SYSS
+ 
+## Misc.
+- [Programming & Mathematics](https://www.open.edu/openlearncreate/course/view.php?id=16462), OpenLearn Create
 
 # CERTIFICATES 📄
 - C++ Programming Professional Certificate by OpenEDG C++ Institute, LinkedIn Learning (Sep 2025)
@@ -92,11 +97,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (Jun 2023)
 
 <!--# Bootcamps 🏕️-->
-
-# TEACHINGS 📎
-- [Programming & Mathematics](https://www.open.edu/openlearncreate/course/view.php?id=16462), OpenLearn Create (Sep 2025)
-- PALSI Leader, CityUHK (Semester A, 2025/26)
-  * Performed exceptionally in the course MA1200 Calculus and Basic Linear Algebra I, and was nominated by the Department of Mathematics
 
 # AFFILIATED WEBSITES 🌐
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
