@@ -52,15 +52,13 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 
 ## Artificial Intelligence
 <!--### AI Game Programming-->
-
-### Computer Vision
+- [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
+  * A C++ library tool that calculates the tf-idf value between documents
 - Underwater Haar Feature-Based Cascade Classifier
   * Developed during the competition for the Underwater Robotics Team Selection Test
   * Achieved around 50% accuracy on test data
-
-### Natural Language Processing
-- [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
-  * A C++ library tool that calculates the tf-idf value between documents
+ 
+<!--## Data Analytics-->
 
 ## Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, SYSS)
