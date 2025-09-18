@@ -43,8 +43,8 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 
 ## Sports
 - 2023 / 24 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
-- 「國慶摘星盃」– 觀塘區中學校際乒乓球邀請賽 - Third Place
 - 2022 / 23 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
+- 「國慶摘星盃」– 觀塘區中學校際乒乓球邀請賽 - Third Place
 
 # PROJECTS 🖥
 ## Algorithms and Data Structures
