@@ -9,7 +9,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
   * Dean's List × 2
   * CityUHK Tiger Programme Member (Top 10% of the College of Computing)
-  * PALSI Leader (MA1200 Calculus and Basic Linear Algebra I, Semester A 2025/26)
   * Competitive Programming School Team Member
   * Golden Key Club Member (Club for Scholarship Recipients)
 
@@ -28,6 +27,9 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * Designed and developed an interactive game simulating collusive pricing behavior with 5 different scenarios to support teaching
   * Implemented TCP/IP networking framework to enable multi-user gameplay
   * Reviewed data collection workflow with academic staff, developed and designed automation features to boost efficiency by 10%
+- PALSI Leader (MA1200 - Calculus and Basic Linear Algebra I), Talent and Education Development Office, CityU, Hong Kong (Sep 2025 - Present)
+  * Nominated by the Department of Mathematics
+  * Tutor 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
 - Summer Researcher, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
