@@ -1,6 +1,3 @@
----
-id: main
----
 <head>
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
