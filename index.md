@@ -70,7 +70,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 - [while (true)](https://no1gameexpert.itch.io/while-true)
   * This game is the Untitled Game Jam #73 runner-up
 
-<!--### Programming Languages and Compiler-->
+<!--## Programming Languages and Compiler-->
 
 ## Software Development
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
