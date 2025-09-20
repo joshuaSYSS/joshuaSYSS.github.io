@@ -39,6 +39,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 ## Programming and Technology Related
 - The 49th International Collegiate Programming Asian Regional Contest (Kunming) - Bronze Medal
 - The 49th International Collegiate Programming Asian Regional Contest (Hong Kong) - Bronze Medal
+- CityU-PolyU Collegiate Programming Contest 2025 - Runner Up
 - Hong Kong Secondary School Coding Challenge 2023 - Bronze Medal
 - 7th La Salle — Pui Ching Programming Challenge - Merit Prize
 - 2022/23 Hong Kong Olympiad in Informatics Junior - Bronze Medal
