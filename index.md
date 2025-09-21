@@ -89,6 +89,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
 - [Programming & Mathematics](https://www.open.edu/openlearncreate/course/view.php?id=16462), OpenLearn Create
 
 # CERTIFICATES 📄
+- Data Analysis with Python, freeCodeCamp (Sep 2025)
 - C++ Programming Professional Certificate by OpenEDG C++ Institute, LinkedIn Learning (Sep 2025)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 - Google Cybersecurity Professional Certificate, Coursera (Jul 2025)
