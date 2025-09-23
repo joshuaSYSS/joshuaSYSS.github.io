@@ -63,6 +63,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
  
 ## Data Analytics
 - [Case study: Impact of Lifestyle Factors on Quality of Sleep](https://www.datacamp.com/datalab/w/894bc003-651d-49cd-9cc9-c3dc1f343ee6)
+  * In this case study provided by DataCamp, I identified several lifestyle factors that are correlated with quality of sleep using data analysis
 
 ## Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, SYSS)
