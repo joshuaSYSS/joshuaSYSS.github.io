@@ -19,6 +19,11 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * Table Tennis School Team Member
 
 # WORK & RELEVANT EXPERIENCE 📈
+- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Nov 2025)
+  * Data analytics support for evaluating and enhancing CityUHK’s institutional research performance
+- PALSI Leader (MA1200 - Calculus and Basic Linear Algebra I), Talent and Education Development Office, CityU, Hong Kong (Sep 2025 - Dec 2025)
+  * Nominated by the Department of Mathematics
+  * Tutor 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
 - Undergraduate Research Assistant, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by Prof. Minming LI
   * Currently researching Temporal Fair Division with Scheduling under the supervision of Prof. Minming LI
@@ -27,11 +32,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * Designed and developed an interactive game simulating collusive pricing behavior with 5 different scenarios to support teaching
   * Implemented TCP/IP networking framework to enable multi-user gameplay
   * Reviewed data collection workflow with academic staff, developed and designed automation features to boost efficiency by 10%
-- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Nov 2025)
-  * Data analytics support for evaluating and enhancing CityUHK’s institutional research performance
-- PALSI Leader (MA1200 - Calculus and Basic Linear Algebra I), Talent and Education Development Office, CityU, Hong Kong (Sep 2025 - Dec 2025)
-  * Nominated by the Department of Mathematics
-  * Tutor 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
 - Summer Researcher, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
