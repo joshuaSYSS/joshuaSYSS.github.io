@@ -38,7 +38,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * Produced a 30-second, entirely AI-generated video
 
 # ACHIEVEMENTS 🏅
-## Programming and Technology Related
+## Competitive Programming
 - CityU-PolyU Collegiate Programming Contest 2025 - Runner Up
 - The 49th International Collegiate Programming Asian Regional Contest (Kunming) - Bronze Medal
 - The 49th International Collegiate Programming Asian Regional Contest (Hong Kong) - Bronze Medal
