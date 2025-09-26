@@ -13,7 +13,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Scie
   * Golden Key Club Member (Club for Scholarship Recipients)
 
 - Sing Yin Secondary School (Sep 2018 - May 2024)
-  * 1st in Mathematics (Extended Part - Module 1) (2023 - 2024 Second Semester)
+  * 1st in Mathematics (Extended Part - Module 1) (Sep 2023 - May 2024)
   * Youth Arch Student Improvement Award
   * Competitive Programming School Team Member
   * Table Tennis School Team Member
