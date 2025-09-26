@@ -1,8 +1,8 @@
 <head>
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
-<img src="image.jpg">
-Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Science at City University of Hong Kong.<br><br>
+<img src="image.jpg" width="200" align="right">
+Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate studying Computer Science at City University of Hong Kong.<br><br><br><br><br><br><br><br>
 
 # EDUCATION 🏫
 - B.Sc. Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
