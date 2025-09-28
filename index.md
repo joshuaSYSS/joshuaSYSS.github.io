@@ -24,9 +24,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
 - PALSI Leader (MA1200 - Calculus and Basic Linear Algebra I), Talent and Education Development Office, CityU, Hong Kong (Sep 2025 - Dec 2025)
   * Nominated by the Department of Mathematics
   * Tutored 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
-- Undergraduate Research Assistant, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
-  * Supervised by Prof. Minming LI
-  * Researching Temporal Fair Division with Scheduling under the supervision of Prof. Minming LI
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
   * Supervised by Prof. LAI Sin Chit
   * Designed and developed an interactive game simulating collusive pricing behavior with 5 different scenarios to support teaching
