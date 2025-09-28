@@ -55,8 +55,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
 
 ## Artificial Intelligence
 <!--### AI Game Programming-->
-- [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
-  * A C++ library tool that calculates the tf-idf value between documents
 - Underwater Haar Feature-Based Cascade Classifier
   * Developed during the competition for the Underwater Robotics Team Selection Test
   * Achieved around 50% accuracy on test data
@@ -72,6 +70,10 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
   * This game is the Untitled Game Jam #72 winner
 - [while (true)](https://no1gameexpert.itch.io/while-true)
   * This game is the Untitled Game Jam #73 runner-up
+ 
+## Natural Language Processing
+- [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
+  * A C++ library tool that calculates the tf-idf value between documents
 
 <!--## Programming Languages and Compiler-->
 
