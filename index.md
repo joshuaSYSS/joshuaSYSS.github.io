@@ -111,3 +111,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
 # CONTACT ME! 📫
 - [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
 - [joshuachoikuiwang@gmail.com](mailto:joshuachoikuiwang@gmail.com)
+
+# Curriculum Vitae
+[My CV](https://docs.google.com/document/d/10kKMXOwLtwgao1X76b43pyyyfaH3c8HmqsqP5a4GOQo/edit?usp=sharing)
