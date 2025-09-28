@@ -2,13 +2,13 @@
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
 <img src="image.jpg" width="200" align="right">
-Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science student specializing in algorithms. Experienced in research and competitive programming. Passionate about building impactful tools to change life.<br><br><br><br><br><br><br><br>
+Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science student specializing in algorithms. Experienced in research and competitive programming. Passionate about building impactful tools to change lives.<br><br><br><br><br><br><br><br>
 
 # EDUCATION 🏫
 - B.Sc. Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
   * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
   * Dean's List × 2
-  * CityUHK Tiger Programme Member (Top 10% in the College of Computing)
+  * CityU Tiger Programme Member (Top 10% in the College of Computing)
   * Competitive Programming School Team Member
   * Golden Key Club Member (Club for Scholarship Recipients)
 
@@ -20,7 +20,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
 
 # WORK & RELEVANT EXPERIENCE 📈
 - Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Nov 2025)
-  * Provided data analytics support for evaluating and enhancing CityUHK’s institutional research performance
+  * Provided data analytics support for evaluating and enhancing CityU’s institutional research performance
 - PALSI Leader (MA1200 - Calculus and Basic Linear Algebra I), Talent and Education Development Office, CityU, Hong Kong (Sep 2025 - Dec 2025)
   * Nominated by the Department of Mathematics
   * Tutored 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
@@ -61,7 +61,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
  
 ## Data Analytics
 - [Case study: Impact of Lifestyle Factors on Quality of Sleep](https://www.datacamp.com/datalab/w/894bc003-651d-49cd-9cc9-c3dc1f343ee6)
-  * In this case study provided by DataCamp, I identified several lifestyle factors that are correlated with quality of sleep using data analysis
+  * In this case study provided by DataCamp, I identified several lifestyle factors that are correlated with the quality of sleep using data analysis
 
 ## Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, SYSS)
@@ -82,6 +82,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
   * A tool that performs alpha compositing between two images
 - Pricing Club Simulation
   * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in law
+- [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [CHENG Po Hei](https://github.com/iceheart-ac), CityU)
 
 ## Web Development
 - [Bit by Bit](https://bitbybit-programming.netlify.app/)
