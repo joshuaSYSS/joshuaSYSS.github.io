@@ -58,7 +58,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
 - Underwater Haar Feature-Based Cascade Classifier
   * Developed during the competition for the Underwater Robotics Team Selection Test
   * Achieved around 50% accuracy on test data
- 
+
 ## Data Analytics
 - [Case study: Impact of Lifestyle Factors on Quality of Sleep](https://www.datacamp.com/datalab/w/894bc003-651d-49cd-9cc9-c3dc1f343ee6)
   * In this case study provided by DataCamp, I identified several lifestyle factors that are correlated with the quality of sleep using data analysis
