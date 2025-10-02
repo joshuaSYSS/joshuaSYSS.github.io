@@ -2,7 +2,7 @@
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
 <img src="image.jpg" width="200" align="right">
-Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science student specializing in algorithms. Experienced in research and competitive programming. Passionate about building impactful tools to change lives.<br><br><br><br><br><br><br><br>
+Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science student specializing in algorithms. Gaining experience in research and competitive programming. Passionate about building impactful tools to change lives.<br><br><br><br><br><br><br><br>
 
 # EDUCATION 🏫
 - B.Sc. Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
