@@ -6,17 +6,17 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
 
 # EDUCATION 🏫
 - B.Sc. Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
-  * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
+  * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (2025)
   * Dean's List × 2
   * CityU Tiger Programme Member (Top 10% in the College of Computing)
-  * Competitive Programming School Team Member (2024 - Present)
-  * Golden Key Club Member (2025 - Present)
+  * Competitive Programming School Team Member
+  * Golden Key Club Member
 
 - Sing Yin Secondary School (Sep 2018 - May 2024)
   * 1st in Mathematics (Extended Part - Module 1) (Sep 2023 - May 2024)
   * Youth Arch Student Improvement Award (2022 - 2023)
-  * Competitive Programming School Team Member (2021 - 2024)
-  * Table Tennis School Team Member (2019 - 2024)
+  * Competitive Programming School Team Member
+  * Table Tennis School Team Member
 
 # WORK & RELEVANT EXPERIENCE 📈
 - Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Nov 2025)
