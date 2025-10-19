@@ -30,6 +30,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
   * Implemented TCP/IP networking framework to enable multi-user gameplay
   * Reviewed data collection workflow with academic staff, developed and designed automation features to boost efficiency by 10%
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
+  * Supervised by Prof. LIAO Jing
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
   * Produced a 30-second, entirely AI-generated video
