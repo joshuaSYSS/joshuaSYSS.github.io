@@ -56,39 +56,28 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
 ## Artificial Intelligence
 <!--### AI Game Programming-->
 - Underwater Haar Feature-Based Cascade Classifier
-  * Developed during the competition for the Underwater Robotics Team Selection Test
-  * Achieved around 50% accuracy on test data
 
 ## Data Analytics
 - [Case study: Impact of Lifestyle Factors on Quality of Sleep](https://www.datacamp.com/datalab/w/894bc003-651d-49cd-9cc9-c3dc1f343ee6)
-  * In this case study provided by DataCamp, I identified several lifestyle factors that are correlated with the quality of sleep using data analysis
 
 ## Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, SYSS)
-  * This game is a Ludum Dare 52 game jam submission
 - [One Life](https://revolution-game.itch.io/one-life)
-  * This game is the Untitled Game Jam #72 winner
 - [while (true)](https://no1gameexpert.itch.io/while-true)
-  * This game is the Untitled Game Jam #73 runner-up
  
 ## Natural Language Processing
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
-  * A C++ library tool that calculates the tf-idf value between documents
 
 <!--## Programming Languages and Compiler-->
 
 ## Software Development
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
-  * A tool that performs alpha compositing between two images
 - Pricing Club Simulation
-  * Designed and developed during my tenure as a Research Assistant to support the academic exploration of collusive pricing in law
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [CHENG Po Hei](https://github.com/iceheart-ac), CityU)
 
 ## Web Development
 - [Bit by Bit](https://bitbybit-programming.netlify.app/)
-  * Bit by Bit is an educational website that teaches not only programming, but also the application of programming in the field of mathematics
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
-  * Multiple websites created for the Integrated Science Club in SYSS
  
 ## Misc.
 - [Programming & Mathematics](https://www.open.edu/openlearncreate/course/view.php?id=16462), OpenLearn Create
