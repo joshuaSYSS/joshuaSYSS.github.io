@@ -53,9 +53,8 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, an undergraduate Computer Science stude
 ## Algorithms and Data Structures
 - [Approximating the Number of Connected Components on an Undirected Transitive Graph in Sublinear Time](https://github.com/joshuaSYSS/approxCCDegree)
 
-## Artificial Intelligence
+<!--## Artificial Intelligence-->
 <!--### AI Game Programming-->
-- Underwater Haar Feature-Based Cascade Classifier
 
 ## Data Analytics
 - [Case study: Impact of Lifestyle Factors on Quality of Sleep](https://www.datacamp.com/datalab/w/894bc003-651d-49cd-9cc9-c3dc1f343ee6)
