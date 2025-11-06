@@ -76,9 +76,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 ## Web Development
 - [Bit by Bit](https://bitbybit-programming.netlify.app/)
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
- 
-## Misc.
-- [Programming & Mathematics](https://www.open.edu/openlearncreate/course/view.php?id=16462), OpenLearn Create
 
 # CERTIFICATES 📄
 - C++ Programming Professional Certificate by OpenEDG C++ Institute, LinkedIn Learning (Sep 2025)
