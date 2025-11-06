@@ -97,4 +97,4 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - [joshuachoikuiwang@gmail.com](mailto:joshuachoikuiwang@gmail.com)
 
 # Curriculum Vitae
-[My CV](https://docs.google.com/document/d/10kKMXOwLtwgao1X76b43pyyyfaH3c8HmqsqP5a4GOQo/edit?usp=sharing)
+[My CV](https://joshuasyss.github.io/Resume.docx)
