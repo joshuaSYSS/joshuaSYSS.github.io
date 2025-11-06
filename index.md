@@ -37,15 +37,15 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 ## Competitive Programming
 - CityU-PolyU Collegiate Programming Contest 2025 - Runner Up
 - 2025 CityUHK(DG) Programming Contest - Bronze Medal
-- The 49th International Collegiate Programming Asian Regional Contest (Kunming) - Bronze Medal
-- The 49th International Collegiate Programming Asian Regional Contest (Hong Kong) - Bronze Medal
+- The 2024 ICPC Asia Kunming Regional Contest - Bronze Medal
+- The 2024 ICPC Asia Hong Kong Regional Contest - Bronze Medal
 - Hong Kong Secondary School Coding Challenge 2023 - Bronze Medal
 - 7th La Salle — Pui Ching Programming Challenge - Merit Prize
 - 2022/23 Hong Kong Olympiad in Informatics Junior - Bronze Medal
 
 ## Sports
-- 2023 / 24 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
-- 2022 / 23 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
+- 2023/24 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
+- 2022/23 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
 - 「國慶摘星盃」– 觀塘區中學校際乒乓球邀請賽 - Third Place
 
 # PROJECTS 🖥
