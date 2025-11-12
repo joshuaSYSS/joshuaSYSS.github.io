@@ -91,7 +91,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 # AFFILIATED WEBSITES 🌐
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
 - [LinkedIn.com/in/choikuiwang](https://www.linkedin.com/in/choikuiwang)
-- [CityU Personal Website](https://personal.cs.cityu.edu.hk/~kuiwchoi2)
 
 # CONTACT ME! 📫
 - [kuiwchoi2-c@my.cityu.edu.hk](mailto:kuiwchoi2-c@my.cityu.edu.hk)
