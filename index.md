@@ -11,8 +11,8 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
   * Competitive Programming School Team Member
 
 - Sing Yin Secondary School (Sep 2018 - May 2024)
-  * 1st in Mathematics (Extended Part - Module 1) (Sep 2023 - May 2024)
-  * Youth Arch Student Improvement Award (2022 - 2023)
+  * 2023/24 1st in Mathematics (Extended Part - Module 1)
+  * 2022/23 Youth Arch Student Improvement Award
   * Competitive Programming School Team Member
   * Table Tennis School Team Member
 
