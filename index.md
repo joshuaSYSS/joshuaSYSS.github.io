@@ -43,6 +43,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - Hong Kong Secondary School Coding Challenge 2023 - Bronze Medal
 - 7th La Salle — Pui Ching Programming Challenge - Merit Prize
 - 2022/23 Hong Kong Olympiad in Informatics Junior - Bronze Medal
+- Hong Kong Secondary School Coding Challenge 2022 - Finalist
 
 ## Sports
 - 2023/24 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
