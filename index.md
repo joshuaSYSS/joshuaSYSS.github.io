@@ -79,6 +79,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 
 # CERTIFICATES 📄
+- MATLAB Programming Skills, MathWorks (Nov 2025)
 - C++ Programming Professional Certificate by OpenEDG C++ Institute, LinkedIn Learning (Sep 2025)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 - Google Cybersecurity Professional Certificate, Coursera (Jul 2025)
