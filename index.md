@@ -19,13 +19,13 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 # WORK & RELEVANT EXPERIENCE 📈
 - Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Nov 2025)
   * Provided data analytics support for evaluating and enhancing CityU’s institutional research performance
-  * Analyzed over 20 datasets, with over 1000 records
+  * Analysed over 20 datasets, with over 1000 records
 - PALSI Leader (MA1200 - Calculus and Basic Linear Algebra I), Talent and Education Development Office, CityU, Hong Kong (Sep 2025 - Dec 2025)
   * Nominated by the Department of Mathematics
   * Tutored 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Jun 2026)
   * Supervised by Prof. LAI Sin Chit
-  * Designed and developed an interactive game simulating collusive pricing behavior with 5 different scenarios to support teaching
+  * Designed and developed an interactive game simulating collusive pricing behaviour with 5 different scenarios to support teaching
   * Implemented TCP/IP networking framework to enable multi-user gameplay
   * Reviewed data collection workflow with academic staff, developed and designed automation features to boost efficiency by 10%
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
