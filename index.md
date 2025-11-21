@@ -17,7 +17,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
   * Table Tennis School Team Member
 
 # WORK & RELEVANT EXPERIENCE 📈
-- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - June 2026)
+- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Jun 2026)
   * Provided data analytics support for evaluating and enhancing CityU’s institutional research performance
   * Analysed over 30 datasets, with over 1000 records
   * Produced 20 visualisations to facilitate data analysis
