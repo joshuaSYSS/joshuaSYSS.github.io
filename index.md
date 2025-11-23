@@ -47,6 +47,10 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - 2022/23 Hong Kong Olympiad in Informatics Junior - Bronze Medal
 - Hong Kong Secondary School Coding Challenge 2022 - Finalist
 
+## Game Development
+- [Untitled Game Jam #72](https://itch.io/jam/untitled-game-jam-72) - Winner
+- [Untitled Game Jam #73](https://itch.io/jam/untitled-game-jam-73) - Runner Up
+
 ## Sports
 - 2023/24 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
 - 2022/23 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
@@ -64,6 +68,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 
 ## Game Development
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, SYSS)
+  > Obtained the 297th place in the Ludum Dare theme category
 - [One Life](https://revolution-game.itch.io/one-life)
 - [while (true)](https://no1gameexpert.itch.io/while-true)
  
