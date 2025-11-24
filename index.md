@@ -67,10 +67,10 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - [Case study: Impact of Lifestyle Factors on Quality of Sleep](https://www.datacamp.com/datalab/w/894bc003-651d-49cd-9cc9-c3dc1f343ee6)
 
 ## Game Development
-- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, SYSS)
-  * Obtained the 297th place in the Ludum Dare 52 theme category
 - [One Life](https://revolution-game.itch.io/one-life)
 - [while (true)](https://no1gameexpert.itch.io/while-true)
+- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, SYSS)
+  * Obtained the 297th place in the Ludum Dare 52 theme category
  
 ## Natural Language Processing
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
