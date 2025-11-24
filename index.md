@@ -38,8 +38,8 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 # ACHIEVEMENTS 🏅
 ## Competitive Programming
 - CityU-PolyU Collegiate Programming Contest 2025 - 2nd Place
-- 2025 CityUHK(DG) Programming Contest - Bronze Medal
 - TCS CodeVita Season 13 Round 1 - Top 5% out of 140,000+ participants
+- 2025 CityUHK(DG) Programming Contest - Bronze Medal
 - The 2024 ICPC Asia Kunming Regional Contest - Bronze Medal
 - The 2024 ICPC Asia Hong Kong Regional Contest - Bronze Medal
 - Hong Kong Secondary School Coding Challenge 2023 - Bronze Medal
