@@ -82,14 +82,14 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 
 <!--## Programming Languages and Compiler-->
 
-## Software Development
+## Software Developmenthttps://github.com/joshuaSYSS/joshuaSYSS.github.io/blob/main/index.md
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 - Pricing Club Simulation
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [CHENG Po Hei](https://github.com/iceheart-ac), CityU)
 
 ## Web Development
-- [Bit by Bit](https://bitbybit-programming.netlify.app/)
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
+- [Bit by Bit](https://bitbybit-programming.netlify.app/)
 
 # CERTIFICATES 📄
 - MATLAB Programming Skills, MathWorks (Nov 2025)
