@@ -36,7 +36,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
   * Supervised by Prof. LIAO Jing
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
-  * Produced a 30-second, entirely AI-generated video
+  * Produced a 30-second, entirely AI-generated video along with video editing techniques
 
 # ACHIEVEMENTS 🏅
 ## Competitive Programming
