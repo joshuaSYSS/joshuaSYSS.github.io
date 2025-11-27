@@ -50,14 +50,14 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - 2022/23 Hong Kong Olympiad in Informatics Junior - Bronze Medal
 - Hong Kong Secondary School Coding Challenge 2022 - Finalist
 
-## Game Development
-- [Untitled Game Jam #72](https://itch.io/jam/untitled-game-jam-72) - Winner
-- [Untitled Game Jam #73](https://itch.io/jam/untitled-game-jam-73) - Runner Up
-
 ## Sports
 - 2023/24 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
 - 2022/23 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
 - 「國慶摘星盃」– 觀塘區中學校際乒乓球邀請賽 - Third Place
+
+## Game Development
+- [Untitled Game Jam #72](https://itch.io/jam/untitled-game-jam-72) - Winner
+- [Untitled Game Jam #73](https://itch.io/jam/untitled-game-jam-73) - Runner Up
 
 # PROJECTS 🖥
 ## Algorithms and Data Structures
