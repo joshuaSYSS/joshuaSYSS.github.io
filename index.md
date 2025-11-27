@@ -74,7 +74,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
   * Untitled Game Jam #72 Winner
 - [while (true)](https://no1gameexpert.itch.io/while-true)
   * Untitled Game Jam #73 Runner Up
-- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy Tam, SYSS)
+- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy TAM, SYSS)
   * Obtained the 297th place in the Ludum Dare 52 theme category
  
 ## Natural Language Processing
