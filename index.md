@@ -82,7 +82,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 
 <!--## Programming Languages and Compiler-->
 
-## Software Developmenthttps://github.com/joshuaSYSS/joshuaSYSS.github.io/blob/main/index.md
+## Software Development
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 - Pricing Club Simulation
 - TofuSwap (With [CHENG Po Hei](https://github.com/iceheart-ac), CityU) (Still in development)
