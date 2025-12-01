@@ -80,8 +80,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 ## Natural Language Processing
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
 
-<!--## Programming Languages and Compiler-->
-
 ## Software Development
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 - Pricing Club Simulation
@@ -98,14 +96,9 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - Google Cybersecurity Professional Certificate, Coursera (Jul 2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (Jun 2023)
 
-<!--# Bootcamps 🏕️-->
-
 # AFFILIATED WEBSITES 🌐
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
 - [LinkedIn.com/in/choikuiwang](https://www.linkedin.com/in/choikuiwang)
 
 # CONTACT ME! 📫
 - Email: [6B 75 69 77 63 68 6F 69 32 2D 63 40 6D 79 2E 63 69 74 79 75 2E 65 64 75 2E 68 6B](https://hexadecimal-to-ascii.infinityfreeapp.com)
-
-# Curriculum Vitae
-[My CV](https://joshuasyss.github.io/Resume.docx)
