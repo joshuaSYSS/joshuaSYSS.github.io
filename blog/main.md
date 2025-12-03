@@ -1,5 +1,5 @@
 # BLOG
-I will mostly record notes on what I have learned and completed in computational geometry. Good luck to me.<br>
+I will mostly record notes on what I have learnt, or some blogs on contests.<br>
 
 ## Topics
 Empty for now
