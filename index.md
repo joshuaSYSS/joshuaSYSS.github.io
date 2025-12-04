@@ -20,12 +20,12 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - Research Assistant, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by Prof. LI Minming
   * Research on fair division
-- Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Jun 2026)
+- Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
   * Supervised by Prof. LAI Sin Chit
   * Designed and developed an interactive game simulating collusive pricing behaviour with 5 different scenarios to support teaching
   * Implemented TCP/IP networking framework to enable multi-user gameplay
   * Reviewed data collection workflow with academic staff, developed and designed automation features to boost efficiency by 10%
-- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Jun 2026)
+- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Present)
   * Provided data analytics support for evaluating and enhancing CityU’s institutional research performance
   * Analysed over 30 datasets, with over 1000 records
   * Produced 20 visualisations to facilitate data analysis
