@@ -111,5 +111,7 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
 - [LinkedIn.com/in/choikuiwang](https://www.linkedin.com/in/choikuiwang)
 
-# CONTACT ME! 📫
+# PERSONAL INFORMATION 📫
+- Location: Hong Kong
 - Email: [6B 75 69 77 63 68 6F 69 32 2D 63 40 6D 79 2E 63 69 74 79 75 2E 65 64 75 2E 68 6B](https://hexadecimal-to-ascii.infinityfreeapp.com)
+- ORCID: 0009-0009-8723-0223
