@@ -17,9 +17,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
   * Table Tennis School Team Member
 
 # WORK & RELEVANT EXPERIENCE 📈
-- Research Assistant, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
-  * Supervised by Prof. LI Minming
-  * Research on fair division
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
   * Supervised by Prof. LAI Sin Chit
   * Designed and developed an interactive game simulating collusive pricing behaviour with 5 different scenarios to support teaching
