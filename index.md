@@ -95,7 +95,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
-- [Bit by Bit](https://bitbybit-programming.netlify.app/)
 
 # CERTIFICATES 📄
 - MATLAB Programming Skills, MathWorks (Nov 2025)
