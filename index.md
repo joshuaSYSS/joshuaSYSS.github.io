@@ -67,9 +67,9 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - [Untitled Game Jam #72](https://itch.io/jam/untitled-game-jam-72) - Winner
 - [Untitled Game Jam #73](https://itch.io/jam/untitled-game-jam-73) - Runner Up
 
-<!--# Technical Reports & Research Notes-->
+<!--# Technical Reports & Research Notes 📑-->
 
-# PROJECTS 🖥
+# PROJECTS 🛠
 <!--## Artificial Intelligence-->
 <!--### AI Game Programming-->
 
