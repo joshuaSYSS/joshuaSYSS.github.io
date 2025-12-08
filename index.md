@@ -16,7 +16,16 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
   * Competitive Programming School Team Member
   * Table Tennis School Team Member
 
-# WORK & RELEVANT EXPERIENCE 📈
+# RESEARCH EXPERIENCE 🔬
+- Supervised Research under Prof. LI Minming, Department of Computer Science, CityU, Hong Kong (Research Mentorship Scheme)
+  * Research on fair division
+- Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
+  * Supervised by Prof. LIAO Jing
+  * Learnt and researched about state-of-the-art image and video generation models
+  * Had hands-on experience with LoRA and Stable Diffusion
+  * Produced a 30-second, entirely AI-generated video along with video editing techniques
+
+# WORK EXPERIENCE 📈
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
   * Supervised by Prof. LAI Sin Chit
   * Designed and developed an interactive game simulating collusive pricing behaviour with 5 different scenarios to support teaching
@@ -29,11 +38,6 @@ Hi, I am Joshua Choi Kui Wang 蔡居宏, a Computer Science undergraduate studen
 - PALSI Leader (MA1200 - Calculus and Basic Linear Algebra I), Talent and Education Development Office, CityU, Hong Kong (Sep 2025 - Dec 2025)
   * Nominated by the Department of Mathematics
   * Tutored 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
-- Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
-  * Supervised by Prof. LIAO Jing
-  * Learnt and researched about state-of-the-art image and video generation models
-  * Had hands-on experience with LoRA and Stable Diffusion
-  * Produced a 30-second, entirely AI-generated video along with video editing techniques
 
 # ACHIEVEMENTS 🏅
 ## Competitive Programming
