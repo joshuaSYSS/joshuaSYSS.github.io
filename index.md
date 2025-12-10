@@ -6,7 +6,6 @@ Hi, I am Joshua CHOI Kui Wang 蔡居宏, a Computer Science undergraduate studen
 
 # EDUCATION 🏫
 - B.Sc. Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
-  * HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000 (2025)
   * Dean's List x1
   * Competitive Programming School Team Member
 
@@ -70,6 +69,10 @@ Hi, I am Joshua CHOI Kui Wang 蔡居宏, a Computer Science undergraduate studen
 **2023**
 - [Untitled Game Jam #72](https://itch.io/jam/untitled-game-jam-72) - Winner
 - [Untitled Game Jam #73](https://itch.io/jam/untitled-game-jam-73) - Runner Up
+
+# SCHOLARSHIPS & FUNDINGS 📜
+**2025**
+- HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
 
 <!--# Technical Reports & Research Notes 📑-->
 
