@@ -17,7 +17,7 @@ I have not decided on what kind of research interest I will be focusing on, but 
   * Table Tennis School Team Member
 
 # RESEARCH EXPERIENCE
-- Supervised Research under Prof. LI Minming, Department of Computer Science, CityU, Hong Kong (Research Mentorship Scheme)
+- Supervised Research under Prof. LI Minming, Department of Computer Science, CityU, Hong Kong (Research Mentoring Scheme)
   * Research on fair division
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Supervised by Prof. LIAO Jing
