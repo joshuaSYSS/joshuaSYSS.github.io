@@ -6,11 +6,11 @@ Hi, I am Joshua CHOI Kui Wang 蔡居宏, a Computer Science undergraduate studen
 I have not decided on what kind of research interest I will be focusing on, but for now, I'm interested in Algorithm Design and Computational Geometry.<br><br><br><br><br><br><br><br>
 
 # EDUCATION
-- B.Sc. Computer Science, City University of Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
+- B.Sc. Computer Science, City University of Hong Kong, Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
   * Dean's List x1
   * Competitive Programming School Team Member
 
-- Sing Yin Secondary School (Sep 2018 - May 2024)
+- Sing Yin Secondary School, Hong Kong (Sep 2018 - May 2024)
   * 2023/24 1st in Mathematics (Extended Part - Module 1)
   * 2022/23 Youth Arch Student Improvement Award
   * Competitive Programming School Team Member
