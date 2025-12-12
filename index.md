@@ -3,7 +3,7 @@
 </head>
 <img src="image.jpg" width="200" align="right">
 Hi, I am Joshua CHOI Kui Wang 蔡居宏, a Computer Science undergraduate student studying at CityUHK.<br>
-I am broadly interested in the Design and Analysis of Algorithms across various topics.<br><br><br><br><br><br><br><br>
+I am extremely interested in the Design and Analysis of Algorithms across various topics.<br><br><br><br><br><br><br><br>
 
 # EDUCATION
 - B.Sc. Computer Science, City University of Hong Kong, Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
