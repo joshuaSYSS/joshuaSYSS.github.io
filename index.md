@@ -70,7 +70,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - [Untitled Game Jam #72](https://itch.io/jam/untitled-game-jam-72) - Winner
 - [Untitled Game Jam #73](https://itch.io/jam/untitled-game-jam-73) - Runner Up
 
-# SCHOLARSHIPS & FUNDINGS
+# SCHOLARSHIPS
 **2025**
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
 
