@@ -30,7 +30,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Supervised by Prof. LAI Sin Chit
   * Designed and developed an interactive game simulating collusive pricing behaviour with 7 different scenarios to support teaching
   * Implemented TCP/IP networking framework to enable multi-user gameplay
-- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Present)
+- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Jun 2026)
   * Provided data analytics support for evaluating and enhancing CityU’s institutional research performance
   * Analysed over 30 datasets, with over 1000 records
   * Produced 20 visualisations to facilitate data analysis
