@@ -17,10 +17,10 @@ I am highly interested in the design and analysis of algorithms across various t
   * Table Tennis School Team Member
 
 # RESEARCH EXPERIENCE
-- Research Mentoring Scheme under Prof. LI Minming, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Jun 2026)
+- Research Mentoring Scheme under Prof. Minming LI, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Jun 2026)
   * Research on fair division
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
-  * Supervised by Prof. LIAO Jing
+  * Supervised by Prof. Jing LIAO
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
   * Produced a 30-second, entirely AI-generated video along with video editing techniques
