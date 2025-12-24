@@ -59,7 +59,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 ## Mathematics
 **2025**
-- International Invitational Math Optimization Challenge - Gold Award (8th place out of 209 teams)
+- International Invitational Math Optimization Challenge 2025 - Gold Award (8th place out of 209 teams)
 
 ## Sports
 **2023**
