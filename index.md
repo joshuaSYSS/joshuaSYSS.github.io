@@ -42,7 +42,6 @@ I am highly interested in the design and analysis of algorithms across various t
 ## Competitive Programming
 **2025**
 - CityU-PolyU Collegiate Programming Contest 2025 - 2nd Place
-- International Invitational Math Optimization Challenge - Gold Award (8th place out of 209 teams)
 - 2025 CityUHK(DG) Programming Contest - Bronze Medal
 - TCS CodeVita Season 13 Round 1 - Top 5% out of 140,000+ participants
 
@@ -57,6 +56,10 @@ I am highly interested in the design and analysis of algorithms across various t
 **2022**
 - 2022/23 Hong Kong Olympiad in Informatics Junior - Bronze Medal
 - Hong Kong Secondary School Coding Challenge 2022 - Finalist
+
+## Mathematics
+**2025**
+- International Invitational Math Optimization Challenge - Gold Award (8th place out of 209 teams)
 
 ## Sports
 **2023**
