@@ -72,6 +72,8 @@ I am highly interested in the design and analysis of algorithms across various t
 - [Untitled Game Jam #72](https://itch.io/jam/untitled-game-jam-72) - Winner
 - [Untitled Game Jam #73](https://itch.io/jam/untitled-game-jam-73) - Runner Up
 
+[Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
+
 # SCHOLARSHIPS
 **2025**
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
@@ -91,6 +93,8 @@ I am highly interested in the design and analysis of algorithms across various t
 
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
+
+[Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
 # CERTIFICATES
 - MATLAB Programming Skills, MathWorks (Nov 2025)
