@@ -97,7 +97,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Untitled Game Jam #72 Winner
 - [while (true)](https://no1gameexpert.itch.io/while-true)
   * Untitled Game Jam #73 Runner Up
-- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy TAM, SYSS)
+- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy TAM)
   * Obtained the 297th place in the Ludum Dare 52 theme category
  
 ## Natural Language Processing
@@ -106,7 +106,7 @@ I am highly interested in the design and analysis of algorithms across various t
 ## Software Development
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 - Pricing Club Simulation
-- TofuSwap (With [CHENG Po Hei](https://github.com/iceheart-ac), CityU) (Still in development)
+- TofuSwap (With [CHENG Po Hei](https://github.com/iceheart-ac)) (Still in development)
 
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
