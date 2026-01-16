@@ -20,8 +20,10 @@ I am highly interested in the design and analysis of algorithms across various t
 - Research Mentoring Scheme, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Jun 2026)
   * Supervised by Prof. Minming LI
   * Research Title: _Temporal Fair Division of Indivisible Goods with Scheduling_
+  * Research Topic: Fair Division
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Supervised by Prof. Jing LIAO
+  * Research Topic: AI Painting
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
   * Produced a 30-second, entirely AI-generated video along with video editing techniques
