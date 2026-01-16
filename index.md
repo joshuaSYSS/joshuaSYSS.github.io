@@ -84,6 +84,7 @@ I am highly interested in the design and analysis of algorithms across various t
 # SCHOLARSHIPS
 **2026**
 - Bright Future Whole Person Development Scholarship, HKD 181,000
+
 **2025**
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10,000
 
