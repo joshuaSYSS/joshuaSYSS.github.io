@@ -40,6 +40,12 @@ I am highly interested in the design and analysis of algorithms across various t
   * Nominated by the Department of Mathematics
   * Tutored 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
 
+<!--# CONFERENCES/JOURNALS PUBLICATIONS-->
+
+<!--# WORKSHOPS PUBLICATIONS-->
+
+<!--# PREPRINTS-->
+
 # ACHIEVEMENTS
 ## Competitive Programming
 **2025**
@@ -78,12 +84,6 @@ I am highly interested in the design and analysis of algorithms across various t
 # SCHOLARSHIPS
 **2025**
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10000
-
-<!--# PUBLICATIONS-->
-
-<!--# TECHNICAL REPORTS & RESEARCH NOTES-->
-
-<!--# WORKING PAPERS-->
 
 # SELECTED PROJECTS
 <!--## Artificial Intelligence-->
