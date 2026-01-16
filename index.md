@@ -76,7 +76,6 @@ I am highly interested in the design and analysis of algorithms across various t
 ## Game Development
 **2023**
 - [Untitled Game Jam #72](https://itch.io/jam/untitled-game-jam-72) - Winner
-- [Untitled Game Jam #73](https://itch.io/jam/untitled-game-jam-73) - Runner Up
 
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
