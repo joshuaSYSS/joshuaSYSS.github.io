@@ -66,13 +66,6 @@ I am highly interested in the design and analysis of algorithms across various t
 - The 2024 ICPC Asia Kunming Regional Contest - Bronze Medal
 - The 2024 ICPC Asia Hong Kong Regional Contest - Bronze Medal
 
-**2023**
-- Hong Kong Secondary School Coding Challenge 2023 - Bronze Medal
-- 7th La Salle — Pui Ching Programming Challenge - Merit Prize
-
-**2022**
-- 2022/23 Hong Kong Olympiad in Informatics Junior - Bronze Medal
-
 ## Mathematics
 **2025**
 - International Invitational Math Optimization Challenge 2025 - Gold Award (8th place out of 209 teams)
