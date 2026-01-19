@@ -49,6 +49,13 @@ I am highly interested in the design and analysis of algorithms across various t
 
 <!--# PREPRINTS-->
 
+# SCHOLARSHIPS
+**2026**
+- Bright Future Whole Person Development Scholarship, HKD 181,000
+
+**2025**
+- HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10,000
+
 # ACHIEVEMENTS
 ## Competitive Programming
 **2025**
@@ -82,13 +89,6 @@ I am highly interested in the design and analysis of algorithms across various t
 - [Untitled Game Jam #72](https://itch.io/jam/untitled-game-jam-72) - Winner
 
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
-
-# SCHOLARSHIPS
-**2026**
-- Bright Future Whole Person Development Scholarship, HKD 181,000
-
-**2025**
-- HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10,000
 
 # SELECTED PROJECTS
 <!--## Artificial Intelligence-->
