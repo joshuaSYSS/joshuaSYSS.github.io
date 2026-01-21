@@ -19,7 +19,6 @@ I am highly interested in the design and analysis of algorithms across various t
 # RESEARCH EXPERIENCE
 - Research Mentoring Scheme, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Jun 2026)
   * Supervised by Prof. Minming LI
-  * Research Title: _Temporal Fair Division of Indivisible Goods with Scheduling_
   * Research Topic: Fair Division
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Supervised by Prof. Jing LIAO
@@ -46,6 +45,9 @@ I am highly interested in the design and analysis of algorithms across various t
 <!--# WORKSHOPS PUBLICATIONS-->
 
 <!--# PREPRINTS-->
+# PREPRINTS
+- _Temporal Fair Division of Indivisible Goods with Scheduling_ [[arXiv](https://arxiv.org/abs/2601.12835)]
+  > CHOI Kui Wang and Minming LI
 
 # SCHOLARSHIPS
 **2026**
