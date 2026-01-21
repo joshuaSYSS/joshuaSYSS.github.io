@@ -46,7 +46,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 <!--# PREPRINTS-->
 # PREPRINTS
-- _Temporal Fair Division of Indivisible Goods with Scheduling_, CHOI Kui Wang and Minming LI [[arXiv](https://arxiv.org/abs/2601.12835)]
+- **CHOI Kui Wang** and Minming LI, _Temporal Fair Division of Indivisible Goods with Scheduling_. 	arXiv:2601.12835 [[arXiv](https://arxiv.org/abs/2601.12835)]
 
 # SCHOLARSHIPS
 **2026**
