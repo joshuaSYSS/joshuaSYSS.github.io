@@ -1,7 +1,7 @@
 # Projects
 
 ## AI Game Programming
-- reversiAI (With [CHOI Ho Ming](https://github.com/Metamorphosis1116))
+- [reversiAI](https://github.com/joshuaSYSS/reversiAI) (With [Harry CHOI](https://github.com/Metamorphosis1116))
   * Programmed a Minimax-based AI algorithm to compete in Reversi
   * Obtained an ELO rating of 1214
 
@@ -22,7 +22,7 @@
 ## Software Development
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 - Pricing Club Simulation
-- TofuSwap (With [CHENG Po Hei](https://github.com/iceheart-ac)) (Still in development)
+- TofuSwap (With [Andy CHENG](https://github.com/iceheart-ac)) (Still in development)
 
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
