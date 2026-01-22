@@ -1,5 +1,10 @@
 # Projects
 
+## AI Game Programming
+- reversiAI (With [CHOI Ho Ming](https://github.com/Metamorphosis1116))
+  * Programmed a Minimax-based AI algorithm to compete in Reversi
+  * Obtained an ELO rating of 1214
+
 ## Data Analytics
 - [Case study: Impact of Lifestyle Factors on Quality of Sleep](https://www.datacamp.com/datalab/w/894bc003-651d-49cd-9cc9-c3dc1f343ee6)
 
