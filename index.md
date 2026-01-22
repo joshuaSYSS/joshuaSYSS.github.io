@@ -29,7 +29,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # WORK EXPERIENCE
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
-  * Supervised by Prof. LAI Sin Chit
+  * Supervised by Prof. Martin LAI
   * Designed and developed an interactive game simulating collusive pricing behaviour with 7 different scenarios to support teaching
   * Implemented TCP/IP networking framework to enable multi-user gameplay
 - Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Jun 2026)
@@ -83,13 +83,12 @@ I am highly interested in the design and analysis of algorithms across various t
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
 # SELECTED PROJECTS
-<!--## Artificial Intelligence-->
-<!--### AI Game Programming-->
-
-## Software Development
 - Pricing Club Simulation
-
-## Web Development
+  * Developed using my tenure as a research assistant in the School of Law, CityU, under the supervision of Prof. Martin LAI
+  * Details are not disclosed due to confidentiality
+- reversiAI (With [CHOI Ho Ming](https://github.com/Metamorphosis1116))
+  * Programmed a Minimax-based AI algorithm to compete in Reversi
+  * Obtained an ELO rating of 1214
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
 
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
