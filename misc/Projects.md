@@ -13,7 +13,7 @@
   * Untitled Game Jam #72 Winner
 - [while (true)](https://no1gameexpert.itch.io/while-true)
   * Untitled Game Jam #73 Runner Up
-- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With Sammy TAM)
+- [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With [Sammy TAM](https://www.linkedin.com/in/sammy-tam-7701793a3/))
   * Obtained the 297th place in the Ludum Dare 52 theme category
 
 ## Natural Language Processing
