@@ -103,6 +103,7 @@ I am highly interested in the design and analysis of algorithms across various t
 # AFFILIATED WEBSITES
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
 - [LinkedIn.com/in/choikuiwang](https://www.linkedin.com/in/choikuiwang)
+- [Google Scholar](https://scholar.google.com/citations?user=nqT6bzsAAAAJ)
 
 # PERSONAL INFORMATION
 - Location: Hong Kong
