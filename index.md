@@ -44,7 +44,6 @@ I am highly interested in the design and analysis of algorithms across various t
 
 <!--# WORKSHOPS PUBLICATIONS-->
 
-<!--# PREPRINTS-->
 # PREPRINTS
 - **CHOI Kui Wang** and Minming LI (2026), _Temporal Fair Division of Indivisible Goods with Scheduling_. 	arXiv:2601.12835 [[arXiv](https://arxiv.org/abs/2601.12835)]
 
@@ -75,10 +74,6 @@ I am highly interested in the design and analysis of algorithms across various t
 
 **2022**
 - 2022/23 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
-
-## Game Development
-**2023**
-- [Untitled Game Jam #72](https://itch.io/jam/untitled-game-jam-72) - Winner
 
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
