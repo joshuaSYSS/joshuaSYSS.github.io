@@ -88,7 +88,6 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # CERTIFICATES
 - MATLAB Programming Skills, MathWorks (Nov 2025)
-- C++ Programming Professional Certificate by OpenEDG C++ Institute, LinkedIn Learning (Sep 2025)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 - Google Cybersecurity Professional Certificate, Coursera (Jul 2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (Jun 2023)
