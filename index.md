@@ -84,6 +84,7 @@ I am highly interested in the design and analysis of algorithms across various t
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
 # CERTIFICATES
+- Datacom Software Development Job Simulation on Forage (Feb 2026)
 - MATLAB Programming Skills, MathWorks (Nov 2025)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 - Google Cybersecurity Professional Certificate, Coursera (Jul 2025)
