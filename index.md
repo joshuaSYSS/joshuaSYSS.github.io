@@ -104,6 +104,16 @@ I am highly interested in the design and analysis of algorithms across various t
 - [Google Scholar](https://scholar.google.com/citations?user=nqT6bzsAAAAJ)
 
 # PERSONAL INFORMATION
-- Location: Hong Kong
-- Email: [6B 75 69 77 63 68 6F 69 32 2D 63 40 6D 79 2E 63 69 74 79 75 2E 65 64 75 2E 68 6B](https://hexadecimal-to-ascii.infinityfreeapp.com)
-- ORCID: [0009-0009-8723-0223](https://orcid.org/0009-0009-8723-0223)
+## Where Am I?
+Hong Kong
+
+## Language
+- Cantonese: Native
+- English: Working Proficiency (IELTS 7.5 in December 2023)
+- Mandarin: Working Proficiency
+
+## Contact Information
+Email in hex: [6B 75 69 77 63 68 6F 69 32 2D 63 40 6D 79 2E 63 69 74 79 75 2E 65 64 75 2E 68 6B](https://hexadecimal-to-ascii.infinityfreeapp.com) 
+
+## Misc
+ORCID: [0009-0009-8723-0223](https://orcid.org/0009-0009-8723-0223)
