@@ -17,7 +17,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Table Tennis School Team Member (2019 - 2024)
 
 # RESEARCH EXPERIENCE
-- Undergraduate Student Researcher, Bo LI's Research Group, PolyU, Hong Kong (Feb 2026 - Present)
+- Undergraduate Student Researcher, Bo LI's Group, PolyU, Hong Kong (Feb 2026 - Present)
   * Supervised by Prof. Bo LI
 - Research Mentoring Scheme, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Jun 2026)
   * Supervised by Prof. Minming LI
