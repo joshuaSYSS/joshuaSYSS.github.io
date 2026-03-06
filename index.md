@@ -23,7 +23,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Supervised by Prof. Minming LI
   * Research Topic: Fair Division
   * Designed 9 innovative and original algorithms that allocate goods in a fair manner
-  * Produced _Temporal Fair Division of Indivisible Goods with Scheduling_, currently under review in IJCAI 2026
+  * Produced _Temporal Fair Division of Indivisible Goods with Scheduling_
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Supervised by Prof. Jing LIAO
   * Research Topic: AI Painting
