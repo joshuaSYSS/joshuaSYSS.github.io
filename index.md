@@ -74,13 +74,6 @@ I am highly interested in the design and analysis of algorithms across various t
 **2025**
 - International Invitational Math Optimization Challenge 2025 - Gold Award (8th place out of 209 teams)
 
-## Sports
-**2023**
-- 2023/24 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
-
-**2022**
-- 2022/23 Inter-School Table Tennis Competition (Kowloon, Division Three) - Champion
-
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
 # SELECTED PROJECTS
