@@ -77,11 +77,6 @@ I am highly interested in the design and analysis of algorithms across various t
 
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
-# VOLUNTEER EXPERIENCE
-- Founder & Lead Developer, Social Logic, Hong Kong (March 2026 - Present)
-  * At Social Logic, we utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
-  * Created [Fair4All](https://fair4all.netlify.app/).
-
 # SELECTED PROJECTS
 - Pricing Club Simulation
   * Developed using my tenure as a research assistant in the School of Law, CityU, under the supervision of Prof. Martin LAI
@@ -97,6 +92,11 @@ I am highly interested in the design and analysis of algorithms across various t
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 - Google Cybersecurity Professional Certificate, Coursera (Jul 2025)
 - AI-900: Microsoft Azure AI Fundamentals, Microsoft (Jun 2023)
+
+# VOLUNTEER EXPERIENCE
+- Founder & Lead Developer, Social Logic, Hong Kong (March 2026 - Present)
+  * At Social Logic, we utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
+  * Created [Fair4All](https://fair4all.netlify.app/).
 
 # AFFILIATED WEBSITES
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
