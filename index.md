@@ -77,6 +77,8 @@ I am highly interested in the design and analysis of algorithms across various t
 
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
+<!--VOLUNTEER EXPERIENCE-->
+
 # SELECTED PROJECTS
 - Pricing Club Simulation
   * Developed using my tenure as a research assistant in the School of Law, CityU, under the supervision of Prof. Martin LAI
