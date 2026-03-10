@@ -77,7 +77,9 @@ I am highly interested in the design and analysis of algorithms across various t
 
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
-<!--VOLUNTEER EXPERIENCE-->
+# VOLUNTEER EXPERIENCE
+- Founder & Lead Developer, Social Logic, Hong Kong (March 2026 - Present)
+  * At Social Logic, I utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
 
 # SELECTED PROJECTS
 - Pricing Club Simulation
