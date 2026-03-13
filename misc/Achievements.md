@@ -1,5 +1,8 @@
 # ACHIEVEMENTS
 ## Competitive Programming
+**2026**
+- ClashCode – The Ultimate Coding Battle - 18th place out of 283 participants
+
 **2025**
 - CityU-PolyU Collegiate Programming Contest 2025 - 2nd Place
 - 2025 CityUHK(DG) Programming Contest - Bronze Medal
