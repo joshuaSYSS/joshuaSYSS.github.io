@@ -79,8 +79,6 @@ I am highly interested in the design and analysis of algorithms across various t
 - Datacom Software Development Job Simulation, Forage (Feb 2026)
 - MATLAB Programming Skills, MathWorks (Nov 2025)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
-- Google Cybersecurity Professional Certificate, Coursera (Jul 2025)
-- AI-900: Microsoft Azure AI Fundamentals, Microsoft (Jun 2023)
 
 # VOLUNTEER EXPERIENCE
 - Founder & Lead Developer, Social Logic, Hong Kong (March 2026 - Present)
