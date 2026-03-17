@@ -52,22 +52,15 @@ I am highly interested in the design and analysis of algorithms across various t
 <!--# WORKSHOPS PUBLICATIONS-->
 
 # PREPRINTS
-- **Choi Kui Wang** and Minming Li (2026), _Temporal Fair Division of Indivisible Goods with Scheduling_. 	arXiv:2601.12835 [[arXiv](https://arxiv.org/abs/2601.12835)]
+- **Choi Kui Wang** and Minming Li (2026), _Temporal Fair Division of Indivisible Goods with Scheduling_. arXiv:2601.12835 [[arXiv](https://arxiv.org/abs/2601.12835)]
 
 # SCHOLARSHIPS
-**2026**
-- Bright Future Whole Person Development Scholarship, HKD 181,000
-
-**2025**
+- Bright Future Whole Person Development Scholarship 2025/2026, HKD 181,000
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10,000
 
 # ACHIEVEMENTS
-**2025**
 - CityU-PolyU Collegiate Programming Contest 2025 - 2nd Place
-- 2025 CityUHK(DG) Programming Contest - Bronze Medal
 - International Invitational Math Optimization Challenge 2025 - Gold Award (8th place out of 209 teams)
-
-**2024**
 - The 2024 ICPC Asia Kunming Regional Contest - Bronze Medal
 - The 2024 ICPC Asia Hong Kong Regional Contest - Bronze Medal
 
