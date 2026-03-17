@@ -1,4 +1,4 @@
-# ACHIEVEMENTS
+# Achievements
 ## Competitive Programming
 **2026**
 - ClashCode – The Ultimate Coding Battle - 18th place out of 283 participants
