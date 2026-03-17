@@ -62,18 +62,14 @@ I am highly interested in the design and analysis of algorithms across various t
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10,000
 
 # ACHIEVEMENTS
-## Competitive Programming
 **2025**
 - CityU-PolyU Collegiate Programming Contest 2025 - 2nd Place
 - 2025 CityUHK(DG) Programming Contest - Bronze Medal
+- International Invitational Math Optimization Challenge 2025 - Gold Award (8th place out of 209 teams)
 
 **2024**
 - The 2024 ICPC Asia Kunming Regional Contest - Bronze Medal
 - The 2024 ICPC Asia Hong Kong Regional Contest - Bronze Medal
-
-## Mathematics
-**2025**
-- International Invitational Math Optimization Challenge 2025 - Gold Award (8th place out of 209 teams)
 
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
