@@ -18,15 +18,15 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # RESEARCH EXPERIENCE
 <!--REU Summer Program, Rutger University, New Jersey, United States (May 2026 - July 2026)-->
-- Undergraduate Research Student, Bo LI's Group, PolyU, Hong Kong (Feb 2026 - Present)
-  * Supervised by Prof. Bo LI
+- Undergraduate Research Student, Bo Li's Group, PolyU, Hong Kong (Feb 2026 - Present)
+  * Supervised by Prof. Bo Li
 - Research Mentoring Scheme, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Jun 2026)
-  * Supervised by Prof. Minming LI
+  * Supervised by Prof. Minming Li
   * Research Topic: Fair Division
   * Designed 9 innovative and original algorithms that allocate goods in a fair manner
   * Produced _Temporal Fair Division of Indivisible Goods with Scheduling_
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
-  * Supervised by Prof. Jing LIAO
+  * Supervised by Prof. Jing Liao
   * Research Topic: AI Painting
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
@@ -34,7 +34,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # WORK EXPERIENCE
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
-  * Supervised by Prof. Martin LAI
+  * Supervised by Prof. Martin Lai
   * Designed an interactive game simulating collusive pricing behavior based on good software design practices
   *	Developed a Windows application in C# through the Spiral Development Lifecycle
   *	Used by 16 participants in the course LW6161E
@@ -68,7 +68,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # SELECTED PROJECTS
 - Pricing Club Simulation
-  * Developed using my tenure as a research assistant in the School of Law, CityU, under the supervision of Prof. Martin LAI
+  * Developed using my tenure as a research assistant in the School of Law, CityU
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac))
 - [reversiAI](https://github.com/joshuaSYSS/reversiAI) (With [Harry CHOI](https://github.com/Metamorphosis1116))
 
