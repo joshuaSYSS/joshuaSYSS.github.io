@@ -80,7 +80,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - MATLAB Programming Skills, MathWorks (Nov 2025)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 
-# VOLUNTEER EXPERIENCE
+# SERVICES
 - Founder & Lead Developer, Social Logic, Hong Kong (March 2026 - Present)
   * At Social Logic, we utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
   * Created [Fair4All](https://fair4all.netlify.app/), [FairInScheduling](https://fairinscheduling.netlify.app/).
