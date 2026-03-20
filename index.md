@@ -85,6 +85,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * At Social Logic, we utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
   * Created [Fair4All](https://fair4all.netlify.app/), [FairInScheduling](https://fairinscheduling.netlify.app/).
   * [Visit](https://social-logic.github.io/) our website now!
+- Logistics Volunteer, Hong Kong Secondary School Coding Challenge 2025
 
 # AFFILIATED WEBSITES
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
