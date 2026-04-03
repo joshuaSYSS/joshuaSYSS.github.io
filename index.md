@@ -20,7 +20,7 @@ I am highly interested in the design and analysis of algorithms across various t
 <!--REU Summer Program, Rutgers University, New Jersey, United States (May 2026 - July 2026)-->
 - Undergraduate Research Student, Bo Li's Group, PolyU, Hong Kong (Feb 2026 - Present)
   * Supervised by Prof. Bo Li
-- Research Mentoring Scheme, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Jun 2026)
+- Research Mentoring Scheme, Department of Computer Science, CityU, Hong Kong (Jul 2025 - May 2026)
   * Supervised by Prof. Minming Li
   * Research Topic: Fair Division
   * Designed 9 innovative and original algorithms that allocate goods in a fair manner
