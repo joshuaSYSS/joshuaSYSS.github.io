@@ -17,7 +17,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Table Tennis School Team Member (2019 - 2024)
 
 # RESEARCH EXPERIENCE
-<!--REU Summer Program, Rutger University, New Jersey, United States (May 2026 - July 2026)-->
+<!--REU Summer Program, Rutgers University, New Jersey, United States (May 2026 - July 2026)-->
 - Undergraduate Research Student, Bo Li's Group, PolyU, Hong Kong (Feb 2026 - Present)
   * Supervised by Prof. Bo Li
 - Research Mentoring Scheme, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Jun 2026)
@@ -74,18 +74,19 @@ I am highly interested in the design and analysis of algorithms across various t
 
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
-# CERTIFICATES
-- Deloitte Australia Data Analytics Job Simulation, Forage (March 2026)
-- Datacom Software Development Job Simulation, Forage (Feb 2026)
-- MATLAB Programming Skills, MathWorks (Nov 2025)
-- Google Data Analytics Professional Certificate, Coursera (Aug 2025)
-
-# SERVICES
+# LEADERSHIPS AND COMMUNITY SERVICES
+- Leadership Horizons Programme 2025-26 by LinkedIn Learning (April 2026 - Present)
 - Founder & Lead Developer, Social Logic, Hong Kong (March 2026 - Present)
   * At Social Logic, we utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
   * Created [Fair4All](https://fair4all.netlify.app/), [FairInScheduling](https://fairinscheduling.netlify.app/).
   * [Visit](https://social-logic.github.io/) our website now!
 - Logistics Volunteer, Hong Kong Secondary School Coding Challenge 2025
+
+# CERTIFICATES
+- Deloitte Australia Data Analytics Job Simulation, Forage (March 2026)
+- Datacom Software Development Job Simulation, Forage (Feb 2026)
+- MATLAB Programming Skills, MathWorks (Nov 2025)
+- Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 
 # AFFILIATED WEBSITES
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
