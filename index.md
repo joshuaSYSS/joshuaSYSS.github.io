@@ -20,7 +20,7 @@ I am highly interested in the design and analysis of algorithms across various t
 <!--REU Summer Program, Rutgers University, New Jersey, United States (May 2026 - July 2026)-->
 - Undergraduate Research Student, Bo Li's Group, PolyU, Hong Kong (Feb 2026 - Present)
   * Supervised by Prof. Bo Li
-- Research Mentoring Scheme, Department of Computer Science, CityU, Hong Kong (Jul 2025 - May 2026)
+- Research Mentoring Scheme, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by Prof. Minming Li
   * Research Topic: Fair Division
   * Designed 9 innovative and original algorithms that allocate goods in a fair manner
@@ -33,16 +33,16 @@ I am highly interested in the design and analysis of algorithms across various t
   * Produced a 30-second, entirely AI-generated video along with video editing techniques
 
 # WORK EXPERIENCE
-- Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Present)
+- Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Jun 2026)
   * Supervised by Prof. Martin Lai
   * Designed an interactive game simulating collusive pricing behavior based on good software design practices
   *	Developed a Windows application in C# through the Spiral Development Lifecycle
   *	Used by 16 participants in the course LW6161E
   * Implemented TCP/IP networking framework to enable multi-user gameplay
-- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Jun 2026)
+- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - May 2026)
   * Provided data analytics support for evaluating and enhancing CityU’s institutional research performance
-  * Analysed over 30 datasets, with over 1000 records
-  * Produced 20 visualisations to facilitate data analysis
+  * Analyzed over 30 datasets, with over 1000 records
+  * Produced 20 visualizations to facilitate data analysis
 - PALSI Leader (MA1200 - Calculus and Basic Linear Algebra I), Talent and Education Development Office, CityU, Hong Kong (Sep 2025 - Dec 2025)
   * Nominated by the Department of Mathematics
   * Tutored 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
