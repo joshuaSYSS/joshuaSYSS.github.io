@@ -2,7 +2,7 @@
   <meta name="google-site-verification" content="0SEcurk_dKLeFfJ4VC6azCpxCccwgnd3JkByYOdYncA" />
 </head>
 <img src="image.jpg" width="200" align="right">
-Hi, I am Joshua CHOI Kui Wang 蔡居宏, a Computer Science undergraduate student studying at CityUHK.<br>
+Hi, I am Joshua CHOI Kui-Wang 蔡居宏, a Computer Science undergraduate student studying at CityUHK.<br>
 I am highly interested in the design and analysis of algorithms across various topics.<br><br><br><br><br><br><br><br>
 
 # EDUCATION
