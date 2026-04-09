@@ -17,7 +17,6 @@ I am highly interested in the design and analysis of algorithms across various t
   * Table Tennis School Team Member (2019 - 2024)
 
 # RESEARCH EXPERIENCE
-<!--REU Summer Program, Rutgers University, New Jersey, United States (May 2026 - July 2026)-->
 - Undergraduate Research Student, Bo Li's Group, PolyU, Hong Kong (Feb 2026 - Present)
   * Supervised by Prof. Bo Li
 - Research Mentoring Scheme, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
@@ -25,6 +24,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Research Topic: Fair Division
   * Designed 9 innovative and original algorithms that allocate goods in a fair manner
   * Produced _Temporal Fair Division of Indivisible Goods with Scheduling_
+- DIMACS, Rutgers University, New Jersey, United States (May 2026 - July 2026)
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Supervised by Prof. Jing Liao
   * Research Topic: AI Painting
