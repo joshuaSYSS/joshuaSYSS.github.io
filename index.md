@@ -59,7 +59,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10,000
 
 # ACHIEVEMENTS
-- 2026 ICPC National Invitation Tournament - Bronze Medal
+- 2026 ICPC National Invitation Tournament (Shenzhen) - Bronze Medal
 - CityU-PolyU Collegiate Programming Contest 2025 - 2nd Place
 - International Invitational Math Optimization Challenge 2025 - Gold Award (8th place out of 209 teams)
 - IEEEXtreme 19.0 Programming Competition - Hong Kong Champion
