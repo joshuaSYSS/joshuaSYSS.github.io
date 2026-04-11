@@ -1,6 +1,7 @@
 # Achievements
 ## Competitive Programming
 **2026**
+- 2026 ICPC National Invitation Tournament (Shenzhen) - Bronze Medal
 - ClashCode – The Ultimate Coding Battle - 18th place out of 283 participants
 
 **2025**
