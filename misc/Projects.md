@@ -21,7 +21,6 @@
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 - Pricing Club Simulation
 - TofuSwap (With [Andy CHENG](https://github.com/iceheart-ac))
-- AIchitecture (With [Sam WONG](https://github.com/sam5929))
 
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
