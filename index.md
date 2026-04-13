@@ -24,7 +24,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Research Topic: Fair Division
   * Designed 9 innovative and original algorithms that allocate goods in a fair manner
   * Produced _Temporal Fair Division of Indivisible Goods with Scheduling_
-- DIMACS, Rutgers University, New Jersey, United States (May 2026 - July 2026)
+- DIMACS, Rutgers University, New Jersey, United States (May 2026 - Jul 2026)
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Supervised by Prof. Jing Liao
   * Research Topic: AI Painting
@@ -77,15 +77,15 @@ I am highly interested in the design and analysis of algorithms across various t
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
 # LEADERSHIPS AND COMMUNITY SERVICES
-- Leadership Horizons Programme 2025-26 by LinkedIn Learning (April 2026 - Present)
-- Founder & Lead Developer, Social Logic, Hong Kong (March 2026 - Present)
+- Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - Present)
+- Founder & Lead Developer, Social Logic, Hong Kong (Mar 2026 - Present)
   * At Social Logic, we utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
   * Created [Fair4All](https://fair4all.netlify.app/), [FairInScheduling](https://fairinscheduling.netlify.app/).
   * [Visit](https://social-logic.github.io/) our website now!
 - Logistics Volunteer, Hong Kong Secondary School Coding Challenge 2025
 
 # CERTIFICATES
-- Deloitte Australia Data Analytics Job Simulation, Forage (March 2026)
+- Deloitte Australia Data Analytics Job Simulation, Forage (Mar 2026)
 - Datacom Software Development Job Simulation, Forage (Feb 2026)
 - MATLAB Programming Skills, MathWorks (Nov 2025)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
@@ -101,7 +101,7 @@ Hong Kong
 
 ## Language
 - Cantonese: Native
-- English: Working Proficiency (IELTS 7.5 in December 2023)
+- English: Working Proficiency (IELTS 7.5 in Dec 2023)
 - Mandarin: Working Proficiency
 
 ## Contact Information
