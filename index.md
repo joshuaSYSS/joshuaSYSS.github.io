@@ -71,8 +71,8 @@ I am highly interested in the design and analysis of algorithms across various t
 # SELECTED PROJECTS
 - Pricing Club Simulation
   * Developed using my tenure as a research assistant in the School of Law, CityU
-- [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac))
-- [reversiAI](https://github.com/joshuaSYSS/reversiAI) (With [Harry CHOI](https://github.com/Metamorphosis1116))
+- [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac), Sep 2025 - Jan 2026)
+- [reversiAI](https://github.com/joshuaSYSS/reversiAI) (With [Harry CHOI](https://github.com/Metamorphosis1116), Jan 2026)
 
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
