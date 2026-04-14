@@ -79,9 +79,8 @@ I am highly interested in the design and analysis of algorithms across various t
 # LEADERSHIPS AND COMMUNITY SERVICES
 - Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - Present)
 - Founder & Lead Developer, Social Logic, Hong Kong (Mar 2026 - Present)
-  * At Social Logic, we utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
-  * Created [Fair4All](https://fair4all.netlify.app/), [FairInScheduling](https://fairinscheduling.netlify.app/).
-  * [Visit](https://social-logic.github.io/) our website now!
+  * At Social Logic, we utilize Algorithmic Game Theory to build tools and create insights that ensure resource distribution that is fair.
+  * [Visit our website](https://social-logic.github.io/) now!
 
 # CERTIFICATES
 - Deloitte Australia Data Analytics Job Simulation, Forage (Mar 2026)
