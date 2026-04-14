@@ -78,7 +78,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # LEADERSHIPS AND COMMUNITY SERVICES
 - Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - Present)
-- Founder & Lead Developer, Social Logic, Hong Kong (Mar 2026 - Present)
+- Founder & Lead Developer & Lead Researcher, Social Logic, Hong Kong (Mar 2026 - Present)
   * An independent computational research initiative leveraging Algorithmic Game Theory and Mechanism Design to analyze and optimize Hong Kong’s socio-economic frameworks.
   * [Visit our website](https://social-logic.github.io/).
 
