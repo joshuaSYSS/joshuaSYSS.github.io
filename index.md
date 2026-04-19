@@ -81,6 +81,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - Founder & Lead Researcher, Social Logic, Hong Kong (Mar 2026 - Present)
   * An independent computational research initiative leveraging Algorithmic Game Theory and Mechanism Design to analyze and optimize Hong Kong’s socio-economic frameworks.
   * [Visit our website](https://social-logic.github.io/).
+- HKSC Database Mini Competition Logistics Volunteer (Apr 2026)
 
 # CERTIFICATES
 - Deloitte Australia Data Analytics Job Simulation, Forage (Mar 2026)
