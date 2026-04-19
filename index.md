@@ -62,7 +62,6 @@ I am highly interested in the design and analysis of algorithms across various t
 - 2026 ICPC National Invitation Tournament (Shenzhen) - Bronze Medal (Apr 2026)
 - International Invitational Math Optimization Challenge 2025 - Gold Award (8th place out of 209 teams) (Dec 2025)
 - IEEEXtreme 19.0 Programming Competition - Hong Kong Champion (Oct 2025)
-- CityU-PolyU Collegiate Programming Contest 2025 - 2nd Place (Sep 2025)
 - The 2024 ICPC Asia Kunming Regional Contest - Bronze Medal (Dec 2024)
 - The 2024 ICPC Asia Hong Kong Regional Contest - Bronze Medal (Dec 2024)
 
