@@ -83,7 +83,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - HKSC Database Mini Competition Logistics Volunteer (Apr 2026)
 
 # CERTIFICATES
-- 无人机操控实飞体验培训课程, 全球鹰无人机飞行学院 (Apr 2026)
+- 无人机操控实飞体验培训课程, 全球鹰(深圳)无人机有限公司 (Apr 2026)
 - Deloitte Australia Data Analytics Job Simulation, Forage (Mar 2026)
 - Datacom Software Development Job Simulation, Forage (Feb 2026)
 - MATLAB Programming Skills, MathWorks (Nov 2025)
