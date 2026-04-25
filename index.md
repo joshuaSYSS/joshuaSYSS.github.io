@@ -68,8 +68,6 @@ I am highly interested in the design and analysis of algorithms across various t
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
 # SELECTED PROJECTS
-- Pricing Club Simulation (Jun 2025 - Jun 2026)
-  * Developed using my tenure as a research assistant in the School of Law, CityU
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac), Sep 2025 - Jan 2026)
   * An application that recommends a new recipe based on their favorite dishes
   * Selection from a database with 41 dishes and 9 attributes
