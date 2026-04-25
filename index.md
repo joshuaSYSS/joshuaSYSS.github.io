@@ -71,7 +71,13 @@ I am highly interested in the design and analysis of algorithms across various t
 - Pricing Club Simulation (Jun 2025 - Jun 2026)
   * Developed using my tenure as a research assistant in the School of Law, CityU
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac), Sep 2025 - Jan 2026)
+  * An application that recommends a new recipe based on their favorite dishes
+  * Selection from a database with 41 dishes and 9 attributes
+  * Implemented Weighted Jaccard Similarity to achieve O(n^2)
 - [reversiAI](https://github.com/joshuaSYSS/reversiAI) (With [Harry CHOI](https://github.com/Metamorphosis1116), Jan 2026)
+  * A minimax-based AI competing in Reversi (Othello)
+  * Probabilistic Heuristic-based minimax with an average search depth of 8
+  * Obtained an elo of 1214
 
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
