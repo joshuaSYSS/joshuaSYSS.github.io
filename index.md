@@ -22,7 +22,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Research Topic: Fair Division, Computational Social Choice, Theory of Computing
 - Undergraduate Research Student, Prof. Minming Li's Group, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by Prof. Minming Li
-  * Research Topic: Fair Division, Computational Social Choice, Mechansim Design
+  * Research Topic: Fair Division, Computational Social Choice, Mechanism Design
 - DIMACS, Rutgers University, New Jersey, United States (May 2026 - Jul 2026)
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Supervised by Prof. Jing Liao
