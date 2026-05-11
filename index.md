@@ -38,7 +38,7 @@ I am highly interested in the design and analysis of algorithms across various t
   *	Developed a Windows application in C# through the Spiral Development Lifecycle
   *	Used by 16 participants in the course LW6161E
   * Implemented TCP/IP networking framework to enable multi-user gameplay
-- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - May 2026)
+- Intern (Data & Analytics), Research Grants and Contracts Office, CityU, Hong Kong (Sep 2025 - Jun 2026)
   * Provided data analytics support for evaluating and enhancing CityU’s institutional research performance
   * Analyzed over 30 datasets, with over 1000 records
   * Produced 20 visualizations to facilitate data analysis
