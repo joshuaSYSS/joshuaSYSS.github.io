@@ -21,7 +21,7 @@
 ## Software Development
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
 - Pricing Club Simulation
-- TofuSwap (With [Andy CHENG](https://github.com/iceheart-ac))
+- [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac))
 
 ## Web Development
 - [Integrated Science Club Website Group](https://is-club.netlify.app/)
