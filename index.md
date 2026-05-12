@@ -67,7 +67,7 @@ I am highly interested in the design and analysis of algorithms across various t
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
 # SELECTED PROJECTS
-- [α-GraphDC: Setting a New State of the Art on NLGraph Under a 15B Parameter Budget](https://www.kaggle.com/code/kuiwangchoi/graphdc-sub-15b-76-9-accuracy-on-nlgraph) (May 2026)
+- [α-GraphDC: Setting a New State-of-the-Art on NLGraph Under a 15B Parameter Budget](https://www.kaggle.com/code/kuiwangchoi/graphdc-sub-15b-76-9-accuracy-on-nlgraph) (May 2026)
   * Outperformed all sub‑15B‑parameter models on NLGraph connectivity‑hard (76.9%)
   * Used 4‑bit Qwen‑2.5‑14B‑Instruct — zero fine‑tuning, single‑GPU inference
   * Demonstrates that structured guidance beats raw scale in constrained reasoning.
