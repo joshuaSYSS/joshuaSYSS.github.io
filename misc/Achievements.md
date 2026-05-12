@@ -8,7 +8,7 @@
 - CityU-PolyU Collegiate Programming Contest 2025 - 2nd Place
 - IEEEXtreme 19.0 Programming Competition - Hong Kong Champion
 - 2025 CityUHK(DG) Programming Contest - Bronze Medal
-- TCS CodeVita Season 13 Round 1 - Top 5% out of 140,000+ participants
+- TCS CodeVita Season 13 Round 1 - Top ~2.5% out of 140,000+ participants
 
 **2024**
 - The 2024 ICPC Asia Kunming Regional Contest - Bronze Medal
