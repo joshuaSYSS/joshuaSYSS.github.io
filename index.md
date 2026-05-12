@@ -67,14 +67,14 @@ I am highly interested in the design and analysis of algorithms across various t
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
 # SELECTED PROJECTS
+- [α-GraphDC: Setting a New State of the Art on NLGraph Under a 15B Parameter Budget](https://www.kaggle.com/code/kuiwangchoi/graphdc-sub-15b-76-9-accuracy-on-nlgraph) (May 2026)
+  * Outperformed all sub‑15B‑parameter models on NLGraph connectivity‑hard (76.9%)
+  * Used 4‑bit Qwen‑2.5‑14B‑Instruct — zero fine‑tuning, single‑GPU inference
+  * Demonstrates that structured guidance beats raw scale in constrained reasoning.
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac), Sep 2025 - Jan 2026)
   * An application that recommends a new recipe based on their favorite dishes
   * Selection from a database with 41 dishes and 9 attributes
   * Implemented Weighted Jaccard Similarity to achieve O(n^2)
-- [reversiAI](https://github.com/joshuaSYSS/reversiAI) (With [Harry CHOI](https://github.com/Metamorphosis1116), Jan 2026)
-  * A minimax-based AI competing in Reversi (Othello)
-  * Probabilistic Heuristic-based minimax with an average search depth of 8
-  * Obtained an elo of 1214
 
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
