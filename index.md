@@ -57,7 +57,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - Bright Future Whole Person Development Scholarship 2025/2026, HKD 181,000
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10,000
 
-# ACHIEVEMENTS
+# SELECTED ACHIEVEMENTS
 - 2026 ICPC National Invitation Tournament (Shenzhen) - Bronze Medal (Apr 2026)
 - International Invitational Math Optimization Challenge 2025 - Gold Award (8th place out of 209 teams) (Dec 2025)
 - IEEEXtreme 19.0 Programming Competition - Hong Kong Champion (Oct 2025)
@@ -69,8 +69,8 @@ I am highly interested in the design and analysis of algorithms across various t
 # SELECTED PROJECTS
 - [α-GraphDC: Setting a New State-of-the-Art on NLGraph Under a 15B Parameter Budget](https://www.kaggle.com/code/kuiwangchoi/graphdc-sub-15b-76-9-accuracy-on-nlgraph) (May 2026)
   * Outperformed all sub‑15B‑parameter models on NLGraph connectivity‑hard (76.9%)
-  * Used 4‑bit Qwen‑2.5‑14B‑Instruct — zero fine‑tuning, single‑GPU inference
-  * Demonstrates that structured guidance beats raw scale in constrained reasoning.
+  * Used 4‑bit Qwen‑2.5‑14B‑Instruct with zero fine‑tuning
+  * Demonstrates that structured guidance beats raw scale in constrained reasoning
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac), Sep 2025 - Jan 2026)
   * An application that recommends a new recipe based on their favorite dishes
   * Selection from a database with 41 dishes and 9 attributes
