@@ -15,7 +15,8 @@
   * Obtained the 297th place in the Ludum Dare 52 theme category
 
 ## Natural Language Processing
-- [α-GraphDC: Setting a New State of the Art on NLGraph Under a 15B Parameter Budget](https://www.kaggle.com/code/kuiwangchoi/graphdc-sub-15b-76-9-accuracy-on-nlgraph) (May 2026)
+- [α-GraphDC: Setting a New State of the Art on NLGraph Under a 15B Parameter Budget](https://www.kaggle.com/code/kuiwangchoi/graphdc-sub-15b-76-9-accuracy-on-nlgraph)
+- [CAVS: Consensus-based AI Verification System](https://www.kaggle.com/code/kuiwangchoi/cavs-consensus-based-ai-verification-system) (With JC2066 Sem B Group 1)
 - [Term Frequency–Inverse Document Frequency C++ Library](https://github.com/joshuaSYSS/tfidf)
 
 ## Software Development
