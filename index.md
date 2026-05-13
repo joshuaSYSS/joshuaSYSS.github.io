@@ -71,6 +71,9 @@ I am highly interested in the design and analysis of algorithms across various t
   * Outperformed all sub‑15B‑parameter models on NLGraph connectivity‑hard (76.9%)
   * Used 4‑bit Qwen‑2.5‑14B‑Instruct with zero fine‑tuning
   * Demonstrates that structured guidance beats raw scale in constrained reasoning
+- [CAVS: Consensus-based AI Verification System](https://www.kaggle.com/code/kuiwangchoi/cavs-consensus-based-ai-verification-system) (With JC2066 Sem B Group 1, Jan 2026 - Apr 2026)
+  * Led a team of 6 in this prototype creation
+  * Resolved copyright infringement in AIGC images
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac), Sep 2025 - Jan 2026)
   * An application that recommends a new recipe based on their favorite dishes
   * Selection from a database with 41 dishes and 9 attributes
