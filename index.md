@@ -74,10 +74,6 @@ I am highly interested in the design and analysis of algorithms across various t
 - [CAVS: Consensus-based AI Verification System](https://www.kaggle.com/code/kuiwangchoi/cavs-consensus-based-ai-verification-system) (With JC2066 Sem B Group 1, Jan 2026 - Apr 2026)
   * Led a team of 6 in this prototype creation
   * Resolved copyright infringement in AIGC images
-- [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac), Sep 2025 - Jan 2026)
-  * An application that recommends a new recipe based on their favorite dishes
-  * Selection from a database with 41 dishes and 9 attributes
-  * Implemented Weighted Jaccard Similarity to achieve O(n^2)
 
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
