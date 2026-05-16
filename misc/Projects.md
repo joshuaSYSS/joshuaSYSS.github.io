@@ -21,7 +21,7 @@
 
 ## Software Development
 - [Alpha Compositing](https://github.com/joshuaSYSS/Alpha-Compositing)
-- ETL Pipeline ([Github Link](https://github.com/joshuaSYSS/Weather-ETL-Pipeline), [Streamlit App](https://hk-observator-weather-etl-pipeline.streamlit.app/))
+- Hong Kong Weather ETL Pipeline ([Github Link](https://github.com/joshuaSYSS/Weather-ETL-Pipeline), [Streamlit App](https://hk-observator-weather-etl-pipeline.streamlit.app/))
 - Pricing Club Simulation
 - [TofuSwap](https://github.com/ABCD2024-TEAM/TofuSwap) (With [Andy CHENG](https://github.com/iceheart-ac))
 
