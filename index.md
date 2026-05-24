@@ -70,7 +70,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - [α-GraphDC: Setting a New State-of-the-Art on NLGraph Under a 15B Parameter Budget](https://www.kaggle.com/code/kuiwangchoi/graphdc-sub-15b-76-9-accuracy-on-nlgraph) (May 2026)
   * Achieved new State-of-the-Art (76.9% accuracy) on NLGraph connectivity-hard benchmark, outperforming all sub-15B models
   * Engineered structured prompting and graph decomposition techniques using 4-bit quantized Qwen-2.5-14B-Instruct without any fine-tuning
-- [CAVS: Consensus-based AI Verification System](https://www.kaggle.com/code/kuiwangchoi/cavs-consensus-based-ai-verification-system) (With JC2066 Sem B Group 1, Jan 2026 - Apr 2026)
+- [CAVS: Consensus-based AI Verification System](https://www.kaggle.com/code/kuiwangchoi/cavs-consensus-based-ai-verification-system) (Jan 2026 - Apr 2026)
   * Led a 6‑person team to build a copyright verification prototype for AIGC images.
   * Designed a consensus algorithm using Python with 3 LLM judges (Stable Diffusion, OpenJourney, Segmind Tiny SD), achieving 70% agreement with copyrightable prompts
 - [Hong Kong Weather ETL Pipeline](https://hk-observator-weather-etl-pipeline.streamlit.app/) (May 2026 - Jun 2026)
