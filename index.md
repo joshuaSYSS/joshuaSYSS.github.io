@@ -17,13 +17,15 @@ I am highly interested in the design and analysis of algorithms across various t
   * Table Tennis School Team Member (2019 - 2024)
 
 # RESEARCH EXPERIENCE
-- Undergraduate Research Student, Prof. Bo Li's Group, Department of Computing, PolyU, Hong Kong (Feb 2026 - Present)
-  * Supervised by Prof. Bo Li
-  * Research Topic: Fair Division, Computational Social Choice, Theory of Computing
 - Undergraduate Research Student, Prof. Minming Li's Group, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by Prof. Minming Li
   * Research Topic: Fair Division, Computational Social Choice, Mechanism Design
+- Undergraduate Research Student, Prof. Bo Li's Group, Department of Computing, PolyU, Hong Kong (Feb 2026 - Present)
+  * Supervised by Prof. Bo Li
+  * Research Topic: Fair Division, Computational Social Choice, Theory of Computing
 - DIMACS, Rutgers University, New Jersey, United States (May 2026 - Jul 2026)
+  * Supervised by Prof. Arpita Biswas and Prof. Lirong Xia
+  * Research Topic: Fair Division, Computational Social Choice, Mechanism Design
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
   * Supervised by Prof. Jing Liao
   * Research Topic: AI Painting
