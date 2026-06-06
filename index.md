@@ -51,7 +51,7 @@ I am highly interested in the design and analysis of algorithms across various t
 <!--# PUBLICATIONS-->
 
 # PREPRINTS
-- **Kui-Wang Choi** and Minming Li (2026), _Temporal Fair Division of Indivisible Goods with Scheduling_. arXiv:2601.12835 [[arXiv](https://arxiv.org/abs/2601.12835)]
+- **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Scheduling_ [[arXiv](https://arxiv.org/abs/2601.12835)]
 
 # SCHOLARSHIPS
 - Bright Future Whole Person Development Scholarship 2025/2026, HKD 181,000
