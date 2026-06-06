@@ -48,9 +48,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Nominated by the Department of Mathematics
   * Tutored 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
 
-<!--# CONFERENCES/JOURNALS PUBLICATIONS-->
-
-<!--# WORKSHOPS PUBLICATIONS-->
+<!--# PUBLICATIONS-->
 
 # PREPRINTS
 - **Kui-Wang Choi** and Minming Li (2026), _Temporal Fair Division of Indivisible Goods with Scheduling_. arXiv:2601.12835 [[arXiv](https://arxiv.org/abs/2601.12835)]
