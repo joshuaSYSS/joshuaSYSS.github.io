@@ -50,7 +50,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 <!--# PUBLICATIONS-->
 
-# PREPRINTS
+# PREPRINTS & NOTES
 - **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Scheduling_ [[arXiv](https://arxiv.org/abs/2601.12835)]
 
 # SCHOLARSHIPS
@@ -77,7 +77,6 @@ I am highly interested in the design and analysis of algorithms across various t
   * Assembled an Extract-Transform-Load pipeline from the Hong Kong Observatory API using Python, SQL, Pandas, Docker, and Streamlit
   * Visualized and displayed temperatures using an interactive map for 25+ locations in Hong Kong
   * Ensured 100% schema consistency by automating the pipeline for the database each run
-
 
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
