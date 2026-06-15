@@ -18,16 +18,16 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # RESEARCH EXPERIENCE
 - Undergraduate Research Student, Prof. Minming Li's Group, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
-  * Supervised by Prof. Minming Li
-  * Research Topic: Fair Division, Computational Social Choice, Mechanism Design
+  * Supervised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
+  * Research Keywords: Fair Division, Computational Social Choice, Mechanism Design
 - Undergraduate Research Student, Prof. Bo Li's Group, Department of Computing, PolyU, Hong Kong (Feb 2026 - Present)
-  * Supervised by Prof. Bo Li
-  * Research Topic: Fair Division, Computational Social Choice, Theory of Computing
-- DIMACS, Rutgers University, New Jersey, United States (May 2026 - Jul 2026)
-  * Supervised by Prof. Arpita Biswas and Prof. Lirong Xia
-  * Research Topic: Fair Division, Computational Social Choice, Mechanism Design
+  * Supervised by [Prof. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/)
+  * Research Keywords: Fair Division, Computational Social Choice, Theory of Computing
+- DIMACS REU, Rutgers University, New Jersey, United States (May 2026 - Jul 2026)
+  * Supervised by [Prof. Arpita Biswas](https://sites.google.com/view/arpitabiswas) and [Prof. Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/)
+  * Research Topic: Strategic Fair Division
 - Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
-  * Supervised by Prof. Jing Liao
+  * Supervised by [Prof. Jing Liao](https://scholars.cityu.edu.hk/en/persons/jingliao/)
   * Research Topic: AI Painting
   * Learnt and researched about state-of-the-art image and video generation models
   * Had hands-on experience with LoRA and Stable Diffusion
@@ -35,7 +35,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # WORK EXPERIENCE
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Jun 2026)
-  * Supervised by Prof. Martin Lai
+  * Supervised by [Prof. Martin Lai](https://www.cityu.edu.hk/slw/about-the-school/our-people/professor/professor-lai-sin-chit-martin)
   * Designed an interactive game simulating collusive pricing behavior based on good software design practices
   *	Developed a Windows application in C# through the Spiral Development Lifecycle
   *	Used by 16 participants in the course LW6161E
@@ -97,6 +97,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
 - [LinkedIn.com/in/choikuiwang](https://www.linkedin.com/in/choikuiwang)
 - [Google Scholar](https://scholar.google.com/citations?user=nqT6bzsAAAAJ)
+- [2026 DIMACS REU Personal Website](https://reu.dimacs.rutgers.edu/~kc1893/)
 
 # PERSONAL INFORMATION
 ## Where Am I?
