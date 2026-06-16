@@ -50,6 +50,7 @@ I am highly interested in the design and analysis of algorithms across various t
 <!--# PUBLICATIONS-->
 
 # PREPRINTS & NOTES
+- **Kui-Wang Choi** (2026) _Verification of Stochastic Dominance Envy-Freeness in Time Proportional to Input Size_ [[arXiv](https://arxiv.org/abs/2606.16816)]
 - **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Scheduling_ [[arXiv](https://arxiv.org/abs/2601.12835)]
 
 # SCHOLARSHIPS
