@@ -13,6 +13,7 @@
 **2024**
 - The 2024 ICPC Asia Kunming Regional Contest - Bronze Medal
 - The 2024 ICPC Asia Hong Kong Regional Contest - Bronze Medal
+- CityU Competitive Programming Training Team Selection 2024 - 3rd Place
 
 **2023**
 - Hong Kong Secondary School Coding Challenge 2023 - Bronze Medal
