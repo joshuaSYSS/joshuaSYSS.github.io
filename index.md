@@ -82,8 +82,8 @@ I am highly interested in the design and analysis of algorithms across various t
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
 # LEADERSHIPS AND COMMUNITY SERVICES
-- Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - Present)
-- Founder & Lead Researcher, Social Logic, Hong Kong (Mar 2026 - Present)
+- Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - July 2026)
+- Founder & Lead Researcher, Social Logic, Hong Kong (Mar 2026 - May 2026)
   * An independent computational research initiative leveraging Algorithmic Game Theory and Mechanism Design to analyze and optimize Hong Kong’s socio-economic frameworks.
   * [Visit our website](https://social-logic.github.io/).
 - HKSC Database Mini Competition Logistics Volunteer (Apr 2026)
