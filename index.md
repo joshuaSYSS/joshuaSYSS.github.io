@@ -18,10 +18,10 @@ I am highly interested in the design and analysis of algorithms across various t
 # RESEARCH EXPERIENCE
 - Undergraduate Research Student, Prof. Minming Li's Group, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
-  * Research Keywords: Fair Division, Computational Social Choice
+  * Research Keywords: Resource Allocation, Fair Division, Algorithmic Game Theory
 - Undergraduate Research Student, Prof. Bo Li's Group, Department of Computing, PolyU, Hong Kong (Feb 2026 - Present)
   * Supervised by [Prof. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/)
-  * Research Keywords: Fair Division, Computational Social Choice, Theory of Computing
+  * Research Keywords: Resource Allocation, Fair Division, Algorithmic Game Theory, Theory of Computing
 - Visiting Scholar, DIMACS REU, Rutgers University, New Jersey, United States (May 2026 - Jul 2026)
   * Supervised by [Prof. Arpita Biswas](https://sites.google.com/view/arpitabiswas) and [Prof. Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/)
   * Research Topic: Strategic Fair Division
