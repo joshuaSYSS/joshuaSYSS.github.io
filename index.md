@@ -18,7 +18,7 @@ I am highly interested in the design and analysis of algorithms across various t
 # RESEARCH EXPERIENCE
 - Undergraduate Research Student, Prof. Minming Li's Group, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
-  * Research Keywords: Fair Division, Computational Social Choice, Mechanism Design
+  * Research Keywords: Fair Division, Computational Social Choice
 - Undergraduate Research Student, Prof. Bo Li's Group, Department of Computing, PolyU, Hong Kong (Feb 2026 - Present)
   * Supervised by [Prof. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/)
   * Research Keywords: Fair Division, Computational Social Choice, Theory of Computing
