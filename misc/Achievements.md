@@ -4,7 +4,6 @@
 - 2026 ICPC National Invitation Tournament (Shenzhen) - Bronze Medal
 - ClashCode – The Ultimate Coding Battle - 18th place out of 283 participants
 - TCS CodeVita Season 13 - Top ~2.5% out of 140,000+ participants
-- The Second IMC Challenge sponsored by Huawei - Honourable Mention
 
 **2025**
 - CityU-PolyU Collegiate Programming Contest 2025 - 2nd Place
@@ -25,6 +24,9 @@
 - Hong Kong Secondary School Coding Challenge 2022 - Finalist
 
 ## Mathematics
+**2026**
+- The Second IMC Challenge sponsored by Huawei - Honourable Mention
+
 **2025**
 - International Invitational Math Optimization Challenge 2025 - Gold Award (8th place out of 209 teams)
 
