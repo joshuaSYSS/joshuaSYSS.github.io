@@ -61,7 +61,7 @@ In chronological order
 
 # SCHOLARSHIPS
 - Bright Future Whole Person Development Scholarship 2025/2026, HKD 181,000
-- HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship, HKD 10,000
+- HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship 2024/2025, HKD 10,000
 
 # SELECTED ACHIEVEMENTS
 In chronological order
