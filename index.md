@@ -9,6 +9,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - B.Sc. Computer Science, City University of Hong Kong, Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
   * Dean's List ×3
   * Competitive Programming School Team Member (2024 - Present)
+  * Competitive Programming School Team Captain (2026 - Present)
 - Sing Yin Secondary School, Hong Kong (Sep 2018 - May 2024)
   * 2023/24 1st in Mathematics (Extended Part - Module 1)
   * 2022/23 Youth Arch Student Improvement Award
