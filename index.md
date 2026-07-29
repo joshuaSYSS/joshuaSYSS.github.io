@@ -17,7 +17,6 @@ I am highly interested in the design and analysis of algorithms across various t
   * Table Tennis School Team Member (2019 - 2024)
 
 # RESEARCH EXPERIENCE
-In chronological order
 - Undergraduate Research Student, Prof. Minming Li's Group, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
   * Research Keywords: Resource Allocation, Fair Division, Algorithmic Game Theory
@@ -36,7 +35,6 @@ In chronological order
   * Produced a 30-second, entirely AI-generated video along with video editing techniques
 
 # WORK EXPERIENCE
-In chronological order
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Jun 2026)
   * Supervised by [Prof. Martin Lai](https://www.cityu.edu.hk/slw/about-the-school/our-people/professor/professor-lai-sin-chit-martin)
   * Designed an interactive game simulating collusive pricing behavior based on good software design practices
@@ -52,11 +50,9 @@ In chronological order
   * Tutored 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
 
 # PUBLICATIONS
-In chronological order
 - **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Structured Constraints_. International Symposium on Algorithmic Game Theory 2026 [[arXiv](https://arxiv.org/abs/2607.17224)]
 
 # PREPRINTS & NOTES
-In chronological order
 - **Kui-Wang Choi** (2026) _Verification of Stochastic Dominance Envy-Freeness in Time Proportional to Input Size_ [[arXiv](https://arxiv.org/abs/2606.16816)]
 - **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Scheduling_ [[arXiv](https://arxiv.org/abs/2601.12835)]
 
