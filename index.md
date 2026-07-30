@@ -88,8 +88,8 @@ In lexicographical order
 # LEADERSHIPS AND COMMUNITY SERVICES
 - Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - July 2026)
 - Founder & Lead Researcher, Social Logic, Hong Kong (Mar 2026 - Present)
-  * An independent computational research initiative leveraging Algorithmic Game Theory and Mechanism Design to analyze and optimize Hong Kong’s socio-economic frameworks.
-  * [Visit our website](https://social-logic.github.io/).
+  * An independent computational research initiative leveraging Algorithmic Game Theory and Mechanism Design to analyze and optimize Hong Kong’s socio-economic frameworks
+  * [Visit our website](https://social-logic.github.io/)
 - HKSC Database Mini Competition Logistics Volunteer (Apr 2026)
 
 # CERTIFICATES
