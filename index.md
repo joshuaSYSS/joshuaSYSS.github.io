@@ -17,25 +17,18 @@ I am highly interested in the design and analysis of algorithms across various t
   * Competitive Programming School Team Member (2021 - 2024)
   * Table Tennis School Team Member (2019 - 2024)
 
-# RESEARCH EXPERIENCE
+# EXPERIENCE
 - Undergraduate Research Student, Prof. Minming Li's Group, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
   * Research Keywords: Resource Allocation, Fair Division, Algorithmic Game Theory
 - Undergraduate Research Student, Prof. Bo Li's Group, Department of Computing, PolyU, Hong Kong (Feb 2026 - Present)
   * Supervised by [Prof. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/)
   * Research Keywords: Resource Allocation, Fair Division, Algorithmic Game Theory, Theory of Computing
+- Research Intern, Huawei Hong Kong Research Center, Hong Kong (Aug 2026 - May 2027)
 - Visiting Scholar, DIMACS REU, Rutgers University, New Jersey, United States (May 2026 - Jul 2026)
   * Supervised by [Prof. Arpita Biswas](https://sites.google.com/view/arpitabiswas) and [Prof. Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/)
   * Research Topic: Strategic Fair Division
   * Research Keywords: Resource Allocation, Fair Division, Algorithmic Game Theory, Mechanism Design
-- Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
-  * Supervised by [Prof. Jing Liao](https://scholars.cityu.edu.hk/en/persons/jingliao/)
-  * Research Topic: AI Painting
-  * Learnt and researched about state-of-the-art image and video generation models
-  * Had hands-on experience with LoRA and Stable Diffusion
-  * Produced a 30-second, entirely AI-generated video along with video editing techniques
-
-# WORK EXPERIENCE
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Jun 2026)
   * Supervised by [Prof. Martin Lai](https://www.cityu.edu.hk/slw/about-the-school/our-people/professor/professor-lai-sin-chit-martin)
   * Designed an interactive game simulating collusive pricing behavior based on good software design practices
@@ -49,6 +42,12 @@ I am highly interested in the design and analysis of algorithms across various t
 - PALSI Leader (MA1200 - Calculus and Basic Linear Algebra I), Talent and Education Development Office, CityU, Hong Kong (Sep 2025 - Dec 2025)
   * Nominated by the Department of Mathematics
   * Tutored 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
+- Summer Research Internship, Bright Future Engineering Talent Hub, College of Engineering, CityU, Hong Kong (Mar 2024 - Jul 2024)
+  * Supervised by [Prof. Jing Liao](https://scholars.cityu.edu.hk/en/persons/jingliao/)
+  * Research Topic: AI Painting
+  * Learnt and researched about state-of-the-art image and video generation models
+  * Had hands-on experience with LoRA and Stable Diffusion
+  * Produced a 30-second, entirely AI-generated video along with video editing techniques
 
 # PUBLICATIONS
 - **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Structured Constraints_. International Symposium on Algorithmic Game Theory 2026 [[arXiv](https://arxiv.org/abs/2607.17224)]
