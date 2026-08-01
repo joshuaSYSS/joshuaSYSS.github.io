@@ -85,14 +85,14 @@ In lexicographical order
 
 [Full List of My Projects](https://joshuasyss.github.io/misc/Projects)
 
-# LEADERSHIPS AND COMMUNITY SERVICES
-- Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - July 2026)
+# COMMUNITY SERVICES
 - Founder & Lead Researcher, Social Logic, Hong Kong (Mar 2026 - Present)
   * An independent computational research initiative leveraging Algorithmic Game Theory and Mechanism Design to analyze and optimize Hong Kong’s socio-economic frameworks
   * [Visit our website](https://social-logic.github.io/)
 - HKSC Database Mini Competition Logistics Volunteer (Apr 2026)
 
-# CERTIFICATES
+# CERTIFICATES & PROGRAMS
+- Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - July 2026)
 - Deloitte Australia Data Analytics Job Simulation, Forage (Mar 2026)
 - Datacom Software Development Job Simulation, Forage (Feb 2026)
 - MATLAB Programming Skills, MathWorks (Nov 2025)
