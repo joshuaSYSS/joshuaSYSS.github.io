@@ -58,6 +58,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # SCHOLARSHIPS
 - Bright Future Whole Person Development Scholarship 2025/2026, HKD 181,000
+- Lee Shau Kee Scholarships for Academic Outstanding Students 2025/2026, HKD 25,000
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship 2024/2025, HKD 10,000
 
 # SELECTED ACHIEVEMENTS
