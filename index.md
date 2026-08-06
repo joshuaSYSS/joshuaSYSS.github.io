@@ -13,7 +13,6 @@ I am highly interested in the design and analysis of algorithms across various t
   * Golden Key Club Member (2025 - Present)
 - Sing Yin Secondary School, Hong Kong (Sep 2018 - May 2024)
   * 2023/24 1st in Mathematics (Extended Part - Module 1)
-  * 2022/23 Youth Arch Student Improvement Award
   * Competitive Programming School Team Member (2021 - 2024)
   * Table Tennis School Team Member (2019 - 2024)
 
