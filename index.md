@@ -100,7 +100,6 @@ In lexicographical order
 - [Github.com/joshuaSYSS](https://github.com/joshuaSYSS)
 - [LinkedIn.com/in/choikuiwang](https://www.linkedin.com/in/choikuiwang)
 - [Google Scholar](https://scholar.google.com/citations?user=nqT6bzsAAAAJ)
-- [2026 DIMACS REU Personal Website](https://reu.dimacs.rutgers.edu/~kc1893/)
 
 # PERSONAL INFORMATION
 ## Where Am I?
