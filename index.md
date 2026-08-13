@@ -86,6 +86,7 @@ In lexicographical order
 - Founder & Lead Researcher, Social Logic, Hong Kong (Mar 2026 - Present)
   * An independent computational research initiative leveraging Algorithmic Game Theory and Mechanism Design to analyze and optimize Hong Kong’s socio-economic frameworks
   * [Visit our website](https://social-logic.github.io/)
+- Osijek Competitive Programming Camp Summer 2026 Helper (Aug 2026)
 - HKSC Database Mini Competition Logistics Volunteer (Apr 2026)
 
 # CERTIFICATES & PROGRAMS
