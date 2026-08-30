@@ -49,6 +49,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Structured Constraints_. International Symposium on Algorithmic Game Theory 2026 [[arXiv](https://arxiv.org/abs/2607.17224)]
 
 # PREPRINTS & NOTES
+- **Kui-Wang Choi**, Minming Li, Nicholas Teh (2026) _Temporal Fair Division of Indivisible Mixed Manna: Tractable Settings_ [[arXiv](https://arxiv.org/abs/2608.20033)]
 - **Kui-Wang Choi** (2026) _Verification of Stochastic Dominance Envy-Freeness in Time Proportional to Input Size_ [[arXiv](https://arxiv.org/abs/2606.16816)]
 - **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Scheduling_ [[arXiv](https://arxiv.org/abs/2601.12835)]
 
@@ -86,6 +87,7 @@ In lexicographical order
 - Founder & Lead Researcher, Social Logic, Hong Kong (Mar 2026 - Present)
   * An independent computational research initiative leveraging Algorithmic Game Theory and Mechanism Design to analyze and optimize Hong Kong’s socio-economic frameworks
   * [Visit our website](https://social-logic.github.io/)
+- 
 - Osijek Competitive Programming Camp Summer 2026 Helper (Aug 2026)
 - HKSC Database Mini Competition Logistics Volunteer (Apr 2026)
 
