@@ -21,6 +21,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Supervised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
   * Research Keywords: Resource Allocation, Fair Division, Algorithmic Game Theory
 - Research Intern, Huawei Hong Kong Research Center, Hong Kong (Aug 2026 - May 2027)
+  * Theory Department, Leibniz Research Center
 - Visiting Scholar, DIMACS REU, Rutgers University, New Jersey, United States (May 2026 - Jul 2026)
   * Supervised by [Prof. Arpita Biswas](https://sites.google.com/view/arpitabiswas) and [Prof. Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/)
   * Research Topic: Strategic Fair Division
