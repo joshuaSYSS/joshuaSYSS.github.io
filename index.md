@@ -32,7 +32,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # WORK EXPERIENCE
 - Research Intern, Huawei Hong Kong Research Center, Hong Kong (Aug 2026 - May 2027)
-  * Control and Optimization Group, Theory Department, Leibniz Research Center
+  * Optimization and Control Theory Team, Theory Lab, Leibniz Research Center, 2012 Labs
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Jun 2026)
   * Supervised by [Prof. Martin Lai](https://www.cityu.edu.hk/slw/about-the-school/our-people/professor/professor-lai-sin-chit-martin)
   * Designed an interactive game simulating collusive pricing behavior based on good software design practices
