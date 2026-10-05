@@ -25,7 +25,7 @@ I am highly interested in the design and analysis of algorithms across various t
 - Visiting Scholar, DIMACS REU, Rutgers University, New Jersey, United States (May 2026 - Jul 2026)
   * Supervised by [Prof. Arpita Biswas](https://sites.google.com/view/arpitabiswas) and [Prof. Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/)
   * Research Topic: Strategic Fair Division
-  * Research Keywords: Resource Allocation, Fair Division, Algorithmic Game Theory, Mechanism Design
+  * Research Keywords: Envy-freeness, Fair Allocation, Mechanism Design
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Jun 2026)
   * Supervised by [Prof. Martin Lai](https://www.cityu.edu.hk/slw/about-the-school/our-people/professor/professor-lai-sin-chit-martin)
   * Designed an interactive game simulating collusive pricing behavior based on good software design practices
