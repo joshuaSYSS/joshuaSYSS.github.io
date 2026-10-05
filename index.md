@@ -30,7 +30,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Had hands-on experience with LoRA and Stable Diffusion
   * Produced a 30-second, entirely AI-generated video along with video editing techniques
 
-# EXPERIENCE
+# WORK EXPERIENCE
 - Research Intern, Huawei Hong Kong Research Center, Hong Kong (Aug 2026 - May 2027)
   * Control and Optimization Group, Theory Department, Leibniz Research Center
 - Research Assistant, School of Law, CityU, Hong Kong (Jun 2025 - Jun 2026)
