@@ -8,13 +8,12 @@ I am highly interested in the design and analysis of algorithms across various t
 # EDUCATION
 - B.Sc. Computer Science, City University of Hong Kong, Hong Kong (Sep 2024 - Jun 2028 (Anticipated Graduation Date))
   * Dean's List ×3
-  * Competitive Programming School Team Member (2024 - Present)
-  * Competitive Programming School Team Captain (2026 - Present)
-  * Golden Key Club Member (2025 - Present)
+  * Competitive Programming School Team Captain
+  * Golden Key Club Member
 - Sing Yin Secondary School, Hong Kong (Sep 2018 - May 2024)
   * 2023/24 1st in Mathematics (Extended Part - Module 1)
-  * Competitive Programming School Team Member (2021 - 2024)
-  * Table Tennis School Team Member (2019 - 2024)
+  * Competitive Programming School Team Member
+  * Table Tennis School Team Member
 
 # RESEARCH EXPERIENCE
 - Undergraduate Research Student, Prof. Minming Li's Group, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
