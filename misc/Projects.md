@@ -14,6 +14,11 @@
 - [Harvest X Harvest](https://revolution-game.itch.io/harvest-x-harvest) (With [Sammy TAM](https://www.linkedin.com/in/sammy-tam-7701793a3/))
   * Obtained the 297th place in the Ludum Dare 52 theme category
 
+## Mathematics Programming Solver
+- [Decent Traveling Salesman Problem Solver (DTSP)](https://github.com/joshuaSYSS/DTSP) (Oct 2026)
+  * Used PyTorch to train a model for solving symmetric TSP efficiently and accurately.
+  * Obtained an average gap of 3.36% in TSPLIB benchmarks with not more than 100 cities.
+
 ## Natural Language Processing
 - [α-GraphDC: Setting a New State of the Art on NLGraph Under a 15B Parameter Budget](https://www.kaggle.com/code/kuiwangchoi/graphdc-sub-15b-76-9-accuracy-on-nlgraph) (May 2026)
 - [CAVS: Consensus-based AI Verification System](https://www.kaggle.com/code/kuiwangchoi/cavs-consensus-based-ai-verification-system) (With JC2066 Sem B Group 1, Jan 2026 - Apr 2026)
