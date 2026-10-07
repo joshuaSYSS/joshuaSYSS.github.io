@@ -69,12 +69,12 @@ In chronological order
 
 # SELECTED PROJECTS
 In lexicographical order
-- [α-GraphDC: Setting a New State-of-the-Art on NLGraph Under a 15B Parameter Budget](https://www.kaggle.com/code/kuiwangchoi/graphdc-sub-15b-76-9-accuracy-on-nlgraph) (May 2026)
-  * Achieved new State-of-the-Art (76.9% accuracy) on NLGraph connectivity-hard benchmark, outperforming all sub-15B models
-  * Engineered structured prompting and graph decomposition techniques using 4-bit quantized Qwen-2.5-14B-Instruct without any fine-tuning
 - [CAVS: Consensus-based AI Verification System](https://www.kaggle.com/code/kuiwangchoi/cavs-consensus-based-ai-verification-system) (Jan 2026 - Apr 2026)
   * Led a 6‑person team to build a copyright verification prototype for AIGC images.
   * Designed a consensus algorithm using Python with 3 LLM judges (Stable Diffusion, OpenJourney, Segmind Tiny SD), achieving 70% agreement with copyrightable prompts
+- [Decent Traveling Salesman Problem Solver](https://github.com/joshuaSYSS/DTSP) (Oct 2026)
+  * Used PyTorch to train a model for solving symmetric TSP efficiently and accurately.
+  * Obtained an average gap of 3.36% in TSPLIB benchmarks with not more than 100 cities.
 - [Hong Kong Weather ETL Pipeline](https://hk-observator-weather-etl-pipeline.streamlit.app/) (May 2026 - Jun 2026)
   * Assembled an Extract-Transform-Load pipeline from the Hong Kong Observatory API using Python, SQL, Pandas, Docker, and Streamlit
   * Visualized and displayed temperatures using an interactive map for 25+ locations in Hong Kong
