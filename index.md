@@ -62,6 +62,7 @@ I am highly interested in the design and analysis of algorithms across various t
 
 # SELECTED ACHIEVEMENTS
 In chronological order
+- The 2026 ICPC Online Challenge 1 powered by Huawei - #2549 out of 33953 (Top ~7.5%) (Aug 2026)
 - 2026 ICPC National Invitation Tournament (Shenzhen) - Bronze Medal (Apr 2026)
 - IEEEXtreme 19.0 Programming Competition - Hong Kong Champion (Oct 2025)
 
