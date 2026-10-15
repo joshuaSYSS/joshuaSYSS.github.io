@@ -48,7 +48,7 @@ I am highly interested in the design and analysis of algorithms across various t
   * Tutored 8 students on the course MA1200 - Calculus and Basic Linear Algebra I
 
 # PUBLICATIONS
-- **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Structured Constraints_. International Symposium on Algorithmic Game Theory 2026 [[arXiv](https://arxiv.org/abs/2607.17224)]
+- **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Structured Constraints_. International Symposium on Algorithmic Game Theory 2026 [[arXiv](https://arxiv.org/abs/2607.17224)] [[Springer](https://link.springer.com/chapter/10.1007/978-3-032-38782-0_6)]
 
 # PREPRINTS & NOTES
 - **Kui-Wang Choi**, Minming Li, Nicholas Teh (2026) _Temporal Fair Division of Indivisible Mixed Manna: Tractable Settings_ [[arXiv](https://arxiv.org/abs/2608.20033)]
