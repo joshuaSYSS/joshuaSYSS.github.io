@@ -51,11 +51,13 @@ I am highly interested in the design and analysis of algorithms across various t
 - **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Structured Constraints_. International Symposium on Algorithmic Game Theory 2026 [[arXiv](https://arxiv.org/abs/2607.17224)] [[Springer](https://link.springer.com/chapter/10.1007/978-3-032-38782-0_6)]
 
 # PREPRINTS & NOTES
+In chronological order
 - **Kui-Wang Choi**, Minming Li, Nicholas Teh (2026) _Temporal Fair Division of Indivisible Mixed Manna: Tractable Settings_ [[arXiv](https://arxiv.org/abs/2608.20033)]
 - **Kui-Wang Choi** (2026) _Verification of Stochastic Dominance Envy-Freeness in Time Proportional to Input Size_ [[arXiv](https://arxiv.org/abs/2606.16816)]
 - **Kui-Wang Choi** and Minming Li (2026) _Temporal Fair Division of Indivisible Goods with Scheduling_ [[arXiv](https://arxiv.org/abs/2601.12835)]
 
 # SCHOLARSHIPS
+In scholarship monetary value order
 - Bright Future Whole Person Development Scholarship 2025/2026, HKD 181,000
 - Lee Shau Kee Scholarships for Academic Outstanding Students 2025/2026, HKD 25,000
 - HKSAR Government Scholarship Fund (Non-Academic Awards) – Talent Development Scholarship 2024/2025, HKD 10,000
