@@ -16,9 +16,11 @@ I am highly interested in the design and analysis of algorithms across various t
   * Table Tennis School Team Member
 
 # RESEARCH EXPERIENCE
-- Undergraduate Research Student, Prof. Minming Li's Group, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
+- Undergraduate Researcher, Prof. Minming Li's Group, Department of Computer Science, CityU, Hong Kong (Jul 2025 - Present)
   * Supervised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
   * Research Keywords: Resource Allocation, Fair Division, Algorithmic Game Theory
+- Visiting Undergraduate Researcher, Prof. Huang Xin's Group, Kyushu University, Kyushu, Japan (Jun 2027 - Jul 2027)
+- Visiting Undergraduate Researcher, Prof. Warut Suksompong's Group, National University of Singapore, Singapore (Aug 2027 - Aug 2027)
 - Visiting Scholar, DIMACS REU, Rutgers University, New Jersey, United States (May 2026 - Jul 2026)
   * Supervised by [Prof. Arpita Biswas](https://sites.google.com/view/arpitabiswas) and [Prof. Lirong Xia](https://people.cs.rutgers.edu/~lirong.xia/)
   * Research Topic: Strategic Fair Division
