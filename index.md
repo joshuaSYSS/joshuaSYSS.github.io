@@ -66,7 +66,7 @@ In scholarship monetary value order
 
 # SELECTED ACHIEVEMENTS
 In chronological order
-- The 2026 ICPC Online Challenge 1 powered by Huawei - #2549 out of 33953 (Top ~7.5%) (Aug 2026)
+- The 12th China Collegiate Programming Contest, Leshan - Bronze Medal (Nov 2026)
 - 2026 ICPC National Invitation Tournament (Shenzhen) - Bronze Medal (Apr 2026)
 - IEEEXtreme 19.0 Programming Competition - Hong Kong Champion (Oct 2025)
 
