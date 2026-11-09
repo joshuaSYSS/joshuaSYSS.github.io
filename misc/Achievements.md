@@ -1,7 +1,8 @@
 # Achievements
 ## Competitive Programming
 **2026**
-- The 2026 ICPC Online Challenge 1 powered by Huawei - #2549 out of 33953 (Top ~7.5%) (Aug 2026)
+- The 12th China Collegiate Programming Contest, Leshan - Bronze Medal
+- The 2026 ICPC Online Challenge 1 powered by Huawei - #2549 out of 33953 (Top ~7.5%)
 - 2026 ICPC National Invitation Tournament (Shenzhen) - Bronze Medal
 - ClashCode – The Ultimate Coding Battle - 18th place out of 283 participants
 - TCS CodeVita Season 13 - Top ~2.5% out of 140,000+ participants
