@@ -69,6 +69,8 @@ In chronological order
 - The 12th China Collegiate Programming Contest, Leshan - Bronze Medal (Nov 2026)
 - 2026 ICPC National Invitation Tournament (Shenzhen) - Bronze Medal (Apr 2026)
 - IEEEXtreme 19.0 Programming Competition - Hong Kong Champion (Oct 2025)
+- The 2024 ICPC Asia Hong Kong Regional Contest - Bronze Medal (Dec 2024)
+- The 2024 ICPC Asia Kunming Regional Contest - Bronze Medal (Dec 2024)
 
 [Full List of My Achievements](https://joshuasyss.github.io/misc/Achievements)
 
