@@ -98,10 +98,8 @@ In lexicographical order
 - HKSC Database Mini Competition Logistics Volunteer (Apr 2026)
 
 # CERTIFICATES & PROGRAMS
-- Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - July 2026)
+- Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - Jul 2026)
 - Deloitte Australia Data Analytics Job Simulation, Forage (Mar 2026)
-- Datacom Software Development Job Simulation, Forage (Feb 2026)
-- MATLAB Programming Skills, MathWorks (Nov 2025)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 
 # AFFILIATED WEBSITES
