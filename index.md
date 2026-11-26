@@ -99,7 +99,7 @@ In lexicographical order
 
 # CERTIFICATES & PROGRAMS
 - Leadership Horizons Programme 2025-26 by LinkedIn Learning (Apr 2026 - Jul 2026)
-- Deloitte Australia Data Analytics Job Simulation, Forage (Mar 2026)
+- Intro to Machine Learning, Kaggle (Nov 2026)
 - Google Data Analytics Professional Certificate, Coursera (Aug 2025)
 
 # AFFILIATED WEBSITES
