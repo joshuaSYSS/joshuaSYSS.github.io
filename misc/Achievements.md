@@ -27,6 +27,7 @@
 
 ## Mathematics
 **2026**
+- 6th Iranian Combinatorics Olympiad - Silver Medal (Open Level)
 - The Second IMC Challenge sponsored by Huawei - Honourable Mention
 
 **2025**
