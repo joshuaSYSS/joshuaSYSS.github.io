@@ -66,7 +66,6 @@ In scholarship monetary value order
 
 # SELECTED ACHIEVEMENTS
 In chronological order
-- 6th Iranian Combinatorics Olympiad - National Silver Medal (Open Level) (Nov 2026)
 - The 12th China Collegiate Programming Contest, Leshan - Bronze Medal (Nov 2026)
 - 2026 ICPC National Invitation Tournament (Shenzhen) - Bronze Medal (Apr 2026)
 - IEEEXtreme 19.0 Programming Competition - Hong Kong Champion (Oct 2025)
